@@ -1,0 +1,19 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{List of Tables}{\EnsureStandardFontEncoding {v}}{section*.1}%
+\contentsline {chapter}{List of Figures}{\EnsureStandardFontEncoding {vi}}{section*.2}%
+\contentsline {chapter}{Listings}{\EnsureStandardFontEncoding {vii}}{section*.2}%
+\contentsline {chapter}{Acronyms}{\EnsureStandardFontEncoding {vii}}{section*.2}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Objectives}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Outline}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Introduzione generale}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Principi generali}{5}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Il barometro}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Generalit\`a}{7}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Forma del barometro}{7}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Del mercurio}{8}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Primo capitolo della seconda parte}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}How to}{11}{section.4.1}%

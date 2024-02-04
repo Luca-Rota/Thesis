@@ -1,0 +1,132 @@
+\documentclass[
+	12pt,
+  twoside,
+  stile=classica,
+  oldstyle,
+  tipotesi=magistrale,
+  numerazioneromana,
+  greek,
+  evenboxes,
+  cucitura=7mm
+]{toptesi}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+
+\usepackage{hyperref}
+\hypersetup{
+    pdfpagemode={UseOutlines},
+    bookmarksopen,
+    pdfstartview={FitH},
+    colorlinks,
+    linkcolor={blue},
+    citecolor={red},
+    urlcolor={blue}
+  }
+
+\usepackage{lipsum} 
+\usepackage{amsmath, amssymb}
+\usepackage{appendix}
+\usepackage{longtable}
+\usepackage{lscape}
+\usepackage{adjustbox}
+\usepackage{float}
+\usepackage{accsupp}
+\usepackage{parskip}
+\setlength{\parindent}{1em}
+
+\usepackage[acronym]{glossaries}
+
+\usepackage{geometry} 
+\newcommand\fillin[1][4cm]{\makebox[#1]{\dotfill}} 
+
+\usepackage{dcolumn}
+\newcolumntype{d}{D{.}{.}{-1} } 
+
+\usepackage{natbib} 
+\bibliographystyle{plainnat}
+
+\usepackage{afterpage}
+\newcommand\blankpage{
+    \null
+    \thispagestyle{empty}
+    \addtocounter{page}{-1}
+    \newpage
+    }
+
+\newtheorem{observation}{Observation}
+
+\input{./Contents/xml_style.tex}
+\input{./Contents/acronyms.tex}
+
+\makeglossaries
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\errorcontextlines=9
+\english
+\pagestyle{empty}
+
+\input{./Contents/title.tex} 
+
+\afterpage{\blankpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{./Contents/summary.tex}
+
+\input{./Contents/acknowledgements.tex}
+
+\afterpage{\blankpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\cleardoublepage
+\pagestyle{plain}
+
+\indici
+
+\listoftables
+
+\listoffigures
+
+\addcontentsline{toc}{chapter}{Listings}
+\lstlistoflistings
+
+\addcontentsline{toc}{chapter}{Acronyms}
+\printglossary[type=\acronymtype]
+
+\cleardoublepage
+\thispagestyle{empty}
+\mbox{}
+
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\mainmatter
+
+
+\include{chapters/chapter1}
+
+\input{./Chapters/chapter1_part2.tex}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\bibliography{references}
+
+
+
+\end{document}
+
