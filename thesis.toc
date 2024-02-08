@@ -2,18 +2,30 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{List of Tables}{\EnsureStandardFontEncoding {v}}{section*.1}%
-\contentsline {chapter}{List of Figures}{\EnsureStandardFontEncoding {vi}}{section*.2}%
-\contentsline {chapter}{Listings}{\EnsureStandardFontEncoding {vii}}{section*.2}%
-\contentsline {chapter}{Acronyms}{\EnsureStandardFontEncoding {vii}}{section*.2}%
+\contentsline {chapter}{List of Tables}{\EnsureStandardFontEncoding {vi}}{section*.1}%
+\contentsline {chapter}{List of Figures}{\EnsureStandardFontEncoding {vii}}{section*.2}%
+\contentsline {chapter}{Listings}{\EnsureStandardFontEncoding {viii}}{section*.2}%
+\contentsline {chapter}{Acronyms}{\EnsureStandardFontEncoding {viii}}{section*.2}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Objectives}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Outline}{2}{section.1.2}%
-\contentsline {chapter}{\numberline {2}Background}{3}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Identity}{5}{chapter.3}%
-\contentsline {chapter}{\numberline {4}SSI}{7}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Cryptography}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Cybersecurity}{11}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Framework}{13}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Integration}{15}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Conclusions}{17}{chapter.9}%
+\contentsline {chapter}{\numberline {2}The Blockchain Technology}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}What is the Blockchain}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Core Elements of Blockchain}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Blockchain Architecture}{4}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}How the Blockchain works}{5}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Transaction process}{5}{subsection.2.2.1}%
+\contentsline {paragraph}{Recording Transactions}{5}{section*.3}%
+\contentsline {paragraph}{Consensus Mechanism}{5}{section*.4}%
+\contentsline {subsection}{\numberline {2.2.2}Types of Consensus Mechanisms}{6}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Types and Advantages of Blockchains}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Comparative of Bitcoin and Ethereum}{6}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Bitcoin}{6}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Ethereum}{6}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {3}Identity}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {4}SSI}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Cryptography}{11}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Cybersecurity}{13}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Framework}{15}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Integration}{17}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Conclusions}{19}{chapter.9}%

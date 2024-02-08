@@ -1,0 +1,96 @@
+\chapter{The Blockchain Technology} \label{ch:Blockchain}
+
+In the current landscape, blockchain technology has attracted increasing global interest due to its promising applications and potential transformative impacts on various 
+sectors. Founded in 2008 by Satoshi Nakamoto as the mainstay of the Bitcoin system \cite{9752154}, blockchain has evolved from a simple ledger of financial transactions 
+to a fundamental technology that revolutionizes the way information is recorded, shared and managed within decentralized networks.
+
+\section{What is the Blockchain}
+
+The blockchain is a core technology that drives many decentralized systems offering transparency, trust and safety without having to have a central authority. It is 
+basically a distributed ledger that operates through the peer-to-peer \cite{9596538}, \cite{ibm_blockchain}. This section talks of the key components and architecture in 
+blockchain, revealing its fundamental features and operating principles.
+
+\subsection{Core Elements of Blockchain}
+
+The blockchain comprises several key elements essential to its functionality:
+
+\begin{itemize}
+  \item \textbf{Blocks}: A block is a basic unit comprising of transactional data. Every block is securely connected to the previous one; this connection creates a chain 
+  of blocks. The transactions within a block are cryptographically secured; hence, immutability and integrity \cite{9596538}, \cite{ibm_blockchain}.
+  \item \textbf{Transactions}: Transactions are diverse interactions in the blockchain network. These interactions are not limited to the financial transfers only; any 
+  piece of valuable information can be considered as a transaction and diffused within the network \cite{9752154}, \cite{9036241}.
+  \item \textbf{Decentralization}: Unlike centralized systems that depend on a single controlling authority, the blockchain is decentralized. It includes a web of 
+  interdependent nodes, each replicating the distributed registry. Resilience, transparency and no single points of failure are guaranteed by decentralization \cite{9596538}, \cite{9752154}.
+  \item \textbf{Consensus Mechanism}:  For verification and agreement of the state of a ledger, blockchain uses consensus mechanisms. The most common mechanism, \gls{pow}, 
+  requires miners to solve the complicated cryptographic puzzles in order to add new blocks on the chain. Consensus mechanisms ensure consensus among network participants 
+  to prevent attacks by malicious actors \cite{9596538}, \cite{9752154}.
+\end{itemize}
+
+\subsection{Blockchain Architecture}
+
+The structure of the system is carefully crafted to uphold its principles of decentralization, immutability and transparency;
+
+\begin{itemize}
+  \item \textbf{\gls{dlt}}: At the core of blockchain lies DLT, where all participants, in the network have access to a ledger of transactions. 
+  This shared ledger eliminates redundancy. Ensures that everyone has a trusted source of information across the network \cite{ibm_blockchain}, \cite{9752154}.
+  \item \textbf{Immutable Records}: One key feature of blockchain is its records immutability. Once a transaction is recorded on the ledger it cannot be. Tampered with. 
+  Any attempt to change a transaction requires adding an one preserving the integrity of data \cite{ibm_blockchain}.
+  \item \textbf{Smart Contracts}: Smart contracts are self executing contracts with predefined rules embedded within the blockchain. These contracts. Enforce agreements 
+  between parties speeding up transaction processing and reducing reliance on intermediaries \cite{ibm_blockchain}, \cite{9036241}.
+  \item \textbf{Security Measures}:  Cryptography plays a role in ensuring security by protecting transactions from tampering and fraud. Private key pairs authenticate. 
+  Enable secure digital identity management. Additionally cryptographic hashing guarantees data integrity and confidentiality \cite{9596538}, \cite{9036241}.
+  \item \textbf{Peer-to-Peer Network}: The blockchain functions using a network architecture where participants can directly communicate and interact. This decentralized 
+  structure promotes trust and resilience since transactions are verified and validated through consensus, among distributed nodes \cite{9752154}, \cite{9036241}.
+\end{itemize}
+
+\section{How the Blockchain works}
+
+The function of a blockchain system encompasses a complex chain of procedures that safeguard the  integrity, transparency, and security of transactions. In this section, 
+we delve into the fundamental mechanisms of blockchain.
+
+\subsection{Transaction process}
+
+\paragraph{Recording Transactions}
+
+\begin{enumerate}
+    \item \textbf{Starting a Transaction:} In a network, users initiate transactions through their wallets. Each wallet has a pair of keys. A key, for starting transactions 
+    and a private key for authentication \cite{9596538}.
+    \item \textbf{Creating Blocks:} As transactions take place they are grouped together into blocks of data. These blocks act as containers for recording details like 
+    asset movement participants involved and timestamps \cite{ibm_blockchain}.
+    \item \textbf{Hashing:} Every block contains information and refers to the hash of the previous block. Secure hash functions like SHA 256 play a role in ensuring the 
+    integrity and immutability of transactions. Hashing allows each block to have a fingerprint making identification and verification simple \cite{ibm_blockchain} ,\cite{9036241}.
+\end{enumerate}
+
+\paragraph{Consensus Mechanism}
+
+\begin{enumerate}
+    \setcounter{enumi}{3}
+    \item \textbf{Verification Process:} When a transaction is initiated the information is sent to a network of distributed peer, to peer nodes. These nodes work together 
+    to confirm the validity of transactions using consensus mechanisms \cite{9036241}, \cite{geeksforgeeks}.
+    \item \textbf{Formation of New Blocks:} Valid transactions are added to a \gls{mempool} where they wait to be included in a block. Miners, who are responsible 
+    for creating blocks solve cryptographic puzzles in order to mine blocks. This process, known as \gls{pow} requires resources and time \cite{9596538}, \cite{geeksforgeeks}.
+    \item \textbf{Consensus Algorithm:} In order to add a block to the blockchain nodes must agree on its validity through consensus algorithms. The miner who successfully 
+    creates a block is rewarded. Consensus algorithms ensure that all nodes are synchronized and in agreement, about the state of the blockchain \cite{geeksforgeeks}.
+    \item \textbf{Blockchain Integrity:} The interconnected nature of blocks ensures the immutability and integrity of the blockchain. Each block references the hash value 
+    of its predecessor making it practically impossible to tamper with transactions without altering blocks \cite{9596538} ,\cite{9036241}.
+\end{enumerate}
+
+\subsection{Types of Consensus Mechanisms}
+
+In the previous section we discussed an example of how blockchain uses a consensus mechanism called \gls{pow} \cite{9752154}, \cite{10037907}. However there are several 
+types of consensus mechanisms that can be used in a blockchain network. 
+
+In general, the two main types of consensus mechanisms are: \gls{pow} and \gls{pos}. With \gls{pow} miners solve puzzles to add new blocks, which requires significant 
+computational resources and time \cite{9752154}, \cite{10037907}. This is elaborated further in Section \ref{subsec:bitcoin}. On the hand \gls{pos} assigns the right 
+to create blocks based on participants cryptocurrency holdings providing benefits such, as energy efficiency and scalability advantages \cite{10037907}. Further information,
+about PoS can be found in Section \ref{subsec:ethereum}.
+
+There are also other consensus mechanisms beyond PoW and PoS; refer to the table for further details.
+
+\section{Types and Advantages of Blockchains}
+
+\section{Comparative of Bitcoin and Ethereum}
+
+\subsection{Bitcoin} \label{subsec:bitcoin}
+
+\subsection{Ethereum} \label{subsec:ethereum}

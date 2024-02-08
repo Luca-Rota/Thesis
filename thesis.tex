@@ -39,14 +39,16 @@
 
 \usepackage[acronym]{glossaries}
 
+
+
 \usepackage{geometry} 
 \newcommand\fillin[1][4cm]{\makebox[#1]{\dotfill}} 
 
 \usepackage{dcolumn}
 \newcolumntype{d}{D{.}{.}{-1} } 
 
-\usepackage{natbib} 
-\bibliographystyle{plainnat}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{references.bib}
 
 \usepackage{afterpage}
 \newcommand\blankpage{
@@ -100,7 +102,8 @@
 \lstlistoflistings
 
 \addcontentsline{toc}{chapter}{Acronyms}
-\printglossary[type=\acronymtype]
+\input{./Contents/acronyms.tex} 
+\printglossary[title={Acronyms}, type=\acronymtype]
 
 \cleardoublepage
 \thispagestyle{empty}
@@ -116,7 +119,7 @@
 
 \include{./Chapters/01/introduction.tex}
 
-\include{./Chapters/02/background.tex}
+\include{./Chapters/02/blockchain.tex}
 
 \include{./Chapters/03/identity.tex}
 
@@ -131,13 +134,10 @@
 \include{./Chapters/08/integration.tex}
 
 \include{./Chapters/09/conclusions.tex}
-
-citazionepernonavereerrore\cite{gal} 
-
-
+\gls{pot}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\bibliography{references}
+\printbibliography
 
 \end{document}

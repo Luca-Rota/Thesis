@@ -1,13 +1,256 @@
-\begin{thebibliography}{1}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem[Galilei(1612)]{gal}
-G.~Galilei.
-\newblock \emph{Nuovi studii sugli astri medicei}.
-\newblock Manuzio, 1612.
 
-\end{thebibliography}
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{geeksforgeeks}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f1e069787ece74531d112559945c6871}{%
+           family={{GeeksforGeeks}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhash}{f1e069787ece74531d112559945c6871}
+      \strng{bibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorbibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authornamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhash}{f1e069787ece74531d112559945c6871}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How does the Blockchain Work?}
+      \field{urlday}{8}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/how-does-the-blockchain-work/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/how-does-the-blockchain-work/
+      \endverb
+    \endentry
+    \entry{9752154}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c9c57868aa01c239850fac195a6ba33b}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Varun\bibnamedelima Chandra},
+           giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=db1d55b0479e52fdca6ecad029b72b7c}{%
+           family={Gabadia},
+           familyi={G\bibinitperiod},
+           given={Saheb},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f4966a70cd99eae6cd5d25e60bf3cd1d}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Menita},
+           giveni={M\bibinitperiod}}}%
+        {{hash=735df5900baff92b41e5ebf378b8f182}{%
+           family={Samdani},
+           familyi={S\bibinitperiod},
+           given={Krishna},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ac7ab6eacea524e87885687c9802bb6}
+      \strng{fullhash}{4cf3547af8960444300d90b1d956b027}
+      \strng{bibnamehash}{4ac7ab6eacea524e87885687c9802bb6}
+      \strng{authorbibnamehash}{4ac7ab6eacea524e87885687c9802bb6}
+      \strng{authornamehash}{4ac7ab6eacea524e87885687c9802bb6}
+      \strng{authorfullhash}{4cf3547af8960444300d90b1d956b027}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 International Conference on Computational Performance Evaluation (ComPE)}
+      \field{title}{An Intrinsic Review on Securitization using Blockchain}
+      \field{year}{2021}
+      \field{pages}{971\bibrangedash 976}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ComPE53109.2021.9752154
+      \endverb
+      \keyw{Costs;Supply chain management;Smart contracts;Authentication;Transforms;Real-time systems;Blockchains;Blockchain;Consensus Mechanism;Decentralized;Distributed;Hash;Immutability;Smart Contracts;Securitization}
+    \endentry
+    \entry{ibm_blockchain}{online}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Blockchain Technology}}
+      \field{urlday}{6}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/blockchain
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/blockchain
+      \endverb
+    \endentry
+    \entry{9596538}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=bc9c3ae3bf221029f4de6f220f73e048}{%
+           family={Kaushal},
+           familyi={K\bibinitperiod},
+           given={Rajesh\bibnamedelima Kumar},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=033e1978ba23825a196e6284416fcb4a}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Naveen},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e41a281ce04cc7a4ef93e066024c31b8}{%
+           family={Panda},
+           familyi={P\bibinitperiod},
+           given={Surya\bibnamedelima Narayan},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=cf46fd4fe08b518a52260214355c36a2}{%
+           family={Kukreja},
+           familyi={K\bibinitperiod},
+           given={Vinay},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee3f9620ae2798a8219991474aa74b66}
+      \strng{fullhash}{363317d589888458fc6107facfcd9241}
+      \strng{bibnamehash}{ee3f9620ae2798a8219991474aa74b66}
+      \strng{authorbibnamehash}{ee3f9620ae2798a8219991474aa74b66}
+      \strng{authornamehash}{ee3f9620ae2798a8219991474aa74b66}
+      \strng{authorfullhash}{363317d589888458fc6107facfcd9241}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 9th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)}
+      \field{title}{Immutable Smart Contracts on Blockchain Technology: Its Benefits and Barriers}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICRITO51393.2021.9596538
+      \endverb
+      \keyw{Costs;Power demand;Smart contracts;Supply chains;Companies;Blockchains;Smart transportation;Blockchain;Crypto-Currency;Smart Contracts}
+    \endentry
+    \entry{9036241}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=eef4fc03b645e6e49653987f23141c7e}{%
+           family={Sinha},
+           familyi={S\bibinitperiod},
+           given={Sheetal},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d68a60ac7d03c8a7c28ed2abced0a60f}{%
+           family={Kumkum},
+           familyi={K\bibinitperiod}}}%
+        {{hash=d8d7762784e972fd821768d1575b98a9}{%
+           family={Bathla},
+           familyi={B\bibinitperiod},
+           given={Ruchika},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b14c0e7b4fa890ccc1c69c58fd06c9c5}
+      \strng{fullhash}{b14c0e7b4fa890ccc1c69c58fd06c9c5}
+      \strng{bibnamehash}{b14c0e7b4fa890ccc1c69c58fd06c9c5}
+      \strng{authorbibnamehash}{b14c0e7b4fa890ccc1c69c58fd06c9c5}
+      \strng{authornamehash}{b14c0e7b4fa890ccc1c69c58fd06c9c5}
+      \strng{authorfullhash}{b14c0e7b4fa890ccc1c69c58fd06c9c5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 4th International Conference on Information Systems and Computer Networks (ISCON)}
+      \field{title}{Implementation of Blockchain in Financial Sector to Improve Scalability}
+      \field{year}{2019}
+      \field{pages}{144\bibrangedash 148}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ISCON47742.2019.9036241
+      \endverb
+      \keyw{Blockchain;Bitcoin;Information technology;Online banking;Applications of blockchain;benefits from blockchain;features of blockchain;security of blockchain}
+    \endentry
+    \entry{10037907}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=725998a8b3d176b7cf51dcc882a5e615}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xuesen},
+           giveni={X\bibinitperiod}}}%
+        {{hash=462000071d2911269dbeda9be1be4455}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Qinglei},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=f9bbd4ff6bc7ecebc4b3bce9c9391aa2}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xiaoxiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6d93fd263b8daae747e593a8fc1c4179}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Zhe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=60d371aac2ada8072914bd1b06d041ee}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Shuang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=78718140138e6b6fefd95e6d57faf1d7}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Desheng},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a741e617c641518034d0738e858d9d18}
+      \strng{fullhash}{fe8645ea8314906aa177d28cedc48ed9}
+      \strng{bibnamehash}{a741e617c641518034d0738e858d9d18}
+      \strng{authorbibnamehash}{a741e617c641518034d0738e858d9d18}
+      \strng{authornamehash}{a741e617c641518034d0738e858d9d18}
+      \strng{authorfullhash}{fe8645ea8314906aa177d28cedc48ed9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 9th International Forum on Electrical Engineering and Automation (IFEEA)}
+      \field{title}{Research on blockchain consensus algorithm for large-scale high-concurrency power transactions}
+      \field{year}{2022}
+      \field{pages}{1221\bibrangedash 1225}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/IFEEA57288.2022.10037907
+      \endverb
+      \keyw{Sharding;Scalability;Consensus algorithm;Parallel processing;Writing;Throughput;Power markets;energy field;blockchain;consensus algorithm}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
