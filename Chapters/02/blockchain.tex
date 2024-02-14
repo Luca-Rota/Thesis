@@ -50,7 +50,7 @@ we delve into the fundamental mechanisms of blockchain.
 
 \subsection{Transaction process}
 
-\paragraph{Recording Transactions}
+\paragraph{Recording transactions}
 
 \begin{enumerate}
     \item \textbf{Starting a Transaction:} In a network, users initiate transactions through their wallets. Each wallet has a pair of keys. A key, for starting transactions 
@@ -75,22 +75,147 @@ we delve into the fundamental mechanisms of blockchain.
     of its predecessor making it practically impossible to tamper with transactions without altering blocks \cite{9596538} ,\cite{9036241}.
 \end{enumerate}
 
+\subsection{Blockchain Benefits}
+
+Due to the execution process described above and its architecture, blockchain is able to offer many benefits in different areas:
+
+\begin{itemize}
+  \item \textbf{Greater Trust:} Blockchain helps establish trust across the network through utilizing the decentralized ledger, making sure that data is consistent and 
+  timely plus, it doesn’t require intermediaries \cite{9596538}. 
+  \item \textbf{Enhanced Security:} Blockchain's security features are designed to thwart tampering as well as cybercrime. The blockchain structures transactions as 
+  read-only data which is difficult to change and ensures that the data is protected even when it is in transit. Moreover, cryptography is used as a mechanism of 
+  verification and the cryptographic infrastructure is used to store and transmit secrets \cite{ibm_blockchain}.
+  \item \textbf{Time Savings:} The utilization of blockchain technology decreases greatly the processing time for transactions since they get completed within a quarter of 
+  an hour due to the removal of the centralized authority that confirms \cite{ibm_blockchain}.
+  \item \textbf{Cost Savings:} The blockchain adjusts transaction procedure and lowers operational costs by the removal of intermediaries, as tasks are automated and there 
+  is lower duplication of activities through the usage of shared ledger \cite{9596538}, \cite{9036241}.
+  \item \textbf{Efficiency Improvements:} The distributed architecture of blockchain increases system resilience, decreases processing costs, and removes the need for 
+  centralized network control by distributing network operations thinly, facilitating faster settlements, and solving identity management issues \cite{9036241}.
+  \item \textbf{Transparency Enhancement:} A blockchain keeps a permanent record of transactions through which it delivers transparency, accountability and trust to the 
+  network users via its chronological and transparent nature \cite{9036241}.
+\end{itemize}
+
+\section{Blockchain Classification}
+
+\subsection{Types of Blockchains}
+
+The blockchain technology comes in various forms, each with unique characteristics that adapt to specific needs and application contexts Beyond the well-known public and 
+private blockchains, it's essential to recognize two other significant variants: hybrid chains and consortium chains.
+
+\begin{itemize}
+  \item \textbf{Public Blockchain (Permissionless):} A public blockchain is open to everybody who wants to interact and contribute to the consensus protocol, e.g., Bitcoin. 
+  This model provides a high degree of transparency though, it is susceptible to 51\% attacks. Its open nature fosters a distrustful environment, as no one individual or 
+  entity is solely relied on for transaction validation \cite{9596538}, \cite{ibm_blockchain}.
+  \item \textbf{Private Blockchain (Permissioned):} In contrast to public blockchains, private or permissioned (access is restricted to authorized entities) blockchains 
+  allow only a limited set of entities to access the network. This method is popular among situations that demand more of such features such as security as well as control 
+  where it gets applied in applications like financial transactions that also handle sensitive data. An access to the network is controlled by a single entity or by 
+  particular criteria \cite{9596538},\cite{9036241}.
+  \item \textbf{Hybrid Blockchain:} Hybrid blockchains, on the other hand, are described by the property of switching between different modes having different types of 
+  operating systems, for example, public and private blockchains that suit specific needs. This approach provides a greater degree of flexibility and customization compared 
+  to conventional blockchain configurations; thereby, the actors have the option to decide the degree of decentralization and control that is suitable for them \cite{9596538}.
+  \item \textbf{Consortium Blockchain:} A consortium blockchain is governed by more than one organization or entity working together to ensure the distributed ledger. 
+  On the other hand, blockchains that are public or private, consortium blockchains are the only ones that give power to a chosen group of nodes to validate and record 
+  transactions. This model is suitable where several subjects need to work with data and processes together but they do not want or they cannot fully trust a unique 
+  central entity \cite{ibm_blockchain}, \cite{9752154}.
+\end{itemize}
+
 \subsection{Types of Consensus Mechanisms}
 
-In the previous section we discussed an example of how blockchain uses a consensus mechanism called \gls{pow} \cite{9752154}, \cite{10037907}. However there are several 
-types of consensus mechanisms that can be used in a blockchain network. 
+Blockchains also differ based on the type of consensus mechanism used. In the previous section we discussed an example of how blockchain uses a consensus mechanism called 
+\gls{pow} \cite{9752154}, \cite{10037907}. However there are several types of consensus mechanisms that can be used in a blockchain network. 
 
 In general, the two main types of consensus mechanisms are: \gls{pow} and \gls{pos}. With \gls{pow} miners solve puzzles to add new blocks, which requires significant 
 computational resources and time \cite{9752154}, \cite{10037907}. This is elaborated further in Section \ref{subsec:bitcoin}. On the hand \gls{pos} assigns the right 
 to create blocks based on participants cryptocurrency holdings providing benefits such, as energy efficiency and scalability advantages \cite{10037907}. Further information,
 about PoS can be found in Section \ref{subsec:ethereum}.
 
-There are also other consensus mechanisms beyond PoW and PoS; refer to the table for further details.
+There are also other consensus mechanisms beyond \gls{pow} and \gls{pos}; refer to the table for further details.
 
-\section{Types and Advantages of Blockchains}
-
-\section{Comparative of Bitcoin and Ethereum}
+\section{Bitcoin versus Ethereum}
 
 \subsection{Bitcoin} \label{subsec:bitcoin}
 
+\paragraph{Overview}
+
+Bitcoin, launched in 2008 by Satoshi Nakamoto, is a decentralized digital currency that is also accompanied by the great invention, the blockchain. It functions as a 
+peer-to-peer decentralized electronic payment system; it introduces a new way of executing business transactions and the security of data \cite{9129332}. Bitcoin is an open-source 
+and permissionless blockchain, allowing for involvement of anyone with the required hardware.
+
+\paragraph{Transaction mechanism}
+
+When a user sends bitcoins, sender hashed addresses, recipient hashed addresses, transaction amount and fee. Digital signatures prove property rights and the transaction 
+is floated to the network, being submitted to the mempool for confirmation \cite{bitcoincom}. The mining being the process of validating transactions and so the miners pick transactions 
+from the \gls{mempool} in order to create new blocks by solving complex mathematical puzzles called \gls{pow} \cite{9129332}. The winner of the puzzle then 
+broadcasts their newly found block to the network. After a verification done by other network nodes, the block is added to the blockchain, thus finalizing the transaction.
+
+\paragraph{Proof of Work}
+
+Bitcoin uses the \gls{pow} consensus algorithm to maintain agreement among network participants about the validity of transactions. The \gls{pow} was first 
+specified in the Hashcash paper \cite{9129332}. It requires the miners to search solutions of cryptographic puzzles consuming computational power. Through the cost of computation, the miners
+establish their commitment to the security of the network as changing the blockchain will require enormous computational resources, hence, making fraudulent endeavors expensive.
+
+\paragraph{Bitcoin Cryptography}
+
+Bitcoin use the \gls{sha2} for cryptographic hashing, which ensures irreversible and collision resistive attributes. This guarantees the data integrity of the 
+blockchain, which makes it impractical to tamper with transactions that are already in the database. Moreover, the Merkle Trees that Bitcoin natively uses for block data 
+encoding take security to the next level \cite{9129332}.
+
+\paragraph{Unspent Transaction Output} 
+
+Bitcoin transactions are registered in the blockchain as \gls{utxo}s, which meaning constant fractions of bitcoins that are linked to certain owner. 
+This \gls{utxo} is pervasively distributed over the blockchain and represents ownership. It is subsequently used in other transactions too. Bitcoin balances are not stored in user 
+accounts but rather tracked through the \gls{utxo}s associated with their addresses \cite{bitcoincom}.
+
+\paragraph{Advantages and Limitations}
+
+Bitcoin is decentralized and provides encryption security that can be used to resist censorship, to ensure accessibility particularly on a global scale and to preserve integrity 
+of the data. Nevertheless, Bitcoin has such limitations as scalability problem, transaction throughput rate without the corresponding increase in the number of transactions 
+and undulatory acceptance and valuation. Furthermore, there are additional security concerns, such as the "51\% attack" and human error, which continue to plague the Bitcoin 
+ecosystem \cite{9129332}.
+
 \subsection{Ethereum} \label{subsec:ethereum}
+
+\paragraph{Overview}
+
+Ethereum, designed by Vitalik Buterin, is the introduction of Smart Contracts to the crypto-sphere, which is a novelty in the blockchain space, and, obviously, it has been 
+a highly valuable addition. The September 2022 saw the newly born Ethereum 2.0 replace Ethereum 1.0 by incorporating the Beacon Chain and the shift from \gls{pow} 
+to \gls{pos} consensus mechanism \cite{ethereummerge}. This change shall constitute one of the really important milestones reached by Ethereum, the blockchain providing 
+scalability, sustainability, as well as security.
+
+\paragraph{Beacon Chain Impact}
+
+The introduction of the Beacon Chain revolutionized Ethereum's operating model \cite{ethereummerge}. It replaced the original execution layer (Mainnet) and introduced a new consensus layer, 
+the \gls{pos} which was a major improvement in terms of power consumption and the amount of energy consumed reduced from 99.95\%. Validators, staking their ETH, assumed the 
+responsibility of block production and transaction validation, moving away from energy-intensive mining. This transition helped create a sustainable network 
+architecture as well as secure the information connections.
+
+\paragraph{Transaction Mechanism}
+
+In Ethereum 2.0, validators play a pivotal role by depositing 32 ETH and operating three essential software components: a execution client, a client for consensus, and a client for 
+validation as well. Here we have the validators appointed randomly for being picked on 12 second timeslots which then make up epochs composed of 32 slots. They formulate 
+and verify blocks and this way they add to the Ethereum System. This process regulates all the transactions on the blockchain. Transactions include processing stages of 
+creating, verifying, and block proposal irrespective of the fact that the transactions are created, verified, combined into execution payloads, and broadcasted across 
+the network so as to make self-enforcement and fault-tolerance in proper working order. Finality being one of the main features of transaction irreversibility, is 
+sealed by using checkpoints that initiate even the smallest epochs. As requisite effort to checkpoints pairs, validators vote in a supermajority to revert them, 
+consequently, block reversal is discouraged and the entire Ethereum network is protected from brainwashing attacks \cite{ethereumpos}.
+
+\paragraph{Proof of Stake}
+
+The Ethereum 2.0 version puts the \gls{pos} consensus mechanism at the core of the protocol with validators given the chance to make the most of their 
+investment through staking \cite{ethereumpos}. Validator's deposit their own ETH as bond to release validator software which helps in the job of validating the transactions and 
+generating new blocks proposals. In contrast to proof-of-work, the \gls{pos} is doing well in maintaining both the security and the decentralization of validators that 
+attempt to undermine the network due to its feature of penalization.
+
+\paragraph{Ethereum Cryptography}
+
+Ethereum 2.0 still relies heavily on the standards of crypto- security for safety, keeping the Keccak-256 algorithm implemented by Ethereum 1.0. These 
+algorithmic primitives give Ethereum strong security by making sure the data integrity, confidentiality, and authenticity \cite{9129332}.
+
+\paragraph{Advantages and Limitations}
+
+Ethereum 2.0 is an upgraded version of the original network as well as other blockchain platforms which provide these advancements. Transitioning from \gls{pow} to 
+\gls{pos} does substantial energy reduction and making Ethereum more sustainable is one of them. Also, \gls{pos} model makes the network more secure, decentralized and 
+scalable in order that a flourishing ecosystem of decentralized applications may thrive in it \cite{ethereumpos}. But after considering the fact that it is the second generation 
+of Ethereum blockchain, it has certain limitations. The processing time still may be a bottleneck as Ethereum is not able to process transactions in the same 
+rate as traditional procedures such as Visa \cite{9129332}. Besides, the market fluctuation and rumors become the main problems for the stability and the reputation of the 
+Ethereum that calls for continual technological development and management.

@@ -39,6 +39,9 @@
 
 \usepackage[acronym]{glossaries}
 
+\usepackage{titlesec}
+\titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}{0pt}{\baselineskip}{\baselineskip} 
 
 
 \usepackage{geometry} 
@@ -134,7 +137,7 @@
 \include{./Chapters/08/integration.tex}
 
 \include{./Chapters/09/conclusions.tex}
-\gls{pot}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

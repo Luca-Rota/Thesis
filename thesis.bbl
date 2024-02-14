@@ -19,6 +19,92 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{bitcoincom}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e7a27a2031af50dc18f09481efab6cb8}{%
+           family={{Bitcoin.com}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7a27a2031af50dc18f09481efab6cb8}
+      \strng{fullhash}{e7a27a2031af50dc18f09481efab6cb8}
+      \strng{bibnamehash}{e7a27a2031af50dc18f09481efab6cb8}
+      \strng{authorbibnamehash}{e7a27a2031af50dc18f09481efab6cb8}
+      \strng{authornamehash}{e7a27a2031af50dc18f09481efab6cb8}
+      \strng{authorfullhash}{e7a27a2031af50dc18f09481efab6cb8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How Bitcoin Transactions Work}
+      \field{urlday}{14}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bitcoin.com/get-started/how-bitcoin-transactions-work/
+      \endverb
+      \verb{url}
+      \verb https://www.bitcoin.com/get-started/how-bitcoin-transactions-work/
+      \endverb
+    \endentry
+    \entry{ethereumpos}{online}{}
+      \name{author}{1}{}{%
+        {{hash=91a561dbd1e35b5459edfad15075d17c}{%
+           family={{Ethereum Foundation}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{fullhash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{bibnamehash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{authorbibnamehash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{authornamehash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{authorfullhash}{91a561dbd1e35b5459edfad15075d17c}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proof of Stake (PoS)}
+      \field{urlday}{14}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ethereum.org/en/developers/docs/consensus-mechanisms/pos
+      \endverb
+      \verb{url}
+      \verb https://ethereum.org/en/developers/docs/consensus-mechanisms/pos
+      \endverb
+    \endentry
+    \entry{ethereummerge}{online}{}
+      \name{author}{1}{}{%
+        {{hash=91a561dbd1e35b5459edfad15075d17c}{%
+           family={{Ethereum Foundation}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{fullhash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{bibnamehash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{authorbibnamehash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{authornamehash}{91a561dbd1e35b5459edfad15075d17c}
+      \strng{authorfullhash}{91a561dbd1e35b5459edfad15075d17c}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Merge}
+      \field{urlday}{14}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ethereum.org/en/roadmap/merge
+      \endverb
+      \verb{url}
+      \verb https://ethereum.org/en/roadmap/merge
+      \endverb
+    \endentry
     \entry{geeksforgeeks}{online}{}
       \name{author}{1}{}{%
         {{hash=f1e069787ece74531d112559945c6871}{%
@@ -160,6 +246,39 @@
       \verb 10.1109/ICRITO51393.2021.9596538
       \endverb
       \keyw{Costs;Power demand;Smart contracts;Supply chains;Companies;Blockchains;Smart transportation;Blockchain;Crypto-Currency;Smart Contracts}
+    \endentry
+    \entry{9129332}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=81ca4d3b643b45c66a5bce089efd2f8e}{%
+           family={Rankhambe},
+           familyi={R\bibinitperiod},
+           given={Bharti\bibnamedelima Pralhad},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ab35d61c90cb80b688082c8964b4fac6}{%
+           family={Kaur\bibnamedelima Khanuja},
+           familyi={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Harmeet},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{054c1ae3e393f1d8a7ee667d9249fada}
+      \strng{fullhash}{054c1ae3e393f1d8a7ee667d9249fada}
+      \strng{bibnamehash}{054c1ae3e393f1d8a7ee667d9249fada}
+      \strng{authorbibnamehash}{054c1ae3e393f1d8a7ee667d9249fada}
+      \strng{authornamehash}{054c1ae3e393f1d8a7ee667d9249fada}
+      \strng{authorfullhash}{054c1ae3e393f1d8a7ee667d9249fada}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 5th International Conference On Computing, Communication, Control And Automation (ICCUBEA)}
+      \field{title}{A Comparative Analysis of Blockchain Platforms – Bitcoin and Ethereum}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ICCUBEA47591.2019.9129332
+      \endverb
+      \keyw{blockchain;bitcoin;ethereum;consensus;SHA-256;Ethash;Keccak}
     \endentry
     \entry{9036241}{inproceedings}{}
       \name{author}{3}{}{%

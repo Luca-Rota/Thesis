@@ -15,17 +15,31 @@
 \contentsline {subsection}{\numberline {2.1.2}Blockchain Architecture}{4}{subsection.2.1.2}%
 \contentsline {section}{\numberline {2.2}How the Blockchain works}{5}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Transaction process}{5}{subsection.2.2.1}%
-\contentsline {paragraph}{Recording Transactions}{5}{section*.3}%
-\contentsline {paragraph}{Consensus Mechanism}{5}{section*.4}%
-\contentsline {subsection}{\numberline {2.2.2}Types of Consensus Mechanisms}{6}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Types and Advantages of Blockchains}{6}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Comparative of Bitcoin and Ethereum}{6}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Bitcoin}{6}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Ethereum}{6}{subsection.2.4.2}%
-\contentsline {chapter}{\numberline {3}Identity}{7}{chapter.3}%
-\contentsline {chapter}{\numberline {4}SSI}{9}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Cryptography}{11}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Cybersecurity}{13}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Framework}{15}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Integration}{17}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Conclusions}{19}{chapter.9}%
+\contentsline {paragraph}{Recording transactions}{5}{subsection.2.2.1}%
+\contentsline {paragraph}{Consensus Mechanism}{5}{Item.3}%
+\contentsline {subsection}{\numberline {2.2.2}Blockchain Benefits}{6}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Blockchain Classification}{7}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Types of Blockchains}{7}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Types of Consensus Mechanisms}{8}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Bitcoin versus Ethereum}{8}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Bitcoin}{8}{subsection.2.4.1}%
+\contentsline {paragraph}{Overview}{8}{subsection.2.4.1}%
+\contentsline {paragraph}{Transaction mechanism}{8}{subsection.2.4.1}%
+\contentsline {paragraph}{Proof of Work}{9}{subsection.2.4.1}%
+\contentsline {paragraph}{Bitcoin Cryptography}{9}{subsection.2.4.1}%
+\contentsline {paragraph}{Unspent Transaction Output}{9}{subsection.2.4.1}%
+\contentsline {paragraph}{Advantages and Limitations}{9}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Ethereum}{10}{subsection.2.4.2}%
+\contentsline {paragraph}{Overview}{10}{subsection.2.4.2}%
+\contentsline {paragraph}{Beacon Chain Impact}{10}{subsection.2.4.2}%
+\contentsline {paragraph}{Transaction Mechanism}{10}{subsection.2.4.2}%
+\contentsline {paragraph}{Proof of Stake}{11}{subsection.2.4.2}%
+\contentsline {paragraph}{Ethereum Cryptography}{11}{subsection.2.4.2}%
+\contentsline {paragraph}{Advantages and Limitations}{11}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {3}Identity}{13}{chapter.3}%
+\contentsline {chapter}{\numberline {4}SSI}{15}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Cryptography}{17}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Cybersecurity}{19}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Framework}{21}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Integration}{23}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Conclusions}{25}{chapter.9}%
