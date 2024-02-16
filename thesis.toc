@@ -24,11 +24,11 @@
 \contentsline {section}{\numberline {2.4}Bitcoin versus Ethereum}{8}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Bitcoin}{8}{subsection.2.4.1}%
 \contentsline {paragraph}{Overview}{8}{subsection.2.4.1}%
-\contentsline {paragraph}{Transaction mechanism}{8}{subsection.2.4.1}%
+\contentsline {paragraph}{Transaction mechanism}{9}{subsection.2.4.1}%
 \contentsline {paragraph}{Proof of Work}{9}{subsection.2.4.1}%
 \contentsline {paragraph}{Bitcoin Cryptography}{9}{subsection.2.4.1}%
 \contentsline {paragraph}{Unspent Transaction Output}{9}{subsection.2.4.1}%
-\contentsline {paragraph}{Advantages and Limitations}{9}{subsection.2.4.1}%
+\contentsline {paragraph}{Advantages and Limitations}{10}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Ethereum}{10}{subsection.2.4.2}%
 \contentsline {paragraph}{Overview}{10}{subsection.2.4.2}%
 \contentsline {paragraph}{Beacon Chain Impact}{10}{subsection.2.4.2}%
