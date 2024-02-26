@@ -1,4 +1,4 @@
-\chapter{The Blockchain Technology} \label{ch:Blockchain}
+\chapter{Blockchain Technology} \label{ch:Blockchain}
 
 In the current landscape, blockchain technology has attracted increasing global interest due to its promising applications and potential transformative impacts on various 
 sectors. Founded in 2008 by Satoshi Nakamoto as the mainstay of the Bitcoin system \cite{9752154}, blockchain has evolved from a simple ledger of financial transactions 
@@ -50,7 +50,7 @@ we delve into the fundamental mechanisms of blockchain.
 
 \subsection{Transaction process}
 
-\paragraph{Recording transactions}
+\subsubsection{Recording transactions}
 
 \begin{enumerate}
     \item \textbf{Starting a Transaction:} In a network, users initiate transactions through their wallets. Each wallet has a pair of keys. A key, for starting transactions 
@@ -61,7 +61,7 @@ we delve into the fundamental mechanisms of blockchain.
     integrity and immutability of transactions. Hashing allows each block to have a fingerprint making identification and verification simple \cite{ibm_blockchain} ,\cite{9036241}.
 \end{enumerate}
 
-\paragraph{Consensus Mechanism}
+\subsubsection{Consensus Mechanism}
 
 \begin{enumerate}
     \setcounter{enumi}{3}
@@ -138,38 +138,38 @@ This section takes a comparative approach between Bitcoin and Ethereum; analyzin
 
 \subsection{Bitcoin} \label{subsec:bitcoin}
 
-\paragraph{Overview}
+\subsubsection{Overview}
 
 Bitcoin, launched in 2008 by Satoshi Nakamoto, is a decentralized digital currency that is also accompanied by the great invention, the blockchain. It functions as a 
 peer-to-peer decentralized electronic payment system; it introduces a new way of executing business transactions and the security of data \cite{9129332}. Bitcoin is an open-source 
 and permissionless blockchain, allowing for involvement of anyone with the required hardware.
 
-\paragraph{Transaction mechanism}
+\subsubsection{Transaction mechanism}
 
 When a user sends bitcoins, sender hashed addresses, recipient hashed addresses, transaction amount and fee. Digital signatures prove property rights and the transaction 
 is floated to the network, being submitted to the mempool for confirmation \cite{bitcoincom}. The mining being the process of validating transactions and so the miners pick transactions 
 from the \gls{mempool} in order to create new blocks by solving complex mathematical puzzles called \gls{pow} \cite{9129332}. The winner of the puzzle then 
 broadcasts their newly found block to the network. After a verification done by other network nodes, the block is added to the blockchain, thus finalizing the transaction.
 
-\paragraph{Proof of Work}
+\subsubsection{Proof of Work}
 
 Bitcoin uses the \gls{pow} consensus algorithm to maintain agreement among network participants about the validity of transactions. The \gls{pow} was first 
 specified in the Hashcash paper \cite{9129332}. It requires the miners to search solutions of cryptographic puzzles consuming computational power. Through the cost of computation, the miners
 establish their commitment to the security of the network as changing the blockchain will require enormous computational resources, hence, making fraudulent endeavors expensive.
 
-\paragraph{Bitcoin Cryptography}
+\subsubsection{Bitcoin Cryptography}
 
 Bitcoin use the \gls{sha2} for cryptographic hashing, which ensures irreversible and collision resistive attributes. This guarantees the data integrity of the 
 blockchain, which makes it impractical to tamper with transactions that are already in the database. Moreover, the Merkle Trees that Bitcoin natively uses for block data 
 encoding take security to the next level \cite{9129332}.
 
-\paragraph{Unspent Transaction Output} 
+\subsubsection{Unspent Transaction Output} 
 
 Bitcoin transactions are registered in the blockchain as \gls{utxo}s, which meaning constant fractions of bitcoins that are linked to certain owner. 
 This \gls{utxo} is pervasively distributed over the blockchain and represents ownership. It is subsequently used in other transactions too. Bitcoin balances are not stored in user 
 accounts but rather tracked through the \gls{utxo}s associated with their addresses \cite{bitcoincom}.
 
-\paragraph{Advantages and Limitations}
+\subsubsection{Advantages and Limitations}
 
 Bitcoin is decentralized and provides encryption security that can be used to resist censorship, to ensure accessibility particularly on a global scale and to preserve integrity 
 of the data. Nevertheless, Bitcoin has such limitations as scalability problem, transaction throughput rate without the corresponding increase in the number of transactions 
@@ -178,21 +178,21 @@ ecosystem \cite{9129332}.
 
 \subsection{Ethereum} \label{subsec:ethereum}
 
-\paragraph{Overview}
+\subsubsection{Overview}
 
 Ethereum, designed by Vitalik Buterin, is the introduction of Smart Contracts to the crypto-sphere, which is a novelty in the blockchain space, and, obviously, it has been 
 a highly valuable addition. The September 2022 saw the newly born Ethereum 2.0 replace Ethereum 1.0 by incorporating the Beacon Chain and the shift from \gls{pow} 
 to \gls{pos} consensus mechanism \cite{ethereummerge}. This change shall constitute one of the really important milestones reached by Ethereum, the blockchain providing 
 scalability, sustainability, as well as security.
 
-\paragraph{Beacon Chain Impact}
+\subsubsection{Beacon Chain Impact}
 
 The introduction of the Beacon Chain revolutionized Ethereum's operating model \cite{ethereummerge}. It replaced the original execution layer (Mainnet) and introduced a new consensus layer, 
 the \gls{pos} which was a major improvement in terms of power consumption and the amount of energy consumed reduced from 99.95\%. Validators, staking their ETH, assumed the 
 responsibility of block production and transaction validation, moving away from energy-intensive mining. This transition helped create a sustainable network 
 architecture as well as secure the information connections.
 
-\paragraph{Transaction Mechanism}
+\subsubsection{Transaction Mechanism}
 
 In Ethereum 2.0, validators play a pivotal role by depositing 32 ETH and operating three essential software components: a execution client, a client for consensus, and a client for 
 validation as well. Here we have the validators appointed randomly for being picked on 12 second timeslots which then make up epochs composed of 32 slots. They formulate 
@@ -202,19 +202,19 @@ the network so as to make self-enforcement and fault-tolerance in proper working
 sealed by using checkpoints that initiate even the smallest epochs. As requisite effort to checkpoints pairs, validators vote in a supermajority to revert them, 
 consequently, block reversal is discouraged and the entire Ethereum network is protected from brainwashing attacks \cite{ethereumpos}.
 
-\paragraph{Proof of Stake}
+\subsubsection{Proof of Stake}
 
 The Ethereum 2.0 version puts the \gls{pos} consensus mechanism at the core of the protocol with validators given the chance to make the most of their 
 investment through staking \cite{ethereumpos}. Validator's deposit their own ETH as bond to release validator software which helps in the job of validating the transactions and 
 generating new blocks proposals. In contrast to proof-of-work, the \gls{pos} is doing well in maintaining both the security and the decentralization of validators that 
 attempt to undermine the network due to its feature of penalization.
 
-\paragraph{Ethereum Cryptography}
+\subsubsection{Ethereum Cryptography}
 
 Ethereum 2.0 still relies heavily on the standards of crypto- security for safety, keeping the Keccak-256 algorithm implemented by Ethereum 1.0. These 
 algorithmic primitives give Ethereum strong security by making sure the data integrity, confidentiality, and authenticity \cite{9129332}.
 
-\paragraph{Advantages and Limitations}
+\subsubsection{Advantages and Limitations}
 
 Ethereum 2.0 is an upgraded version of the original network as well as other blockchain platforms which provide these advancements. Transitioning from \gls{pow} to 
 \gls{pos} does substantial energy reduction and making Ethereum more sustainable is one of them. Also, \gls{pos} model makes the network more secure, decentralized and 

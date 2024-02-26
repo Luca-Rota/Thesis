@@ -19,6 +19,98 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{9869618}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1cf3b81405ad2e482940648af2f346e8}{%
+           family={Alizadeh},
+           familyi={A\bibinitperiod},
+           given={Morteza},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4f4fbc3e6df95ba22b9438d10e5de838}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b1bf4fac7de57a6de49e1865ae7e33a8}{%
+           family={Schelén},
+           familyi={S\bibinitperiod},
+           given={Olov},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc494cfd6a0f68d903ad5478f1ab04ab}
+      \strng{fullhash}{cc494cfd6a0f68d903ad5478f1ab04ab}
+      \strng{bibnamehash}{cc494cfd6a0f68d903ad5478f1ab04ab}
+      \strng{authorbibnamehash}{cc494cfd6a0f68d903ad5478f1ab04ab}
+      \strng{authornamehash}{cc494cfd6a0f68d903ad5478f1ab04ab}
+      \strng{authorfullhash}{cc494cfd6a0f68d903ad5478f1ab04ab}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Comparative Analysis of Decentralized Identity Approaches}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{92273\bibrangedash 92283}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2022.3202553
+      \endverb
+      \keyw{Blockchains;Cloud computing;Internet;Decentralized applications;Social networking (online);Distributed ledger;Privacy;Identification;decentralization;distributed hash table;self-sovereign identity}
+    \endentry
+    \entry{9881610}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=91d26bc1cac6243a483ec0a7b719bfca}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Yirui},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=23c23c7f7ba187887d75b3cf49677b84}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=24ef9501806fbb878a3d16040679ce5e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Suozai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2f8e43e246158abc73a9e63498fbf217}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Haoyu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bc20e54573d2db853852f86802ab83de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9b0c537c8c3070b435d38ffa8912dfc7}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Leixiao},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb894cdc81b4fec4c5576fe78d083dc6}
+      \strng{fullhash}{8f1ba5fabe6356e9f4e054845b7269d1}
+      \strng{bibnamehash}{cb894cdc81b4fec4c5576fe78d083dc6}
+      \strng{authorbibnamehash}{cb894cdc81b4fec4c5576fe78d083dc6}
+      \strng{authornamehash}{cb894cdc81b4fec4c5576fe78d083dc6}
+      \strng{authorfullhash}{8f1ba5fabe6356e9f4e054845b7269d1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE International Conference on Blockchain (Blockchain)}
+      \field{title}{Decentralized and Self-Sovereign Identity in the Era of Blockchain: A Survey}
+      \field{year}{2022}
+      \field{pages}{500\bibrangedash 507}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/Blockchain55522.2022.00077
+      \endverb
+      \keyw{Semantic Web;Protocols;Metaverse;Scalability;Market research;Data models;Blockchains;digital identity;blockchain;decentralization;self-sovereign identity}
+    \endentry
     \entry{bitcoincom}{online}{}
       \name{author}{1}{}{%
         {{hash=e7a27a2031af50dc18f09481efab6cb8}{%
@@ -45,6 +137,141 @@
       \endverb
       \verb{url}
       \verb https://www.bitcoin.com/get-started/how-bitcoin-transactions-work/
+      \endverb
+    \endentry
+    \entry{businessreporter}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e5d40a26255f543b2b3afa099c0a0c0a}{%
+           family={{Business Reporter}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5d40a26255f543b2b3afa099c0a0c0a}
+      \strng{fullhash}{e5d40a26255f543b2b3afa099c0a0c0a}
+      \strng{bibnamehash}{e5d40a26255f543b2b3afa099c0a0c0a}
+      \strng{authorbibnamehash}{e5d40a26255f543b2b3afa099c0a0c0a}
+      \strng{authornamehash}{e5d40a26255f543b2b3afa099c0a0c0a}
+      \strng{authorfullhash}{e5d40a26255f543b2b3afa099c0a0c0a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The History of Digital Identity}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.business-reporter.co.uk/technology/the-history-of-digital-identity
+      \endverb
+      \verb{url}
+      \verb https://www.business-reporter.co.uk/technology/the-history-of-digital-identity
+      \endverb
+    \endentry
+    \entry{ciscofpie}{online}{}
+      \name{author}{1}{}{%
+        {{hash=96d454b5a535d5170fd50f37d55b5b27}{%
+           family={{Cisco FPIE}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{96d454b5a535d5170fd50f37d55b5b27}
+      \strng{fullhash}{96d454b5a535d5170fd50f37d55b5b27}
+      \strng{bibnamehash}{96d454b5a535d5170fd50f37d55b5b27}
+      \strng{authorbibnamehash}{96d454b5a535d5170fd50f37d55b5b27}
+      \strng{authornamehash}{96d454b5a535d5170fd50f37d55b5b27}
+      \strng{authorfullhash}{96d454b5a535d5170fd50f37d55b5b27}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decentralized Identities Demystified}
+      \field{urlday}{22}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/cisco-fpie/decentralized-identities-demystified-49a65159196c
+      \endverb
+      \verb{url}
+      \verb https://medium.com/cisco-fpie/decentralized-identities-demystified-49a65159196c
+      \endverb
+    \endentry
+    \entry{w3didcore}{online}{}
+      \list{organization}{1}{%
+        {World Wide Web Consortium (W3C)}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{title}{Decentralized Identifiers (DIDs) v1.0}
+      \field{urlday}{22}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/did-core/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/did-core/
+      \endverb
+    \endentry
+    \entry{DIDarchitecture}{online}{}
+      \name{author}{1}{}{%
+        {{hash=941a8e610e30aadf54af1f6b3551db53}{%
+           family={Decentralized\bibnamedelima Identity},
+           familyi={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Blockchain},
+           giveni={B\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{941a8e610e30aadf54af1f6b3551db53}
+      \strng{fullhash}{941a8e610e30aadf54af1f6b3551db53}
+      \strng{bibnamehash}{941a8e610e30aadf54af1f6b3551db53}
+      \strng{authorbibnamehash}{941a8e610e30aadf54af1f6b3551db53}
+      \strng{authornamehash}{941a8e610e30aadf54af1f6b3551db53}
+      \strng{authorfullhash}{941a8e610e30aadf54af1f6b3551db53}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Blockchain for Decentralized Identity: Conceptual Architecture}
+      \field{urlday}{26}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/blockchain-for-decentralized-identity/blockchain-for-decentralized-identity-conceptual-architecture-982c41e446d9
+      \endverb
+      \verb{url}
+      \verb https://medium.com/blockchain-for-decentralized-identity/blockchain-for-decentralized-identity-conceptual-architecture-982c41e446d9
+      \endverb
+    \endentry
+    \entry{dockio}{online}{}
+      \name{author}{1}{}{%
+        {{hash=035213f319f5790129d55b4ee3561543}{%
+           family={{Dock}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{035213f319f5790129d55b4ee3561543}
+      \strng{fullhash}{035213f319f5790129d55b4ee3561543}
+      \strng{bibnamehash}{035213f319f5790129d55b4ee3561543}
+      \strng{authorbibnamehash}{035213f319f5790129d55b4ee3561543}
+      \strng{authornamehash}{035213f319f5790129d55b4ee3561543}
+      \strng{authorfullhash}{035213f319f5790129d55b4ee3561543}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decentralized Identity and Self-Sovereign Identity: What's the Difference?}
+      \field{urlday}{22}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dock.io/post/decentralized-identity#decentralized-identity-and-self-sovereign-identity-whats-the-difference
+      \endverb
+      \verb{url}
+      \verb https://www.dock.io/post/decentralized-identity#decentralized-identity-and-self-sovereign-identity-whats-the-difference
       \endverb
     \endentry
     \entry{ethereumpos}{online}{}
@@ -104,6 +331,45 @@
       \verb{url}
       \verb https://ethereum.org/en/roadmap/merge
       \endverb
+    \endentry
+    \entry{8776589}{article}{}
+      \name{author}{3}{}{%
+        {{hash=446ebb57e6b23d4b27bbc2971d78cf28}{%
+           family={Ferdous},
+           familyi={F\bibinitperiod},
+           given={Md\bibnamedelima Sadek},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b3abbc85e1ef5a8bbb72f3ec75f57787}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Farida},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6630cd1d822d8922b4176843eb460ac2}{%
+           family={Alassafi},
+           familyi={A\bibinitperiod},
+           given={Madini\bibnamedelima O.},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{5733104222767502b1dd9402dada0afc}
+      \strng{fullhash}{5733104222767502b1dd9402dada0afc}
+      \strng{bibnamehash}{5733104222767502b1dd9402dada0afc}
+      \strng{authorbibnamehash}{5733104222767502b1dd9402dada0afc}
+      \strng{authornamehash}{5733104222767502b1dd9402dada0afc}
+      \strng{authorfullhash}{5733104222767502b1dd9402dada0afc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{In Search of Self-Sovereign Identity Leveraging Blockchain Technology}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{pages}{103059\bibrangedash 103079}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2019.2931173
+      \endverb
+      \keyw{5G mobile communication;Solid modeling;Blockchain;Indexes;Identity;identity management system;self-sovereign identity;blockchain}
     \endentry
     \entry{geeksforgeeks}{online}{}
       \name{author}{1}{}{%
@@ -176,6 +442,34 @@
       \endverb
       \keyw{Costs;Supply chain management;Smart contracts;Authentication;Transforms;Real-time systems;Blockchains;Blockchain;Consensus Mechanism;Decentralized;Distributed;Hash;Immutability;Smart Contracts;Securitization}
     \endentry
+    \entry{mediumdigitalidentity}{online}{}
+      \name{author}{1}{}{%
+        {{hash=60fcd5f3e05715dc579c5338f0b1ee71}{%
+           family={{Humanizing the Singularity}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{60fcd5f3e05715dc579c5338f0b1ee71}
+      \strng{fullhash}{60fcd5f3e05715dc579c5338f0b1ee71}
+      \strng{bibnamehash}{60fcd5f3e05715dc579c5338f0b1ee71}
+      \strng{authorbibnamehash}{60fcd5f3e05715dc579c5338f0b1ee71}
+      \strng{authornamehash}{60fcd5f3e05715dc579c5338f0b1ee71}
+      \strng{authorfullhash}{60fcd5f3e05715dc579c5338f0b1ee71}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Brief History of Digital Identity}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5
+      \endverb
+      \verb{url}
+      \verb https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5
+      \endverb
+    \endentry
     \entry{ibm_blockchain}{online}{}
       \name{author}{1}{}{%
         {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
@@ -203,6 +497,49 @@
       \verb{url}
       \verb https://www.ibm.com/topics/blockchain
       \endverb
+    \endentry
+    \entry{9695553}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=3cc7375fa1f3ac04f1abeafd180d7e9f}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=47873cb4c9c602caddd9f2d4c852ea56}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jingxuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c6e8a98deaf55377fc236dbf7adc4556}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yipeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c14e1cf8b6d25593d5f65a25450a5929}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Haihua},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{1032f67cdee3bbd7db72e9df7dee380b}
+      \strng{fullhash}{788e5fa17af1b74d9d98b744ed32e76a}
+      \strng{bibnamehash}{1032f67cdee3bbd7db72e9df7dee380b}
+      \strng{authorbibnamehash}{1032f67cdee3bbd7db72e9df7dee380b}
+      \strng{authornamehash}{1032f67cdee3bbd7db72e9df7dee380b}
+      \strng{authorfullhash}{788e5fa17af1b74d9d98b744ed32e76a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 3rd International Academic Exchange Conference on Science and Technology Innovation (IAECST)}
+      \field{title}{The Introduction of Digital Identity Evolution and the Industry of Decentralized Identity}
+      \field{year}{2021}
+      \field{pages}{504\bibrangedash 508}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/IAECST54258.2021.9695553
+      \endverb
+      \keyw{Industries;Technological innovation;Ecosystems;Government;Standardization;Passwords;Internet;digital identity;decentralized identity;decentralized identifier;blockchain}
     \endentry
     \entry{9596538}{inproceedings}{}
       \name{author}{4}{}{%
@@ -246,6 +583,125 @@
       \verb 10.1109/ICRITO51393.2021.9596538
       \endverb
       \keyw{Costs;Power demand;Smart contracts;Supply chains;Companies;Blockchains;Smart transportation;Blockchain;Crypto-Currency;Smart Contracts}
+    \endentry
+    \entry{9333997}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4731d5222fb22d2a47ddc3519c29d17e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Kyung-Hoon},
+           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=4439dc715acbd89679b0fee8b00c0d53}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Seungjoo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=23f95906c9ebf8a87d695e49dce645e5}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Dong-Yeop},
+           giveni={D\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=56ea24fb7cd17ed668a070c6a079d680}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Ki-Hyung},
+           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e9bfd0facbe075986f808e397f7d4fe}
+      \strng{fullhash}{860dcbfbd4149da71078b16ba08067d6}
+      \strng{bibnamehash}{5e9bfd0facbe075986f808e397f7d4fe}
+      \strng{authorbibnamehash}{5e9bfd0facbe075986f808e397f7d4fe}
+      \strng{authornamehash}{5e9bfd0facbe075986f808e397f7d4fe}
+      \strng{authorfullhash}{860dcbfbd4149da71078b16ba08067d6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 International Conference on Information Networking (ICOIN)}
+      \field{title}{Analysis on the Privacy of DID Service Properties in the DID Document}
+      \field{year}{2021}
+      \field{pages}{745\bibrangedash 748}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ICOIN50884.2021.9333997
+      \endverb
+      \keyw{Privacy;Authentication;Self-Sovereign identity;Decentralized Identifiers;Privacy Protection;Blockchain}
+    \endentry
+    \entry{9333857}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4439dc715acbd89679b0fee8b00c0d53}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Seungjoo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=65e9422562e0b09144e46aa1b87f5dfc}{%
+           family={Rhie},
+           familyi={R\bibinitperiod},
+           given={Min-Hyung},
+           giveni={M\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=b0705266c8dd95c9b31135163f5f3a22}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={DongYeop},
+           giveni={D\bibinitperiod}}}%
+        {{hash=56ea24fb7cd17ed668a070c6a079d680}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Ki-Hyung},
+           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbdb55a1346b8e3297490cba4c8d193c}
+      \strng{fullhash}{c797cacb6db5cd07c76ca8ac22e33aec}
+      \strng{bibnamehash}{dbdb55a1346b8e3297490cba4c8d193c}
+      \strng{authorbibnamehash}{dbdb55a1346b8e3297490cba4c8d193c}
+      \strng{authornamehash}{dbdb55a1346b8e3297490cba4c8d193c}
+      \strng{authorfullhash}{c797cacb6db5cd07c76ca8ac22e33aec}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 International Conference on Information Networking (ICOIN)}
+      \field{title}{A Subject-Centric Credential Management Method based on the Verifiable Credentials}
+      \field{year}{2021}
+      \field{pages}{508\bibrangedash 510}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1109/ICOIN50884.2021.9333857
+      \endverb
+      \keyw{Authentication;Self-Sovereign Identity;Verifiable Credentials;Decentralized Identifiers;Blockchains;Authentication Method}
+    \endentry
+    \entry{9272212}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=dc0f194568ffac6e0dabf705c2ac2a04}{%
+           family={Naik},
+           familyi={N\bibinitperiod},
+           given={Nitin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=007f38666d5704ff23f1e1011f0bdceb}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a44fe42064d24557eefa9112126cc07}
+      \strng{fullhash}{0a44fe42064d24557eefa9112126cc07}
+      \strng{bibnamehash}{0a44fe42064d24557eefa9112126cc07}
+      \strng{authorbibnamehash}{0a44fe42064d24557eefa9112126cc07}
+      \strng{authornamehash}{0a44fe42064d24557eefa9112126cc07}
+      \strng{authorfullhash}{0a44fe42064d24557eefa9112126cc07}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 IEEE International Symposium on Systems Engineering (ISSE)}
+      \field{title}{Governing Principles of Self-Sovereign Identity Applied to Blockchain Enabled Privacy Preserving Identity Management Systems}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ISSE49799.2020.9272212
+      \endverb
+      \keyw{Ecosystems;Privacy;Cryptography;Blockchain;Analytical models;Distributed ledger;Reliability;Self-Sovereign Identity;SSI;Principles of SSI;Identity Management System;IDM;Digital Identity;Federated Identity Management;uPort;Sovrin}
     \endentry
     \entry{9129332}{inproceedings}{}
       \name{author}{2}{}{%
@@ -315,6 +771,25 @@
       \verb 10.1109/ISCON47742.2019.9036241
       \endverb
       \keyw{Blockchain;Bitcoin;Information technology;Online banking;Applications of blockchain;benefits from blockchain;features of blockchain;security of blockchain}
+    \endentry
+    \entry{w3cvcdatamodel}{online}{}
+      \list{organization}{1}{%
+        {World Wide Web Consortium (W3C)}%
+      }
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{title}{Verifiable Credentials Data Model}
+      \field{urlday}{26}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/vc-data-model/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/vc-data-model/
+      \endverb
     \endentry
     \entry{10037907}{inproceedings}{}
       \name{author}{6}{}{%
