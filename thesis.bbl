@@ -670,6 +670,44 @@
       \endverb
       \keyw{Authentication;Self-Sovereign Identity;Verifiable Credentials;Decentralized Identifiers;Blockchains;Authentication Method}
     \endentry
+    \entry{9659929}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=dc0f194568ffac6e0dabf705c2ac2a04}{%
+           family={Naik},
+           familyi={N\bibinitperiod},
+           given={Nitin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=dac4b91eeef5068fa12669e68b77d8f8}{%
+           family={Grace},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=007f38666d5704ff23f1e1011f0bdceb}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ef716d3bb6f67cfd5ba0337ca4f36bd}
+      \strng{fullhash}{9ef716d3bb6f67cfd5ba0337ca4f36bd}
+      \strng{bibnamehash}{9ef716d3bb6f67cfd5ba0337ca4f36bd}
+      \strng{authorbibnamehash}{9ef716d3bb6f67cfd5ba0337ca4f36bd}
+      \strng{authornamehash}{9ef716d3bb6f67cfd5ba0337ca4f36bd}
+      \strng{authorfullhash}{9ef716d3bb6f67cfd5ba0337ca4f36bd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE Symposium Series on Computational Intelligence (SSCI)}
+      \field{title}{An Attack Tree Based Risk Analysis Method for Investigating Attacks and Facilitating Their Mitigations in Self-Sovereign Identity}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/SSCI50451.2021.9659929
+      \endverb
+      \keyw{Analytical models;Privacy;Systematics;Blockchains;Security;Risk management;Computer crime;Attack Tree;Risk Analysis Method;Digital Identity;Self-Sovereign Identity;SSI;Identity Management System;IDM;Decentralized IDentifier;DID;Verifiable Credential;VC;Distributed Ledger Technology;Blockchain;DLT;Faking Identity;Identity Theft;Distributed Denial of Service;DDoS}
+    \endentry
     \entry{9272212}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=dc0f194568ffac6e0dabf705c2ac2a04}{%
@@ -736,6 +774,55 @@
       \endverb
       \keyw{blockchain;bitcoin;ethereum;consensus;SHA-256;Ethash;Keccak}
     \endentry
+    \entry{10054286}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=d6ca82d48039e7e9cdff6a25029138aa}{%
+           family={S},
+           familyi={S\bibinitperiod},
+           given={Sampath},
+           giveni={S\bibinitperiod}}}%
+        {{hash=24b74f8b5390549e51407ba482abe7c4}{%
+           family={M},
+           familyi={M\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod}}}%
+        {{hash=55d8425861e8c44b26f3d8a2c0d8919a}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Numan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=cced7362c8e8bf6a8718e13064f0f21d}{%
+           family={Bhagavath},
+           familyi={B\bibinitperiod},
+           given={Adi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=727bcc96dc3fe040a675a13ada700163}{%
+           family={R},
+           familyi={R\bibinitperiod},
+           given={Nanjesh\bibnamedelima B},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfe047c0507939fbb1fbcebcb5f07169}
+      \strng{fullhash}{2542282a12d3fccf69e8c93ab3a1f5e0}
+      \strng{bibnamehash}{cfe047c0507939fbb1fbcebcb5f07169}
+      \strng{authorbibnamehash}{cfe047c0507939fbb1fbcebcb5f07169}
+      \strng{authornamehash}{cfe047c0507939fbb1fbcebcb5f07169}
+      \strng{authorfullhash}{2542282a12d3fccf69e8c93ab3a1f5e0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE 7th International Conference on Recent Advances and Innovations in Engineering (ICRAIE)}
+      \field{title}{Decentralized Digital Identity Wallet using Principles of Self- Sovereign Identity Applied to Blockchain}
+      \field{volume}{7}
+      \field{year}{2022}
+      \field{pages}{337\bibrangedash 341}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICRAIE56454.2022.10054286
+      \endverb
+      \keyw{Privacy;Data privacy;Technological innovation;Costs;Companies;Data breach;Blockchains}
+    \endentry
     \entry{9036241}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=eef4fc03b645e6e49653987f23141c7e}{%
@@ -772,6 +859,73 @@
       \endverb
       \keyw{Blockchain;Bitcoin;Information technology;Online banking;Applications of blockchain;benefits from blockchain;features of blockchain;security of blockchain}
     \endentry
+    \entry{CyberSecurity}{inproceedings}{}
+      \name{author}{10}{}{%
+        {{hash=72c34511a7c8dfe84b531aefb5997cd8}{%
+           family={Takaoğlu},
+           familyi={T\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=233c467e578e06863a04f8e3a3db9428}{%
+           family={Dursun},
+           familyi={D\bibinitperiod},
+           given={Taner},
+           giveni={T\bibinitperiod}}}%
+        {{hash=16cab7f17843b8946afd67a3f908b35d}{%
+           family={Doğan},
+           familyi={D\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e95193297e212e6dec2518fbc6ede040}{%
+           family={Er},
+           familyi={E\bibinitperiod},
+           given={Hasan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a962f92818170f1f9df591370e061c78}{%
+           family={Günay},
+           familyi={G\bibinitperiod},
+           given={Burçin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=40eff789b7e9ddf1827b906601c488c4}{%
+           family={Emeç},
+           familyi={E\bibinitperiod},
+           given={Caner},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a78a905a7a3722dc67e8cd4ebbfbeea1}{%
+           family={Kumru},
+           familyi={K\bibinitperiod},
+           given={Abdulhamit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fd683fd3f644efed775817018bc22077}{%
+           family={Demir},
+           familyi={D\bibinitperiod},
+           given={Selin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1fad478ad786569ea46402741397e20f}{%
+           family={Toplu},
+           familyi={T\bibinitperiod},
+           given={Sibel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=66bfa25683533df8a30b6f2581bc0844}{%
+           family={Özcandan},
+           familyi={Ö\bibinitperiod},
+           given={Nevzat},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fcacb1ef138e9aedc6618830beefafda}
+      \strng{fullhash}{39f380d23b58cf3bfb3ce4565a38f279}
+      \strng{bibnamehash}{fcacb1ef138e9aedc6618830beefafda}
+      \strng{authorbibnamehash}{fcacb1ef138e9aedc6618830beefafda}
+      \strng{authornamehash}{fcacb1ef138e9aedc6618830beefafda}
+      \strng{authorfullhash}{39f380d23b58cf3bfb3ce4565a38f279}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{title}{The Impact of Self-Sovereign Identities on CyberSecurity}
+      \field{year}{2023}
+    \endentry
     \entry{w3cvcdatamodel}{online}{}
       \list{organization}{1}{%
         {World Wide Web Consortium (W3C)}%
@@ -789,6 +943,34 @@
       \endverb
       \verb{url}
       \verb https://www.w3.org/TR/vc-data-model/
+      \endverb
+    \endentry
+    \entry{VCDataIntegrity}{online}{}
+      \name{author}{1}{}{%
+        {{hash=446a1ae6601a5c59360c7d591c3992da}{%
+           family={W3C},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{446a1ae6601a5c59360c7d591c3992da}
+      \strng{fullhash}{446a1ae6601a5c59360c7d591c3992da}
+      \strng{bibnamehash}{446a1ae6601a5c59360c7d591c3992da}
+      \strng{authorbibnamehash}{446a1ae6601a5c59360c7d591c3992da}
+      \strng{authornamehash}{446a1ae6601a5c59360c7d591c3992da}
+      \strng{authorfullhash}{446a1ae6601a5c59360c7d591c3992da}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Verifiable Credentials Data Model 1.1}
+      \field{urlday}{28}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://w3c.github.io/vc-data-integrity/
+      \endverb
+      \verb{url}
+      \verb https://w3c.github.io/vc-data-integrity/
       \endverb
     \endentry
     \entry{10037907}{inproceedings}{}

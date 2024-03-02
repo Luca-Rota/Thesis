@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  26 FEB 2024 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  2 MAR 2024 19:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1271,7 +1271,7 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 LaTeX Warning: Unused global option(s):
     [stile=classica,tipotesi=magistrale,cucitura=7mm].
 
-(thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/cryptography.aux) (Chapters/06/cybersecurity.aux) (Chapters/07/framework.aux) (Chapters/08/integration.aux) (Chapters/09/conclusions.aux))
+(thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
@@ -1434,7 +1434,7 @@ Package biblatex Info: Reference segment=0 on input line 80.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./Images/logo_polito_2021.jpg, id=217, 370.2633pt x 356.532pt>
+<./Images/logo_polito_2021.jpg, id=237, 370.2633pt x 356.532pt>
 File: ./Images/logo_polito_2021.jpg Graphic file (type jpg)
 <use ./Images/logo_polito_2021.jpg>
 Package pdftex.def Info: ./Images/logo_polito_2021.jpg  used on input line 9.
@@ -1597,6 +1597,18 @@ Package glossaries Warning: Entry `dht' has already been defined in the preamble
 
 Package glossaries Warning: Entry `ipfs' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `thesis.glsdefs') on input line 25.
 
+
+Package glossaries Warning: Entry `tee' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `thesis.glsdefs') on input line 26.
+
+
+Package glossaries Warning: Entry `eddsa' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `thesis.glsdefs') on input line 27.
+
+
+Package glossaries Warning: Entry `ecdsa' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `thesis.glsdefs') on input line 28.
+
+
+Package glossaries Warning: Entry `ddos' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `thesis.glsdefs') on input line 29.
+
 )
 No file thesis.acr.
 [8
@@ -1695,137 +1707,153 @@ Overfull \hbox (0.16238pt too wide) in paragraph at lines 276--277
  []
 
 [27]) [28]
-\openout2 = `./Chapters/05/cryptography.aux'.
+\openout2 = `./Chapters/05/security.aux'.
 
- (Chapters/05/cryptography.tex
+ (Chapters/05/security.tex
 Chapter 5.
-) [29
+[29
 
 
 
 
-]
-\openout2 = `./Chapters/06/cybersecurity.aux'.
+] [30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- (Chapters/06/cybersecurity.tex [30
+ [31{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] [32]
+Overfull \hbox (2.01813pt too wide) in paragraph at lines 126--128
+[]\T1/lmr/bx/n/12 Double Spend-ing Re-sis-tance\T1/lmr/m/n/12 : Con-sen-sus pro-to-cols and trans-par-ent trans-
+ []
+
+
+Underfull \vbox (badness 1043) has occurred while \output is active []
+
+ [33]
+Overfull \hbox (5.26112pt too wide) in paragraph at lines 137--140
+[][][]\T1/lmr/m/n/12 Trusted Ex-e-cu-tion En-vi-ron-ment (TEE)[][]s sup-plied by the man-u-fac-tur-ers, which
+ []
+
+[34]) [35]
+\openout2 = `./Chapters/06/framework.aux'.
+
+ (Chapters/06/framework.tex [36
 
 
 
 
 ]
 Chapter 6.
-) [31
+) [37
 
 ]
-\openout2 = `./Chapters/07/framework.aux'.
+\openout2 = `./Chapters/07/integration.aux'.
 
- (Chapters/07/framework.tex [32
+ (Chapters/07/integration.tex [38
 
 
 
 
 ]
 Chapter 7.
-) [33
+) [39
 
 ]
-\openout2 = `./Chapters/08/integration.aux'.
+\openout2 = `./Chapters/08/conclusions.aux'.
 
- (Chapters/08/integration.tex [34
+ (Chapters/08/conclusions.tex [40
 
 
 
 
 ]
 Chapter 8.
-) [35
+) [41
 
-]
-\openout2 = `./Chapters/09/conclusions.aux'.
-
- (Chapters/09/conclusions.tex [36
-
+] [42
 
 
 
 ]
-Chapter 9.
-) [37
-
-] [38
-
-
-
-]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 150.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 148.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (15.84616pt too wide) in paragraph at lines 151--151
+Overfull \hbox (15.84616pt too wide) in paragraph at lines 149--149
 \T1/lmr/m/n/12 sis of De-cen-tral-ized Iden-tity Ap-proaches''. In: \T1/lmr/m/it/12 IEEE Ac-cess \T1/lmr/m/n/12 10 (2022), pp. 92273^^U
  []
 
 
-Overfull \hbox (6.40509pt too wide) in paragraph at lines 151--151
+Overfull \hbox (6.40509pt too wide) in paragraph at lines 149--149
 \T1/lmr/m/n/12 Blockchain: A Sur-vey''. In: \T1/lmr/m/it/12 2022 IEEE In-ter-na-tional Con-fer-ence on Blockchain
  []
 
 
-Overfull \hbox (22.89645pt too wide) in paragraph at lines 151--151
+Overfull \hbox (22.89645pt too wide) in paragraph at lines 149--149
 \T1/lmtt/m/n/12 com / get -[] started / how -[] bitcoin -[] transactions -[] work/$[][] \T1/lmr/m/n/12 (vis-ited on 02/14/2024). 
  []
 
 
-Overfull \hbox (8.93933pt too wide) in paragraph at lines 151--151
+Overfull \hbox (8.93933pt too wide) in paragraph at lines 149--149
 \T1/lmtt/m/n/12 com / cisco -[] fpie / decentralized -[] identities -[] demystified -[] 49a65159196c$[][]
  []
 
 
-Overfull \hbox (2.87144pt too wide) in paragraph at lines 151--151
+Overfull \hbox (2.87144pt too wide) in paragraph at lines 149--149
 \T1/lmtt/m/n/12 en / developers / docs / consensus -[] mechanisms / pos$[][] \T1/lmr/m/n/12 (vis-ited on 02/14/2024). 
  []
 
-[39
+[43
 
 ]
-Overfull \hbox (42.98714pt too wide) in paragraph at lines 151--151
+Overfull \hbox (42.98714pt too wide) in paragraph at lines 149--149
 []\T1/lmr/m/n/12 GeeksforGeeks. \T1/lmr/m/it/12 How does the Blockchain Work? \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . geeksforgeeks .
  []
 
 
-Overfull \hbox (15.83037pt too wide) in paragraph at lines 151--151
+Overfull \hbox (15.83037pt too wide) in paragraph at lines 149--149
 []\T1/lmr/m/n/12 IBM. \T1/lmr/m/it/12 Blockchain Tech-nol-ogy\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . ibm . com / topics / blockchain$[][]
  []
 
 
-Overfull \hbox (24.83444pt too wide) in paragraph at lines 151--151
+Overfull \hbox (24.83444pt too wide) in paragraph at lines 149--149
 \T1/lmr/m/it/12 In-for-ma-tion Net-work-ing (ICOIN)\T1/lmr/m/n/12 . 2021, pp. 508^^U510. \T1/lmr/m/sc/12 doi\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 10 . 1109 / ICOIN50884 .
  []
 
-
-Overfull \hbox (2.94678pt too wide) in paragraph at lines 151--151
+[44]
+Overfull \hbox (2.94678pt too wide) in paragraph at lines 149--149
 []\T1/lmr/m/n/12 Sheetal Sinha, Kumkum, and Ruchika Bathla. ``Im-ple-men-ta-tion of Blockchain
  []
 
-[40] [41] (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/cryptography.aux) (Chapters/06/cybersecurity.aux) (Chapters/07/framework.aux) (Chapters/08/integration.aux) (Chapters/09/conclusions.aux))
+[45] (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 290EB2FB8B00951E84380CC47592F885;8829.
+(rerunfilecheck)             Checksum: 8A2A2CE04EB36FDA60479C6C1D0163D3;10079.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33756 strings out of 474541
- 613168 string characters out of 5744898
+ 33907 strings out of 474541
+ 615227 string characters out of 5744898
  1938978 words of memory out of 5000000
- 55183 multiletter control sequences out of 15000+600000
+ 55307 multiletter control sequences out of 15000+600000
  609547 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  138i,10n,135p,2354b,2277s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{glo:ddos} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:tee} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:ecdsa} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:eddsa} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{glo:ipfs} has been referenced but does not exist, replaced by a fixed one
 
@@ -1901,10 +1929,10 @@ pdfTeX warning (dest): name{glo:dapp} has been referenced but does not exist, re
 
 pdfTeX warning (dest): name{glo:ssi} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (52 pages, 1435364 bytes).
+<C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on thesis.pdf (56 pages, 1491767 bytes).
 PDF statistics:
- 980 PDF objects out of 1000 (max. 8388607)
- 173 named destinations out of 1000 (max. 500000)
- 438 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1129 PDF objects out of 1200 (max. 8388607)
+ 206 named destinations out of 1000 (max. 500000)
+ 478 words of extra memory for PDF output out of 10000 (max. 10000000)
 

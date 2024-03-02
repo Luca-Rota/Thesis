@@ -1,17 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'thesis.blg'
-[249] biber-MSWIN64:340> INFO - === 
-[310] Biber.pm:419> INFO - Reading 'thesis.bcf'
-[538] Biber.pm:979> INFO - Found 24 citekeys in bib section 0
-[565] Biber.pm:4419> INFO - Processing section 0
-[589] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
-[692] bibtex.pm:1713> INFO - LaTeX decoding ...
-[755] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[1015] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1016] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1016] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'it-IT'
-[1016] Biber.pm:4245> INFO - No sort tailoring available for locale 'it-IT'
-[1062] bbl.pm:660> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[1084] bbl.pm:763> INFO - Output to thesis.bbl
-[1085] Biber.pm:131> WARN - Duplicate entry key: 'businessreporter' in file 'references.bib', skipping ...
-[1085] Biber.pm:133> INFO - WARNINGS: 1
+[1] Config.pm:310> INFO - Logfile is 'thesis.blg'
+[292] biber-MSWIN64:340> INFO - === 
+[379] Biber.pm:419> INFO - Reading 'thesis.bcf'
+[595] Biber.pm:979> INFO - Found 28 citekeys in bib section 0
+[618] Biber.pm:4419> INFO - Processing section 0
+[645] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[760] bibtex.pm:1713> INFO - LaTeX decoding ...
+[830] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[1100] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1100] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1100] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'it-IT'
+[1100] Biber.pm:4245> INFO - No sort tailoring available for locale 'it-IT'
+[1151] bbl.pm:660> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[1176] bbl.pm:763> INFO - Output to thesis.bbl
+[1177] Biber.pm:131> WARN - Duplicate entry key: 'businessreporter' in file 'references.bib', skipping ...
+[1178] Biber.pm:133> INFO - WARNINGS: 1
