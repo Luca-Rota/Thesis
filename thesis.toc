@@ -2,10 +2,10 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{List of Tables}{\EnsureStandardFontEncoding {vi}}{section*.1}%
-\contentsline {chapter}{List of Figures}{\EnsureStandardFontEncoding {vii}}{section*.2}%
-\contentsline {chapter}{Listings}{\EnsureStandardFontEncoding {viii}}{section*.2}%
-\contentsline {chapter}{Acronyms}{\EnsureStandardFontEncoding {viii}}{section*.2}%
+\contentsline {chapter}{List of Tables}{\EnsureStandardFontEncoding {vii}}{section*.1}%
+\contentsline {chapter}{List of Figures}{\EnsureStandardFontEncoding {viii}}{section*.2}%
+\contentsline {chapter}{Listings}{\EnsureStandardFontEncoding {ix}}{section*.2}%
+\contentsline {chapter}{Acronyms}{\EnsureStandardFontEncoding {ix}}{section*.2}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Objectives}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Outline}{2}{section.1.2}%
@@ -98,6 +98,25 @@
 \contentsline {subsubsection}{Fake Identity Attacks}{34}{subsection.5.2.2}%
 \contentsline {subsubsection}{Identity Theft Attacks}{35}{subsection.5.2.2}%
 \contentsline {subsubsection}{DDoS Attacks}{35}{subsection.5.2.2}%
-\contentsline {chapter}{\numberline {6}Framework}{37}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Integration}{39}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Conclusions}{41}{chapter.8}%
+\contentsline {chapter}{\numberline {6}Design and Implementation}{37}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Framework Development Journey}{37}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Initial Research}{38}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Challenges and Failed Attempts}{39}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Final Choice}{39}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Framework Main Components}{39}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Ethr-did and Other Libraries}{40}{subsection.6.2.1}%
+\contentsline {subsubsection}{Ethr-did Constructor}{40}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Ethereum and Smart Contracts}{41}{subsection.6.2.2}%
+\contentsline {subsubsection}{The Smart Contract}{42}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}MetaMask}{43}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Verifiable Credentials and Limitations}{44}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Utilization and Challenges}{44}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Solution Exploration}{45}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Final Decision}{45}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Application Functionality Analysis}{46}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}The server}{46}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Login Process}{47}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Sign-Up Procedure}{47}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}Sign-In Mechanism}{48}{subsection.6.4.4}%
+\contentsline {chapter}{\numberline {7}Integration}{49}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Conclusions}{51}{chapter.8}%

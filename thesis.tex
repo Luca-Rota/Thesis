@@ -10,6 +10,10 @@
   cucitura=7mm
 ]{toptesi}
 
+\usepackage[acronym]{glossaries}
+
+%\makeglossaries
+
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
@@ -41,8 +45,6 @@
 \usepackage{setspace}
 \usepackage{parskip}
 \setlength{\parindent}{1em}
-
-\usepackage[acronym]{glossaries}
 
 \usepackage{titlesec}
 \titleformat{\subsubsection}[hang]{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
@@ -111,8 +113,9 @@
 \lstlistoflistings
 
 \addcontentsline{toc}{chapter}{Acronyms}
-\input{./Contents/acronyms.tex} 
+%\printglossary
 \printglossary[title={Acronyms}, type=\acronymtype]
+%\printglossaries
 
 \cleardoublepage
 \thispagestyle{empty}

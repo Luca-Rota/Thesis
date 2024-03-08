@@ -195,6 +195,54 @@
       \verb https://medium.com/cisco-fpie/decentralized-identities-demystified-49a65159196c
       \endverb
     \endentry
+    \entry{10218198}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=d1f0fa98ab0f6ca99eadcf55a13fd612}{%
+           family={De\bibnamedelima Salve},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=16c3aeba3e487012d851b5a3af68d86b}{%
+           family={Di\bibnamedelima Francesco\bibnamedelima Maesa},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Damiano},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f6bee3a001f2f6aba012ce0d4294df56}{%
+           family={Federico},
+           familyi={F\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=04d60b7bb04efceb1729048aec7b71f1}{%
+           family={Mori},
+           familyi={M\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cadc080384a7da593ac7fdbd18cd57e0}{%
+           family={Ricci},
+           familyi={R\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{415aa70a731c61db58ab3f655b7a86cb}
+      \strng{fullhash}{a87b44704e88bd970c4a874acba255d1}
+      \strng{bibnamehash}{415aa70a731c61db58ab3f655b7a86cb}
+      \strng{authorbibnamehash}{415aa70a731c61db58ab3f655b7a86cb}
+      \strng{authornamehash}{415aa70a731c61db58ab3f655b7a86cb}
+      \strng{authorfullhash}{a87b44704e88bd970c4a874acba255d1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE Symposium on Computers and Communications (ISCC)}
+      \field{title}{AlgoID: A Blockchain Reliant Self-Sovereign Identity Framework on Algorand}
+      \field{year}{2023}
+      \field{pages}{1162\bibrangedash 1168}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ISCC58397.2023.10218198
+      \endverb
+      \keyw{Computers;Smart contracts;W3C;Blockchains;Digital Identity;Self Sovereign Identity;Blockchain;Algorand;Smart Contract}
+    \endentry
     \entry{w3didcore}{online}{}
       \list{organization}{1}{%
         {World Wide Web Consortium (W3C)}%
@@ -246,6 +294,64 @@
       \verb https://medium.com/blockchain-for-decentralized-identity/blockchain-for-decentralized-identity-conceptual-architecture-982c41e446d9
       \endverb
     \endentry
+    \entry{did-jwt-vc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f04625046d0c0919c15d52c4a47c79cb}{%
+           family={decentralized-identity},
+           familyi={d\bibinithyphendelim i\bibinitperiod}}}%
+      }
+      \strng{namehash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{fullhash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{bibnamehash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{authorbibnamehash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{authornamehash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{authorfullhash}{f04625046d0c0919c15d52c4a47c79cb}
+      \field{extraname}{1}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{did-jwt-vc GitHub Repository}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/decentralized-identity/did-jwt-vc
+      \endverb
+      \verb{url}
+      \verb https://github.com/decentralized-identity/did-jwt-vc
+      \endverb
+    \endentry
+    \entry{ethr-did-resolver}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f04625046d0c0919c15d52c4a47c79cb}{%
+           family={decentralized-identity},
+           familyi={d\bibinithyphendelim i\bibinitperiod}}}%
+      }
+      \strng{namehash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{fullhash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{bibnamehash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{authorbibnamehash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{authornamehash}{f04625046d0c0919c15d52c4a47c79cb}
+      \strng{authorfullhash}{f04625046d0c0919c15d52c4a47c79cb}
+      \field{extraname}{2}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ethr-did-resolver GitHub Repository}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/decentralized-identity/ethr-did-resolver
+      \endverb
+      \verb{url}
+      \verb https://github.com/decentralized-identity/ethr-did-resolver
+      \endverb
+    \endentry
     \entry{dockio}{online}{}
       \name{author}{1}{}{%
         {{hash=035213f319f5790129d55b4ee3561543}{%
@@ -272,6 +378,22 @@
       \endverb
       \verb{url}
       \verb https://www.dock.io/post/decentralized-identity#decentralized-identity-and-self-sovereign-identity-whats-the-difference
+      \endverb
+    \endentry
+    \entry{ethereum}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{title}{Ethereum}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ethereum.org/it/
+      \endverb
+      \verb{url}
+      \verb https://ethereum.org/it/
       \endverb
     \endentry
     \entry{ethereumpos}{online}{}
@@ -498,6 +620,22 @@
       \verb https://www.ibm.com/topics/blockchain
       \endverb
     \endentry
+    \entry{infura}{online}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{title}{Infura}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.infura.io/
+      \endverb
+      \verb{url}
+      \verb https://www.infura.io/
+      \endverb
+    \endentry
     \entry{9695553}{inproceedings}{}
       \name{author}{4}{}{%
         {{hash=3cc7375fa1f3ac04f1abeafd180d7e9f}{%
@@ -540,6 +678,39 @@
       \verb 10.1109/IAECST54258.2021.9695553
       \endverb
       \keyw{Industries;Technological innovation;Ecosystems;Government;Standardization;Passwords;Internet;digital identity;decentralized identity;decentralized identifier;blockchain}
+    \endentry
+    \entry{9315899}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=49211af09495eb08893a9f711a1fcd72}{%
+           family={Kaneriya},
+           familyi={K\bibinitperiod},
+           given={Jayana},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2bb468c9f7e9eaa33840e5a6da53fa11}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Hiren},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ed15d5401f374c8fac7849b81252a9e}
+      \strng{fullhash}{6ed15d5401f374c8fac7849b81252a9e}
+      \strng{bibnamehash}{6ed15d5401f374c8fac7849b81252a9e}
+      \strng{authorbibnamehash}{6ed15d5401f374c8fac7849b81252a9e}
+      \strng{authornamehash}{6ed15d5401f374c8fac7849b81252a9e}
+      \strng{authorfullhash}{6ed15d5401f374c8fac7849b81252a9e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 3rd International Conference on Intelligent Sustainable Systems (ICISS)}
+      \field{title}{A Comparative Survey on Blockchain Based Self Sovereign Identity System}
+      \field{year}{2020}
+      \field{pages}{1150\bibrangedash 1155}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICISS49785.2020.9315899
+      \endverb
+      \keyw{Blockchain;Cryptography;Smart contracts;Internet;Public key;Privacy;Medical services;self sovereign identity;blockchain;identity management}
     \endentry
     \entry{9596538}{inproceedings}{}
       \name{author}{4}{}{%
@@ -669,6 +840,38 @@
       \verb 10.1109/ICOIN50884.2021.9333857
       \endverb
       \keyw{Authentication;Self-Sovereign Identity;Verifiable Credentials;Decentralized Identifiers;Blockchains;Authentication Method}
+    \endentry
+    \entry{masca}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{title}{Masca Documentation}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.masca.io/
+      \endverb
+      \verb{url}
+      \verb https://docs.masca.io/
+      \endverb
+    \endentry
+    \entry{metamask}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{title}{MetaMask - Crypto Wallet for Ethereum and ERC-20 Tokens}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://metamask.io/
+      \endverb
+      \verb{url}
+      \verb https://metamask.io/
+      \endverb
     \endentry
     \entry{9659929}{inproceedings}{}
       \name{author}{3}{}{%
@@ -925,6 +1128,80 @@
       \field{month}{04}
       \field{title}{The Impact of Self-Sovereign Identities on CyberSecurity}
       \field{year}{2023}
+    \endentry
+    \entry{truffle-suite}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{Truffle Suite}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://archive.trufflesuite.com/
+      \endverb
+      \verb{url}
+      \verb https://archive.trufflesuite.com/
+      \endverb
+    \endentry
+    \entry{ethr-did}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0f1e650d55d4a1520ac1fec550d09b3e}{%
+           family={uport-project},
+           familyi={u\bibinithyphendelim p\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{fullhash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{bibnamehash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{authorbibnamehash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{authornamehash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{authorfullhash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \field{extraname}{1}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ethr-did GitHub Repository}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/uport-project/ethr-did
+      \endverb
+      \verb{url}
+      \verb https://github.com/uport-project/ethr-did
+      \endverb
+    \endentry
+    \entry{ethr-did-registry}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0f1e650d55d4a1520ac1fec550d09b3e}{%
+           family={uport-project},
+           familyi={u\bibinithyphendelim p\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{fullhash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{bibnamehash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{authorbibnamehash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{authornamehash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \strng{authorfullhash}{0f1e650d55d4a1520ac1fec550d09b3e}
+      \field{extraname}{2}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ethr-did-registry GitHub Repository}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/uport-project/ethr-did-registry
+      \endverb
+      \verb{url}
+      \verb https://github.com/uport-project/ethr-did-registry
+      \endverb
     \endentry
     \entry{w3cvcdatamodel}{online}{}
       \list{organization}{1}{%

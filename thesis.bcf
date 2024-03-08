@@ -2482,6 +2482,20 @@
     <bcf:citekey order="119" intorder="1">9659929</bcf:citekey>
     <bcf:citekey order="120" intorder="1">CyberSecurity</bcf:citekey>
     <bcf:citekey order="121" intorder="1">9659929</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">9315899</bcf:citekey>
+    <bcf:citekey order="123" intorder="1">9129332</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">8776589</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">10218198</bcf:citekey>
+    <bcf:citekey order="126" intorder="1">infura</bcf:citekey>
+    <bcf:citekey order="127" intorder="1">ethr-did</bcf:citekey>
+    <bcf:citekey order="128" intorder="1">ethr-did-registry</bcf:citekey>
+    <bcf:citekey order="129" intorder="1">ethr-did-resolver</bcf:citekey>
+    <bcf:citekey order="130" intorder="1">ethr-did</bcf:citekey>
+    <bcf:citekey order="131" intorder="1">ethereum</bcf:citekey>
+    <bcf:citekey order="132" intorder="1">truffle-suite</bcf:citekey>
+    <bcf:citekey order="133" intorder="1">metamask</bcf:citekey>
+    <bcf:citekey order="134" intorder="1">masca</bcf:citekey>
+    <bcf:citekey order="135" intorder="1">did-jwt-vc</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
