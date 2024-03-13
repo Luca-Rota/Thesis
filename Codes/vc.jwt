@@ -1,0 +1,28 @@
+{
+  "credentialSubject": {
+    "name": "Luca ",
+    "surname": "Rota ",
+    "email": "lucarota@gmail.com",
+    "profession": "studente",
+    "country": "Italy",
+    "region": "Liguria",
+    "id": "did:ethr:0xaa36a7:0x6815Bcc7DA136E34E6E6ACBf0a1F9671225c767A"
+  },
+  "issuer": {
+    "id": "did:ethr:0xaa36a7:0x2F506eaaFfe39edD456cA74F13c74D6d80768Eb0"
+  },
+  "type": [
+    "VerifiableCredential"
+  ],
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1"
+  ],
+  "issuanceDate": "2024-03-13T11:08:24.000Z",
+  "proof": {
+    "type": "JwtProof2020",
+    "jwt": "eyJhbGciOiJFUzI1NkstUiIsInR5cCI6IkpXVCJ9eyJ2YyI6eyJAY29udGV4
+    dCI6WyJodHRwczovL3d3dy53My5vcmcvMjAxOC9jcmVkZW50aWFscy92MSJdLCJ0eXBl
+    GOTx6lSAnLrhLp9iUOdUPl6HgNBUbrPJl74lQnu1aCwQ_JEWC140T2oeBH85vcmcvYyI
+    IjpbIlZlcmlmaWFibGVDcmVkZW50aWFsIl0sImNyZWRlbnRpYWxTdWJqZWN...
+  }
+}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  8 MAR 2024 17:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  13 MAR 2024 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -953,17 +953,26 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen186
+\ar@mcellbox=\box69
+\extrarowheight=\dimen187
+\NC@list=\toks38
+\extratabsurround=\skip71
+\backup@length=\skip72
+\ar@cellbox=\box70
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box69
-\beforetitleunit=\skip71
-\aftertitleunit=\skip72
-\ttl@plus=\dimen186
-\ttl@minus=\dimen187
-\ttl@toksa=\toks38
-\titlewidth=\dimen188
-\titlewidthlast=\dimen189
-\titlewidthfirst=\dimen190
+\ttl@box=\box71
+\beforetitleunit=\skip73
+\aftertitleunit=\skip74
+\ttl@plus=\dimen188
+\ttl@minus=\dimen189
+\ttl@toksa=\toks39
+\titlewidth=\dimen190
+\titlewidthlast=\dimen191
+\titlewidthfirst=\dimen192
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
@@ -972,27 +981,18 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@cnth=\count356
 \Gm@cntv=\count357
 \c@Gm@tempcnt=\count358
-\Gm@bindingoffset=\dimen191
-\Gm@wd@mp=\dimen192
-\Gm@odd@mp=\dimen193
-\Gm@even@mp=\dimen194
-\Gm@layoutwidth=\dimen195
-\Gm@layoutheight=\dimen196
-\Gm@layouthoffset=\dimen197
-\Gm@layoutvoffset=\dimen198
-\Gm@dimlist=\toks39
+\Gm@bindingoffset=\dimen193
+\Gm@wd@mp=\dimen194
+\Gm@odd@mp=\dimen195
+\Gm@even@mp=\dimen196
+\Gm@layoutwidth=\dimen197
+\Gm@layoutheight=\dimen198
+\Gm@layouthoffset=\dimen199
+\Gm@layoutvoffset=\dimen256
+\Gm@dimlist=\toks40
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
 Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen199
-\ar@mcellbox=\box70
-\extrarowheight=\dimen256
-\NC@list=\toks40
-\extratabsurround=\skip73
-\backup@length=\skip74
-\ar@cellbox=\box71
-)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
@@ -1214,57 +1214,78 @@ Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@output=\toks41
 \AP@partial=\box72
 \AP@footins=\box73
-)
-\c@observation=\count485
- (Contents/xml_style.tex (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count486
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count485
 \lst@gtempboxa=\box74
 \lst@token=\toks42
-\lst@length=\count487
+\lst@length=\count486
 \lst@currlwidth=\dimen257
-\lst@column=\count488
-\lst@pos=\count489
+\lst@column=\count487
+\lst@pos=\count488
 \lst@lostspace=\dimen258
 \lst@width=\dimen259
-\lst@newlines=\count490
-\lst@lineno=\count491
+\lst@newlines=\count489
+\lst@lineno=\count490
 \lst@maxwidth=\dimen260
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count492
-\lst@skipnumbers=\count493
+\c@lstnumber=\count491
+\lst@skipnumbers=\count492
 \lst@framebox=\box75
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 149.
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package color Info: Redefining color gray on input line 7.
-Package color Info: Redefining color cyan on input line 10.
-) (Contents/acronyms.tex)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen261
+\TX@old@table=\dimen262
+\TX@old@col=\dimen263
+\TX@target=\dimen264
+\TX@delta=\dimen265
+\TX@cols=\count493
+\TX@ftn=\toks43
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen266
+\c@nlinenum=\count494
+\TeXr@lab=\toks44
+)
+\c@observation=\count495
+ (Contents/xml_style.tex) (Contents/acronyms.tex)
 \glswrite=\write5
 \glo@main@file=\write6
 \openout6 = `thesis.glo'.
 
-Package glossaries Info: Writing glossary file thesis.glo on input line 77.
+Package glossaries Info: Writing glossary file thesis.glo on input line 176.
 \glo@acronym@file=\write7
 \openout7 = `thesis.acn'.
 
-Package glossaries Info: Writing glossary file thesis.acn on input line 77.
+Package glossaries Info: Writing glossary file thesis.acn on input line 176.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count494
-\@quotereset=\count495
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 82.
+\@quotelevel=\count496
+\@quotereset=\count497
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 181.
 (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1275,60 +1296,60 @@ LaTeX Warning: Unused global option(s):
 (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 82.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 181.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 181.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Info: Redefining \it@ocap on input line 82.
-LaTeX Info: Redefining \it@ccap on input line 82.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Info: Redefining \it@ocap on input line 181.
+LaTeX Info: Redefining \it@ccap on input line 181.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count496
-\scratchdimen=\dimen261
+\scratchcounter=\count498
+\scratchdimen=\dimen267
 \scratchbox=\box76
-\nofMPsegments=\count497
-\nofMParguments=\count498
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count499
-\MPscratchDim=\dimen262
-\MPnumerator=\count500
-\makeMPintoPDFobject=\count501
-\everyMPtoPDFconversion=\toks44
+\nofMPsegments=\count499
+\nofMParguments=\count500
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count501
+\MPscratchDim=\dimen268
+\MPnumerator=\count502
+\makeMPintoPDFobject=\count503
+\everyMPtoPDFconversion=\toks46
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package TOPtesi Info: Margin width recalculation on input line 82.
+Package TOPtesi Info: Margin width recalculation on input line 181.
 Package TOPtesi Info: Before:
 (TOPtesi)             oddsidemargin  -0.56833pt
-(TOPtesi)             evensidemargin 35.28255pt on input line 82.
+(TOPtesi)             evensidemargin 35.28255pt on input line 181.
 Package TOPtesi Info: After:
 (TOPtesi)             oddsidemargin  19.34859pt
-(TOPtesi)             evensidemargin 15.36563pt on input line 82.
-\captionwidth=\dimen263
-\fullwidth=\dimen264
+(TOPtesi)             evensidemargin 15.36563pt on input line 181.
+\captionwidth=\dimen269
+\fullwidth=\dimen270
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\topcoman.sty
 Package: topcoman 2020-09-06 v.6.4.06 Additional commands for the TOPtesi bundle
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
@@ -1336,7 +1357,7 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )) (thesis.glsdefs) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-dictionary-English.dict
 Dictionary: glossaries-dictionary, Language: English 
 )
-Package hyperref Info: Link coloring ON on input line 82.
+Package hyperref Info: Link coloring ON on input line 181.
  (thesis.out) (thesis.out)
 \@outlinefile=\write8
 \openout8 = `thesis.out'.
@@ -1399,9 +1420,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 82.
-Package biblatex Info: Reference segment=0 on input line 82.
-\c@lstlisting=\count502
+Package biblatex Info: Reference section=0 on input line 181.
+Package biblatex Info: Reference segment=0 on input line 181.
+\c@lstlisting=\count504
  (Contents/title.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
@@ -1435,7 +1456,7 @@ Package biblatex Info: Reference segment=0 on input line 82.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./Images/logo_polito_2021.jpg, id=305, 370.2633pt x 356.532pt>
+<./Images/logo_polito_2021.jpg, id=337, 370.2633pt x 356.532pt>
 File: ./Images/logo_polito_2021.jpg Graphic file (type jpg)
 <use ./Images/logo_polito_2021.jpg>
 Package pdftex.def Info: ./Images/logo_polito_2021.jpg  used on input line 9.
@@ -1490,7 +1511,7 @@ l.2 I
 pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104 \pagestyle
+l.203 \pagestyle
                 {plain} [3
 
 ] (thesis.toc [4
@@ -1507,20 +1528,20 @@ l.104 \pagestyle
 
 
 
-] (thesis.lof)
+] (thesis.lof [8
+
+
+])
 \tf@lof=\write11
 \openout11 = `thesis.lof'.
 
- [8
-
-
-] (thesis.lol)
+ [9] (thesis.lol)
 \tf@lol=\write12
 \openout12 = `thesis.lol'.
 
 
 No file thesis.acr.
-[9
+[10
 
 
 ] [1
@@ -1537,238 +1558,688 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 W
-      ith a focus on practicality this research culminates in developing a \... [1
+l.19 
+      [1
 
 
 
-{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]) [2]
+{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [2]) [3]
 \openout2 = `./Chapters/02/blockchain.aux'.
 
- (Chapters/02/blockchain.tex
+ (Chapters/02/blockchain.tex [4
+
+
+
+
+]
 Chapter 2.
-[3
-
-
-
+[5
 
 ]
 Underfull \vbox (badness 3312) has occurred while \output is active []
 
- [4] [5] [6]
-Overfull \hbox (3.30782pt too wide) in paragraph at lines 109--113
-\T1/lmr/m/n/12 pri-vate or per-mis-sioned (ac-cess is re-stricted to au-tho-rized en-ti-ties) blockchains
+ [6]
+<Images/c2_1.png, id=619, 593.96906pt x 259.7203pt>
+File: Images/c2_1.png Graphic file (type png)
+<use Images/c2_1.png>
+Package pdftex.def Info: Images/c2_1.png  used on input line 48.
+(pdftex.def)             Requested size: 292.77629pt x 128.02495pt.
+ [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.76     \item \textbf
+                      {Formation of New Blocks:} Valid transactions are adde... <./Images/c2_1.png>]
+<Images/c2_2.png, id=641, 826.58812pt x 347.79938pt>
+File: Images/c2_2.png Graphic file (type png)
+<use Images/c2_2.png>
+Package pdftex.def Info: Images/c2_2.png  used on input line 86.
+(pdftex.def)             Requested size: 418.25368pt x 175.9902pt.
+
+Underfull \vbox (badness 6188) has occurred while \output is active []
+
+ [8
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.95   \item \textbf
+                    {Greater Trust:} Blockchain helps establish trust across... <./Images/c2_2.png>] [9]
+Overfull \hbox (1.63164pt too wide) in alignment at lines 152--152
+[][][][] 
+ []
+
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.156 \newpage
+              ]
+Overfull \hbox (1.76028pt too wide) in paragraph at lines 189--189
+ []|\T1/lmr/m/n/12 Permissioned| 
  []
 
 
+Overfull \hbox (0.82434pt too wide) in alignment at lines 189--189
+[][][][][][] 
+ []
+
+[11{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}
+pdfTeX warning (ext4): destination with the same identifier (name{table.2.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.198 
+      ] [12]
+<Images/c2_3.png, id=699, 493.845pt x 258.9675pt>
+File: Images/c2_3.png Graphic file (type png)
+<use Images/c2_3.png>
+Package pdftex.def Info: Images/c2_3.png  used on input line 234.
+(pdftex.def)             Requested size: 292.77629pt x 153.52841pt.
+ [13
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.253 
+       <./Images/c2_3.png>]
+<Images/c2_4.png, id=709, 299.61937pt x 173.89969pt>
+File: Images/c2_4.png Graphic file (type png)
+<use Images/c2_4.png>
+Package pdftex.def Info: Images/c2_4.png  used on input line 273.
+(pdftex.def)             Requested size: 292.77629pt x 169.94023pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
-Underfull \vbox (badness 5741) has occurred while \output is active []
+ [14])
+Underfull \vbox (badness 3492) has occurred while \output is active []
 
- [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9] [10]) [11]
+ [15
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.233 \include{./Chapters/02/blockchain.tex}
+                                             <./Images/c2_4.png>] [16]
 \openout2 = `./Chapters/03/identity.aux'.
 
- (Chapters/03/identity.tex [12
-
-
-
-
-]
+ (Chapters/03/identity.tex
 Chapter 3.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13
-
-] [14] [15]
-Overfull \hbox (1.99786pt too wide) in paragraph at lines 78--82
-[]\T1/lmr/m/n/12 With adop-tion of fed-er-ated iden-tity so-lu-tions user con-ve-nience and inter-platform
- []
-
-) [16]
-\openout2 = `./Chapters/04/ssi.aux'.
-
- (Chapters/04/ssi.tex
-Chapter 4.
-[17
+ [17
 
 
 
 
 ] [18]
+<Images/c3_1.png, id=746, 613.54219pt x 176.91093pt>
+File: Images/c3_1.png Graphic file (type png)
+<use Images/c3_1.png>
+Package pdftex.def Info: Images/c3_1.png  used on input line 51.
+(pdftex.def)             Requested size: 418.25368pt x 120.60017pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 69.
+
+Overfull \hbox (2.69633pt too wide) in paragraph at lines 71--71
+ [] 
+ []
+
+
+Overfull \hbox (2.37285pt too wide) in paragraph at lines 71--71
+ [] 
+ []
+
+
+Overfull \hbox (2.80666pt too wide) in paragraph at lines 71--71
+ [] 
+ []
+
+
+Overfull \hbox (2.9457pt too wide) in paragraph at lines 71--71
+ [] 
+ []
+
+
+Overfull \hbox (3.32596pt too wide) in paragraph at lines 71--72
+ [] 
+ []
+
+
+Overfull \hbox (3.26102pt too wide) in paragraph at lines 73--73
+ []|\T1/lmr/m/n/10.95 Centralized 
+ []
+
+
+Overfull \hbox (9.36066pt too wide) in paragraph at lines 69--80
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 5504) has occurred while \output is active []
+
+ [19
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.88 
+      <./Images/c3_1.png>]
+<Images/c3_2.png, id=755, 186.6975pt x 106.14656pt>
+File: Images/c3_2.png Graphic file (type png)
+<use Images/c3_2.png>
+Package pdftex.def Info: Images/c3_2.png  used on input line 91.
+(pdftex.def)             Requested size: 209.12683pt x 118.90439pt.
+ [20
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.100 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.100 
+       <./Images/c3_2.png>]
+<Images/c3_3.png, id=765, 200.24812pt x 165.61874pt>
+File: Images/c3_3.png Graphic file (type png)
+<use Images/c3_3.png>
+Package pdftex.def Info: Images/c3_3.png  used on input line 110.
+(pdftex.def)             Requested size: 209.12683pt x 172.97229pt.
+
+Overfull \hbox (1.99786pt too wide) in paragraph at lines 114--118
+[]\T1/lmr/m/n/12 With adop-tion of fed-er-ated iden-tity so-lu-tions user con-ve-nience and inter-platform
+ []
+
+
+Underfull \vbox (badness 2126) has occurred while \output is active []
+
+ [21
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.125 
+       <./Images/c3_3.png>]
+<Images/c3_4.png, id=773, 194.97844pt x 142.28156pt>
+File: Images/c3_4.png Graphic file (type png)
+<use Images/c3_4.png>
+Package pdftex.def Info: Images/c3_4.png  used on input line 128.
+(pdftex.def)             Requested size: 209.12683pt x 152.61317pt.
+) [22
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.235 \include{./Chapters/03/identity.tex}
+                                           <./Images/c3_4.png>]
+\openout2 = `./Chapters/04/ssi.aux'.
+
+ (Chapters/04/ssi.tex
+Chapter 4.
+[23
+
+
+
+
+] [24]
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [19] [20] [21] [22] [23] [24]
-Underfull \vbox (badness 2409) has occurred while \output is active []
+ [25] [26] [27]
+<Images/c4_1.png, id=826, 256.70906pt x 73.77562pt>
+File: Images/c4_1.png Graphic file (type png)
+<use Images/c4_1.png>
+Package pdftex.def Info: Images/c4_1.png  used on input line 159.
+(pdftex.def)             Requested size: 250.95476pt x 72.12285pt.
+ [28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.168   \item \textbf
+                     {Verification Methods}: Public keys or cryptographic ob... <./Images/c4_1.png>]
+<Images/c4_2.png, id=837, 386.94562pt x 160.34906pt>
+File: Images/c4_2.png Graphic file (type png)
+<use Images/c4_2.png>
+Package pdftex.def Info: Images/c4_2.png  used on input line 184.
+(pdftex.def)             Requested size: 334.60422pt x 138.66087pt.
+ [29
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.194 
+       <./Images/c4_2.png>]
+<Images/c4_3.png, id=845, 410.2828pt x 187.45032pt>
+File: Images/c4_3.png Graphic file (type png)
+<use Images/c4_3.png>
+Package pdftex.def Info: Images/c4_3.png  used on input line 214.
+(pdftex.def)             Requested size: 418.25368pt x 191.09094pt.
 
- [25]
-Overfull \hbox (8.17085pt too wide) in paragraph at lines 258--259
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30]
+<Images/c4_4.png, id=855, 609.77812pt x 132.495pt>
+File: Images/c4_4.png Graphic file (type png)
+<use Images/c4_4.png>
+Package pdftex.def Info: Images/c4_4.png  used on input line 226.
+(pdftex.def)             Requested size: 418.25368pt x 90.88184pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.237 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.237 
+       <./Images/c4_3.png> <./Images/c4_4.png>] [32]
+<Images/c4_5.png, id=871, 677.53125pt x 441.65pt>
+File: Images/c4_5.png Graphic file (type png)
+<use Images/c4_5.png>
+Package pdftex.def Info: Images/c4_5.png  used on input line 273.
+(pdftex.def)             Requested size: 334.60422pt x 218.11536pt.
+ [33
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.280     \item I
+                 t works as a base layer, making a retrievable data registry... <./Images/c4_5.png>]
+Overfull \hbox (8.17085pt too wide) in paragraph at lines 288--289
 []\T1/lmr/m/n/12 Enables se-cure com-mu-ni-ca-tion be-tween agents and dig-i-tal wal-lets through
  []
 
-[26]
-Overfull \hbox (0.16238pt too wide) in paragraph at lines 276--277
+
+Overfull \hbox (0.16238pt too wide) in paragraph at lines 306--307
 []\T1/lmr/m/n/12 Uses Trust An-chors, Au-di-tors, or known gov-er-nance or-ga-ni-za-tions which
  []
 
-[27]) [28]
+[34]
+<Images/c4_6.png, id=889, 411.78844pt x 118.19156pt>
+File: Images/c4_6.png Graphic file (type png)
+<use Images/c4_6.png>
+Package pdftex.def Info: Images/c4_6.png  used on input line 335.
+(pdftex.def)             Requested size: 418.25368pt x 120.04883pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 2469) has occurred while \output is active []
+
+ [35]) [36
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.237 \include{./Chapters/04/ssi.tex}
+                                      <./Images/c4_6.png>]
 \openout2 = `./Chapters/05/security.aux'.
 
  (Chapters/05/security.tex
 Chapter 5.
-[29
+[37
 
 
 
 
-] [30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] [32]
-Overfull \hbox (2.01813pt too wide) in paragraph at lines 126--128
+]
+<Images/c5_1.png, id=911, 524.71031pt x 91.84312pt>
+File: Images/c5_1.png Graphic file (type png)
+<use Images/c5_1.png>
+Package pdftex.def Info: Images/c5_1.png  used on input line 34.
+(pdftex.def)             Requested size: 418.25368pt x 73.2111pt.
+<Images/c5_2.png, id=913, 512.66531pt x 72.27pt>
+File: Images/c5_2.png Graphic file (type png)
+<use Images/c5_2.png>
+Package pdftex.def Info: Images/c5_2.png  used on input line 44.
+(pdftex.def)             Requested size: 418.25368pt x 58.96071pt.
+ [38
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.53   \item \textbf
+                    {Type}: Identifies the exact proof type for cryptographi...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.53   \item \textbf
+                    {Type}: Identifies the exact proof type for cryptographi... <./Images/c5_1.png> <./Images/c5_2.png>]
+<Images/c5_3.png, id=925, 327.47343pt x 155.83218pt>
+File: Images/c5_3.png Graphic file (type png)
+<use Images/c5_3.png>
+Package pdftex.def Info: Images/c5_3.png  used on input line 62.
+(pdftex.def)             Requested size: 334.60422pt x 159.2273pt.
+ [39
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.75 
+      <./Images/c5_3.png>] [40{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] [41]
+Overfull \hbox (2.01813pt too wide) in paragraph at lines 144--146
 []\T1/lmr/bx/n/12 Double Spend-ing Re-sis-tance\T1/lmr/m/n/12 : Con-sen-sus pro-to-cols and trans-par-ent trans-
  []
 
 
-Underfull \vbox (badness 1043) has occurred while \output is active []
-
- [33]
-Overfull \hbox (5.26112pt too wide) in paragraph at lines 137--140
+Overfull \hbox (5.26112pt too wide) in paragraph at lines 155--158
 []\T1/lmr/m/n/12 Trusted Ex-e-cu-tion En-vi-ron-ment (TEE)s sup-plied by the man-u-fac-tur-ers, which
  []
 
-[34]) [35]
+[42]
+<Images/c5_4.png, id=969, 571.38469pt x 230.36063pt>
+File: Images/c5_4.png Graphic file (type png)
+<use Images/c5_4.png>
+Package pdftex.def Info: Images/c5_4.png  used on input line 177.
+(pdftex.def)             Requested size: 418.25368pt x 168.62582pt.
+ [43
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.181 \newpage
+               <./Images/c5_4.png>]
+<Images/c5_5.png, id=977, 569.87906pt x 188.20313pt>
+File: Images/c5_5.png Graphic file (type png)
+<use Images/c5_5.png>
+Package pdftex.def Info: Images/c5_5.png  used on input line 195.
+(pdftex.def)             Requested size: 418.25368pt x 138.12804pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.207 
+       <./Images/c5_5.png>]
+<Images/c5_6.png, id=986, 569.87906pt x 258.21469pt>
+File: Images/c5_6.png Graphic file (type png)
+<use Images/c5_6.png>
+Package pdftex.def Info: Images/c5_6.png  used on input line 210.
+(pdftex.def)             Requested size: 418.25368pt x 189.51167pt.
+) [45
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.239 \include{./Chapters/05/security.tex}
+                                           <./Images/c5_6.png>]
 \openout2 = `./Chapters/06/framework.aux'.
 
- (Chapters/06/framework.tex [36
+ (Chapters/06/framework.tex [46
 
 
 
 
 ]
 Chapter 6.
-[37
+[47
 
 ]
-Underfull \vbox (badness 3088) has occurred while \output is active []
+Underfull \hbox (badness 10000) in alignment at lines 56--56
+[][][][] 
+ []
 
- [38]
-Overfull \hbox (5.50673pt too wide) in paragraph at lines 63--66
+[48
+pdfTeX warning (ext4): destination with the same identifier (name{table.6.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.63 
+     ]
+Overfull \hbox (5.50673pt too wide) in paragraph at lines 86--89
 \T1/lmr/m/n/12 cally ex-e-cuted soft-ware, us-ing \T1/lmr/m/it/12 In-fura \T1/lmr/m/n/12 to com-mu-ni-cate with the Ethereum blockchain.
  []
 
-[39] [40] [41] [42]
+[49] [50] [51] [52]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 174.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 174.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (Codes/deploy.js
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 2.
+) [53] (Codes/registry.sol) [54] (Codes/mm.js [55]) [56] [57] (Codes/verifyVC.js)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43] [44] [45] [46] [47]) [48]
+ [58] (Codes/cookie.js) [59] (Codes/createJWT.js) [60] (Codes/createVC.js) [61]
+<Images/c6_1.jpg, id=1243, 963.6pt x 453.19313pt>
+File: Images/c6_1.jpg Graphic file (type jpg)
+<use Images/c6_1.jpg>
+Package pdftex.def Info: Images/c6_1.jpg  used on input line 338.
+(pdftex.def)             Requested size: 418.25368pt x 196.70868pt.
+ [62
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.351 
+       <./Images/c6_1.jpg>] (Codes/register.js
+Underfull \vbox (badness 1681) has occurred while \output is active []
+
+ [63])
+<Images/c6_2.jpg, id=1276, 963.6pt x 444.91219pt>
+File: Images/c6_2.jpg Graphic file (type jpg)
+<use Images/c6_2.jpg>
+Package pdftex.def Info: Images/c6_2.jpg  used on input line 363.
+(pdftex.def)             Requested size: 418.25368pt x 193.11432pt.
+ [64
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.377 
+       <./Images/c6_2.jpg>] (Codes/vc.jwt) [65]
+<Images/c6_3.jpg, id=1319, 963.6pt x 451.6875pt>
+File: Images/c6_3.jpg Graphic file (type jpg)
+<use Images/c6_3.jpg>
+Package pdftex.def Info: Images/c6_3.jpg  used on input line 392.
+(pdftex.def)             Requested size: 418.25368pt x 196.05515pt.
+) [66
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.241 \include{./Chapters/06/framework.tex}
+                                            <./Images/c6_3.jpg>]
 \openout2 = `./Chapters/07/integration.aux'.
 
  (Chapters/07/integration.tex
 Chapter 7.
-) [49
+[67
 
 
 
 
-]
+] [68] [69] [70]
+<Images/c6_4.jpg, id=1345, 950.80219pt x 453.94594pt>
+File: Images/c6_4.jpg Graphic file (type jpg)
+<use Images/c6_4.jpg>
+Package pdftex.def Info: Images/c6_4.jpg  used on input line 140.
+(pdftex.def)             Requested size: 418.25368pt x 199.68834pt.
+ [71
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.146 
+       <./Images/c6_4.jpg>]
+<Images/c6_5.jpg, id=1350, 1067.99pt x 505.89pt>
+File: Images/c6_5.jpg Graphic file (type jpg)
+<use Images/c6_5.jpg>
+Package pdftex.def Info: Images/c6_5.jpg  used on input line 152.
+(pdftex.def)             Requested size: 418.25368pt x 198.12225pt.
+ [72
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.164 \newpage
+               <./Images/c6_5.jpg>]
+<Images/c6_6.jpg, id=1356, 950.04938pt x 449.42906pt>
+File: Images/c6_6.jpg Graphic file (type jpg)
+<use Images/c6_6.jpg>
+Package pdftex.def Info: Images/c6_6.jpg  used on input line 171.
+(pdftex.def)             Requested size: 334.60422pt x 158.29002pt.
+<Images/c6_7.jpg, id=1357, 949.29657pt x 450.9347pt>
+File: Images/c6_7.jpg Graphic file (type jpg)
+<use Images/c6_7.jpg>
+Package pdftex.def Info: Images/c6_7.jpg  used on input line 179.
+(pdftex.def)             Requested size: 334.60422pt x 158.94418pt.
+<Images/c6_8.jpg, id=1358, 948.54375pt x 448.67625pt>
+File: Images/c6_8.jpg Graphic file (type jpg)
+<use Images/c6_8.jpg>
+Package pdftex.def Info: Images/c6_8.jpg  used on input line 189.
+(pdftex.def)             Requested size: 334.60422pt x 158.27136pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[73
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.195 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.195 
+       <./Images/c6_6.jpg> <./Images/c6_7.jpg>]
+<Images/c6_9.jpg, id=1363, 948.54375pt x 446.41782pt>
+File: Images/c6_9.jpg Graphic file (type jpg)
+<use Images/c6_9.jpg>
+Package pdftex.def Info: Images/c6_9.jpg  used on input line 198.
+(pdftex.def)             Requested size: 334.60422pt x 157.47469pt.
+<Images/c6_10.jpg, id=1364, 950.80219pt x 447.92343pt>
+File: Images/c6_10.jpg Graphic file (type jpg)
+<use Images/c6_10.jpg>
+Package pdftex.def Info: Images/c6_10.jpg  used on input line 208.
+(pdftex.def)             Requested size: 334.60422pt x 157.62988pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[74
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.215 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.215 
+       <./Images/c6_8.jpg> <./Images/c6_9.jpg>]
+<Images/c6_11.jpg, id=1369, 948.54375pt x 450.18187pt>
+File: Images/c6_11.jpg Graphic file (type jpg)
+<use Images/c6_11.jpg>
+Package pdftex.def Info: Images/c6_11.jpg  used on input line 218.
+(pdftex.def)             Requested size: 334.60422pt x 158.80247pt.
+) [75
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.243 \include{./Chapters/07/integration.tex}
+                                             
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.243 \include{./Chapters/07/integration.tex}
+                                              <./Images/c6_10.jpg> <./Images/c6_11.jpg>]
 \openout2 = `./Chapters/08/conclusions.aux'.
 
- (Chapters/08/conclusions.tex [50
+ (Chapters/08/conclusions.tex [76
 
 
 
 
 ]
 Chapter 8.
-) [51
 
-] [52
+Overfull \hbox (12.22736pt too wide) in paragraph at lines 7--9
+\T1/lmr/m/n/12 By uti-liz-ing []De-cen-tral-ized Iden-ti-fier (DID), []Ver-i-fi-able Cre-den-tial (VC) and blockchain
+ []
 
+[77
 
-
-]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 151.
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \hbox (15.84616pt too wide) in paragraph at lines 152--152
+]) [78]
+Overfull \hbox (15.84616pt too wide) in paragraph at lines 251--251
 \T1/lmr/m/n/12 sis of De-cen-tral-ized Iden-tity Ap-proaches''. In: \T1/lmr/m/it/12 IEEE Ac-cess \T1/lmr/m/n/12 10 (2022), pp. 92273^^U
  []
 
 
-Overfull \hbox (6.40509pt too wide) in paragraph at lines 152--152
+Overfull \hbox (6.40509pt too wide) in paragraph at lines 251--251
 \T1/lmr/m/n/12 Blockchain: A Sur-vey''. In: \T1/lmr/m/it/12 2022 IEEE In-ter-na-tional Con-fer-ence on Blockchain
  []
 
 
-Overfull \hbox (22.89645pt too wide) in paragraph at lines 152--152
+Overfull \hbox (22.89645pt too wide) in paragraph at lines 251--251
 \T1/lmtt/m/n/12 com / get -[] started / how -[] bitcoin -[] transactions -[] work/$[][] \T1/lmr/m/n/12 (vis-ited on 02/14/2024). 
  []
 
 
-Overfull \hbox (8.93933pt too wide) in paragraph at lines 152--152
+Overfull \hbox (8.93933pt too wide) in paragraph at lines 251--251
 \T1/lmtt/m/n/12 com / cisco -[] fpie / decentralized -[] identities -[] demystified -[] 49a65159196c$[][]
  []
 
-[53
+[79
+
+
 
 ]
-Overfull \hbox (2.87144pt too wide) in paragraph at lines 152--152
+Overfull \hbox (2.87144pt too wide) in paragraph at lines 251--251
 \T1/lmtt/m/n/12 en / developers / docs / consensus -[] mechanisms / pos$[][] \T1/lmr/m/n/12 (vis-ited on 02/14/2024). 
  []
 
 
-Overfull \hbox (42.98714pt too wide) in paragraph at lines 152--152
+Overfull \hbox (42.98714pt too wide) in paragraph at lines 251--251
 []\T1/lmr/m/n/12 GeeksforGeeks. \T1/lmr/m/it/12 How does the Blockchain Work? \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . geeksforgeeks .
  []
 
 
-Overfull \hbox (15.83037pt too wide) in paragraph at lines 152--152
+Overfull \hbox (15.83037pt too wide) in paragraph at lines 251--251
 []\T1/lmr/m/n/12 IBM. \T1/lmr/m/it/12 Blockchain Tech-nol-ogy\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . ibm . com / topics / blockchain$[][]
  []
 
-[54]
-Overfull \hbox (24.83444pt too wide) in paragraph at lines 152--152
+[80]
+Overfull \hbox (24.83444pt too wide) in paragraph at lines 251--251
 \T1/lmr/m/it/12 In-for-ma-tion Net-work-ing (ICOIN)\T1/lmr/m/n/12 . 2021, pp. 508^^U510. \T1/lmr/m/sc/12 doi\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 10 . 1109 / ICOIN50884 .
  []
 
 
-Overfull \hbox (17.88968pt too wide) in paragraph at lines 152--152
+Overfull \hbox (30.7787pt too wide) in paragraph at lines 251--251
+[]\T1/lmr/m/it/12 Links Foun-da-tion\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / linksfoundation . com/$[][] \T1/lmr/m/n/12 (vis-ited on 03/06/2024). 
+ []
+
+
+Overfull \hbox (17.88968pt too wide) in paragraph at lines 251--251
 []\T1/lmr/m/it/12 Masca Doc-u-men-ta-tion\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / docs . masca . io/$[][] \T1/lmr/m/n/12 (vis-ited on 03/06/2024). 
  []
 
 
-Overfull \hbox (2.94678pt too wide) in paragraph at lines 152--152
+Overfull \hbox (2.94678pt too wide) in paragraph at lines 251--251
 []\T1/lmr/m/n/12 Sheetal Sinha, Kumkum, and Ruchika Bathla. ``Im-ple-men-ta-tion of Blockchain
  []
 
-[55] [56] (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
+[81] [82] (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: D405E43A816BE812EEC7D3E088DB088A;13083.
+(rerunfilecheck)             Checksum: A94B183903128D7098E3638A54CB9824;14677.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34176 strings out of 474541
- 620337 string characters out of 5744898
- 1940978 words of memory out of 5000000
- 55564 multiletter control sequences out of 15000+600000
- 609547 words of font info for 69 fonts, out of 8000000 for 9000
+ 36019 strings out of 474541
+ 646421 string characters out of 5744898
+ 2216978 words of memory out of 5000000
+ 57078 multiletter control sequences out of 15000+600000
+ 623170 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 138i,10n,135p,2354b,2277s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (68 pages, 1508521 bytes).
+ 138i,18n,135p,2354b,2290s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on thesis.pdf (95 pages, 3840111 bytes).
 PDF statistics:
- 1067 PDF objects out of 1200 (max. 8388607)
- 220 named destinations out of 1000 (max. 500000)
- 614 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1653 PDF objects out of 1728 (max. 8388607)
+ 503 named destinations out of 1000 (max. 500000)
+ 833 words of extra memory for PDF output out of 10000 (max. 10000000)
 

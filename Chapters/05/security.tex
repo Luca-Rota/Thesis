@@ -29,9 +29,21 @@ The essential steps for creating a data integrity proof in an \gls{ssi} system e
   Well-known examples are, digital signature and proofs of participation.
 \end{enumerate}
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c5_1.png} 
+  \caption{Process to create a cryptographic proof.}
+\end{figure}
+
 Next, verifying the proof requires three steps to be completed \cite{VCDataIntegrity}. The initial steps comprise the Transformation and Hashing processes which were previously presented, 
 followed by the Cryptographic Proof Verification which involves some specific algorithms that confirm the reliability of the data being put in. It could mean checking up 
 on the validity of digital signatures or verifying participation proofs.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c5_2.png} 
+  \caption{Process to verify a cryptographic proof.}
+\end{figure}
 
 \subsubsection{Proof Data Model}
 
@@ -44,6 +56,12 @@ A data integrity proof in \gls{ssi} systems consists of a number of parameters, 
   or other verification tools.
   \item \textbf{Proof Value}: It contains the encoded binary data that is required for proof verification, which is the process that uses the specific verification method.
 \end{itemize}
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.8\textwidth]{Images/c5_3.png} 
+  \caption{A simple example of cryptographic proof.}
+\end{figure}
 
 In addition, other optional parameters can also be included within a proof, such as \cite{VCDataIntegrity}: id, created, expires, domain (useful for representing the security domains in which the 
 proof is meant to be used, ensuring its proper application within specified contexts) ,challenge (only if the domain is specific, to mitigate replay attacks), previousProof 
@@ -154,6 +172,14 @@ people to the \gls{ssi} system. These attacks can be grouped into three categori
 Fake identity attacks pose a major threat to \gls{ssi} systems, using fake identities to gain access to services they are not authorized for. Attackers exploit vulnerabilities in 
 the \gls{ssi} architecture to create fake credentials. These attacks can damage the trust and reliability of the identity management system as a whole \cite{CyberSecurity}.
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c5_4.png} 
+  \caption{An attack tree of Faking Identity Attacks in the SSI system.}
+\end{figure}
+
+\newpage
+
 \textbf{Attack Tree Analysis}: In this attack scenario, attackers pretend to be trusted issuers by creating fake credentials, like \gls{did}s and public keys. Once inside the 
 network, they trick it into believing these fake credentials are real. In addiction, vulnerabilities in the architecture, like hacked network machines, can give attackers 
 access to secret administrative credentials and keys, allowing them to change them. For instance, in the Eclipse Attack, attackers take control of the peer-to-peer network 
@@ -164,6 +190,12 @@ by redirecting connections to fake nodes, making the network accept the false cr
 Identity theft attacks use vulnerabilities, in the \gls{ssi} system to steal sensitive and personal information, from user wallets without permission. These actions put 
 individuals’ privacy at risk and could result in types of fraudulent activities and improper use of personal data \cite{CyberSecurity}. 
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c5_5.png} 
+  \caption{An attack tree of Theft Identity Attacks in the SSI system.}
+\end{figure}
+
 \textbf{Attack Tree Analysis}: In this type of attack, malicious actors might access data in wallets without permission by exploiting vulnerabilities in the \gls{ssi} 
 infrastructure. To do that, They could exploit authentication weaknesses or misuse credential verification methods to obtain additional personal information, a practice 
 known as Credential Creep. The impact of identity theft attacks goes beyond users impacting the credibility and reliability of the \gls{ssi} environment as a whole \cite{9659929}. 
@@ -172,6 +204,12 @@ known as Credential Creep. The impact of identity theft attacks goes beyond user
 
 \gls{ddos} attacks pose a serious risk to the availability and reliability of \gls{ssi} system services. Through attacking the system with a large 
 volume of traffic, the attackers intend to cripple the users’ access to the system and breach the system’s function \cite{CyberSecurity}.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c5_6.png} 
+  \caption{An attack tree of Distributed Denial of Service Attacks in the SSI system.}
+\end{figure}
 
 \textbf{Attack Tree Analysis}: This type of attacks aim at several parts of the \gls{ssi} system, such as issuer, holder, and verifier hosts, along with the distributed ledger nodes. 
 Malicious actors can exploit vulnerabilities to attacks using vulnerabilities in the blockchain infrastructure, for example flooding the nodes or disrupting the consensus 

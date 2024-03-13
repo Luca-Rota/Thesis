@@ -46,6 +46,12 @@ Public Key Cryptography made a revolution in digital identity protection, provid
 public-key cryptography in 1976 \cite{businessreporter}. Using this system pairs of interconnected keys, one key for encryption and the other one for decryption, are 
 generated. \gls{pki} successfully added a layer to identity verification by matching public keys to specific entities, enabling secure transactions and data exchange.
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c3_1.png} 
+  \caption{The timeline of digital identity development.}
+\end{figure}
+
 \section{Shifting Identity Paradigms}
 
 This section focuses on the evolvement of \gls{idm} models, which have been categorized into three main paradigms. These paradigms describe the evolution of digital identity 
@@ -56,11 +62,35 @@ Federated \gls{idm} models (\gls{idm} 2.0) brings in third-party \gls{idp} for \
 Self-Sovereign \gls{idm} models (\gls{idm} 3.0) allows users to have absolute mastery over their digital identities via Digital Wallets using standards such as 
 \gls{vc} and \gls{did} \cite{9272212}.
 
+\renewcommand{\arraystretch}{1.2}
+\begin{table}[h]
+  \centering
+  \small
+  \begin{tabular}{|>{\centering\arraybackslash}m{1.8cm}|>{\centering\arraybackslash}m{2.1cm}|>{\centering\arraybackslash}m{1.9cm}|>{\centering\arraybackslash}m{2.2cm}|>{\centering\arraybackslash}m{2.3cm}|>{\centering\arraybackslash}m{2.1cm}|}
+    \hline
+    \thead{Model \\ Name} & \thead{Credentials \\ Ownership \\ of User} & \thead{Optional \\ Disclosure}  & \thead{Information \\ Silo} & \thead{Support \\ Pseudonyms} & \thead{Centralized \\ Storage}  \\
+    \hline
+    Centralized Identity & X & X & X & X & V \\
+    \hline
+    Federated Identity & X & X & V & X & V \\
+    \hline
+    Self-Sovereign Identity & V & V & X & V & X \\
+    \hline
+  \end{tabular}
+  \caption{Comparison of the characteristics of three models.}
+\end{table}
+
 \subsection{Pitfalls of Centralized Identity}
 
 Centralized \gls{idm} models were predominant in the initial stage of the digital identity development process, and these models were managed by 
 organizations and institutions. Under this model, people literally gave their personal data to these centralized authoritative bodies, that in return gave them status or 
 official recognition \cite{9695553}. Having all personal data in one place was a big plus; on the other hand, it also had some disadvantages.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.5\textwidth]{Images/c3_2.png} 
+  \caption{Centralized Identity Management Model (IDM 1.0)}
+\end{figure}
 
 One of the primary issues with Centralized \gls{idm} models is that they are naturally prone to security breaches. The fact that all user data was stored in a single 
 location meant that in case of a breach in the system, victims of this breach would be subject to widespread data leaks and identity theft \cite{businessreporter}. 
@@ -75,6 +105,12 @@ To deal with the issues caused by the Centralized \gls{idm} models, the idea of 
 identities. Through the used of federated identities, the users could use a unique identity registered with an \gls{idp} to access different network applications within their
 domain, and authentication process would be simplified to just clicking once.
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.5\textwidth]{Images/c3_3.png} 
+  \caption{Federated Identity Management Model (IDM 2.0)}
+\end{figure}
+
 With adoption of federated identity solutions user convenience and inter-platform operability has been enhanced but there also arises new security challenges. An expansion
 of the \gls{idp} gave rise to a more vulnerable attack surface for Federated \gls{idm} models that made them more prone to data breaches and cyber-attacks \cite{9695553}. 
 Furthermore, the usage of several \gls{idp} suggested the possibility of privacy and user consent problems, as the user’s identity info was spread across multiple 
@@ -86,6 +122,12 @@ In direct response to the rapidly developing issues surrounding traditional Cent
 aims to give users back control over their digital identities. Specifically, the so-called Self-Sovereign \gls{idm} models have emphasized the importance of user 
 control and consent in identity management, allowing them to store authenticators and certificates that had been issued by a range of service providers in their personal 
 devices \cite{9881610}.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.5\textwidth]{Images/c3_4.png} 
+  \caption{Self-Sovereign Identity Management Model (IDM 3.0)}
+\end{figure}
 
 The introduction of blockchain technology was one of the pivotal transformations in user-centric identity and it provides a decentralized and immutable ledger for identity 
 verification. The \gls{ssi} model was based on blockchain that enabled users to retain authority over their data, discarding intermediaries and centralized authorities 

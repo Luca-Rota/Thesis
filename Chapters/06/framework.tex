@@ -34,6 +34,29 @@ choices, means of operation, and functionalities they offer \cite{9315899}, \cit
   \gls{ipfs} for data storing.
 \end{itemize}
 
+\renewcommand{\arraystretch}{1.4}
+\begin{table}[h]
+  \centering
+  \begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}m{3.3cm}|>{\centering\arraybackslash}m{3.2cm}|>{\centering\arraybackslash}m{3.2cm}|>{\centering\arraybackslash}m{3.2cm}|}
+    \hline
+    \thead{Project} & \thead{ShoCard} & \thead{Sovrin} & \thead{uPort} \\
+    \hline
+    Blockchain Implementation & Bitcoin & Hyperledger Indy & Ethereum \\
+    \hline
+    Blockchain Type & Permissioned & Public Permissioned & Permissionless  \\
+    \hline
+    Storage & Off-Chain & On/Off-Chain & Off-Chain  \\
+    \hline
+    Interoperability & Yes & Yes & Yes  \\
+    \hline
+    Selective Disclosure & No & Yes & Yes  \\
+    \hline
+    Auth & Yes & Yes & No  \\
+    \hline
+  \end{tabularx}
+  \caption{A comparative analysis of blockchain based SSI system.}
+\end{table}
+
 In order to avoid the usage of the existing systems and to bring up a decentralized identity management system from scratch, the main work was done on the fundamentals. The 
 first step was the creation of a unique user representation that in the case of a decentralized system is ensured by the \gls{did}s. Several libraries facilitating \gls{did} creation 
 and management were explored \cite{10218198}, including:
@@ -133,9 +156,11 @@ possibly one of the most widely used blockchains in the world today due to the f
 of smart contracts and through the support for the development of \gls{dapp} \cite{ethereum}.
 
 In particular, Ethereum's main test networks, namely \textit{Goerli} and \textit{Sepolia}, were used, given the possibility of obtaining the relevant tokens via faucets. A smart contract was 
-set up on these blockchains to serve as a registry, for keeping track of which \gls{did}s linked to users Ethereum accounts had registered on the browser \gls{dapp}. 
+set up on these blockchains to serve as a registry, for keeping track of which \gls{did}s linked to users Ethereum accounts had registered on the browser \gls{dapp}. In 
+addition, the smart contract used by \textit{ethr-did} for managing \gls{did}s, which is useful during their resolution, already present on \textit{Goerli}, has also been 
+deployed on \textit{Sepolia}.
 
-Deployment of the contract on \textit{Goerli} and \textit{Sepolia} will be facilitated by using \textit{Truffle}, a development framework for Ethereum that eases and hastens the creation of smart 
+Deployment of these contracts on \textit{Goerli} and \textit{Sepolia} will be facilitated by using \textit{Truffle}, a development framework for Ethereum that eases and hastens the creation of smart 
 contracts and \gls{dapp}s. After correctly configuring \textit{Truffle} \cite{truffle-suite}, a brief script was created to deploy the contract, using the following commands: 
 
 \begin{itemize}
@@ -143,6 +168,10 @@ contracts and \gls{dapp}s. After correctly configuring \textit{Truffle} \cite{tr
   \item \textbf{"truffle migrate --network"}: to deploy the contract correctly on the given blockchain network, provided that the account used has enough tokens to cover 
   the fees. During deployment, the address of the block where the contract had been stored on the blockchain was retrieved.
 \end{itemize}
+
+\newpage
+
+\lstinputlisting[language=JavaScript, caption={Deploying DataCellarRegistry contract.}]{Codes/deploy.js}
 
 \subsubsection{The Smart Contract}
 
@@ -167,6 +196,8 @@ The contracts three functions all require an Ethereum account as input. The fina
 functions alter the contracts state. These state altering functions need the contract to update its status on the blockchain leading to transaction fees being paid to 
 miners for overseeing and validating these modifications.
 
+\lstinputlisting[language=Solidity, caption={Smart contract for DataCellarRegistry.}]{Codes/registry.sol}
+
 \subsection{MetaMask}
 
 One of the crucial factors that led to the construction of the framework as a browser \gls{dapp} is MetaMask. MetaMask is a user-friendly Ethereum blockchain software 
@@ -181,6 +212,8 @@ desired reference networks on MetaMask in real-time. As a matter of fact, MetaMa
 
 Finally, MetaMask provides the ability to securely store the private keys of \gls{dapp} accounts in a secure wallet, allowing users to sign and execute transactions that will 
 enable them to register or deregister without the private keys ever leaving the extension in clear or encrypted form.
+
+\lstinputlisting[language=JavaScript, caption={Function for updating wallet and accounts.}]{Codes/mm.js}
 
 \section{Verifiable Credentials and Limitations} \label{sec:6.3}
 
@@ -244,33 +277,47 @@ Subsequently , the \gls{vc} can be validated by a \textit{Resolver} object that 
 the issuer of \gls{vc}.  These methods are extracted and used for the verification of the signature.  Signature verification provides the assurance that the \gls{vc}'s signature 
 complies with the public key that is related to the verification method. All these operations are invoked through calling for the functions within \textit{did-jwt} library.
 
+\lstinputlisting[language=JavaScript, caption={Deploying DataCellarRegistry contract.}]{Codes/verifyVC.js}
+
 \section{Application Functionality Analysis}
 
 Let us now look in detail at how the standalone \gls{ssi} framework, which was created for decentralized identity management, was built, following the blockchain-based \gls{ssi} model, 
-its functionality and the mechanisms it uses. As mentioned earlier, the framework was developed as a browser \gls{dapp}, consisting of a frontend, built 
-using \textit{React}, and a backend, which serves as the \gls{dapp} server. 
+its functionality and the mechanisms it uses. As mentioned earlier, the framework was developed as a browser \gls{dapp}, consisting of a frontend, developed with 
+\textit{React}, and a backend, built using \textit{JavaScript}, which serves as the \gls{dapp} server. 
+
+In addition, to solve problems with the secure storage of authentication tokens, within session cookies, the application is supported by \gls{https}. To do this, \textit{OpenSSL} and 
+\textit{mkcert} were used to generate \gls{ssl} certificates, which are required to enable \gls{https} functionality. Thus, this enhancement also allowed the overall security 
+of the framework to be strengthened, aligning with established best practices for web application development.
+
+\lstinputlisting[language=JavaScript]{Codes/cookie.js}
 
 In the frontend, which corresponds to the most substantial part of the browser \gls{dapp}, in addition to the complete manage the graphical user interface, 
-the user authentication process is also managed, also taking advantage of MetaMask support. This process consists of 3 steps: \textit{Login} (or connection), \textit{Sign up} and \textit{Sign in} (or
+the user authentication process is also managed, also taking advantage of MetaMask support. This process consists of 3 steps: \textit{Access} (or connection), \textit{Sign up} and \textit{Sign in} (or
 authentication). For each of them a different web page has been defined and within each there is always an "information" button that explains to the user what exactly he
 has to do at that precise moment. 
 
-Below, in the remaining subsections, the operation of the server first and then each step of the authentication process within the frontend will be examined in detail.
+Below, in the remaining subsections, the server's functions first and then each step of the authentication process within the frontend, will be examined in detail.
 
-\subsection{The server}
+\subsection{Server Implementation}
 
 Being decentralized, the \gls{dapp} server does not contain any database. However, it performs two important functions:
 
 \begin{itemize}
   \item Generating the \gls{vc} with the payload provided by the user and signed with the private key of the application administration, stored as an environment variable within 
   a .env file, during the registration phase of a new user.
+
+  \lstinputlisting[language=JavaScript, caption={Il tuo nome del listing qui}]{Codes/createJWT.js}
+
   \item	Creating and signing, using a secret also stored as an environment variable within the .env file, a \gls{jwt} to be inserted into the session cookie. 
   This \gls{jwt} contains the user's data, which was contained in the \gls{vc} issued to him, which he has to replenish during the authentication phase. The purpose of the \gls{jwt} is to 
   grant specific permissions to the user, based on the data in it, during that session. In addition, before doing so, a check is made on the correctness of a \gls{nonce}, 
   which is signed by the user, within a message, during the authentication phase. This allows to increase the security level of the process itself, preventing replay attacks.
+
+  \lstinputlisting[language=JavaScript]{Codes/createVC.js}
+
 \end{itemize}
 
-\subsection{Login Process}
+\subsection{Access Process}
 
 Upon launching the framework, the user will be presented with a single button that will redirect them to the page where they can perform the installation of the MetaMask 
 browser extension, which is essential for the proper functioning of this \gls{ssi} framework, as it allows users to interact with the blockchain by signing transactions directly 
@@ -286,13 +333,19 @@ However, two buttons will appear in the navigation bar: one for accessing the \t
 network and account selected at that particular time, within the MetaMask extension, providing the user with real-time information about the blockchain and the address they 
 are working with.
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c6_1.jpg} 
+  \caption{Process to create a cryptographic proof.}
+\end{figure}
 
 \subsection{Sign-Up Procedure}
 
 This step in the process allows the user to register with the selected account within the MetaMask wallet and using one of the blockchains, in which the smart contract that 
 serves as the registry for the \gls{dapp} has been previously deployed.
 
-To begin, the user must fill in all the fields on the form presented to him or her; this is because there are currently no authentic \gls{vc}s from which to take this data (as 
+To begin, the user must fill in all the fields on the form presented to him; every value entered by the user is properly validated, so as to prevent possible security 
+problems, but this still does not fully follow the \gls{ssi} paradigm. This is because there are currently no authentic \gls{vc}s from which to take this data (as 
 explained in detail in the previous section). This data will constitute the \gls{vc} payload, which the \gls{dapp} browser, in the manner described above, will send through the 
 server to the user.
 
@@ -301,7 +354,16 @@ blockchain. To do so, he must make a transaction, via the MetaMask wallet, which
 registration is necessary not only to allow the application administrator to know how many users are registered and with which accounts, but also to control and issue only 
 one \gls{vc} per account.
 
+\lstinputlisting[language=JavaScript]{Codes/register.js}
+
 Once the registration is completed, the \gls{vc} will be provided to the user who, at the push of a button, can download it to his device and store it securely, as indicated.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c6_2.jpg} 
+  \caption{Process to create a cryptographic proof.}
+\end{figure}
+
 
 \subsection{Sign-In Mechanism}
 
@@ -313,6 +375,8 @@ currently no way to request the corresponding \gls{vp} (as explained in detail i
 methods described above, to ensure both that it has been issued by the \gls{dapp} and that it contains the \gls{did}, associated with the account selected by the user, in his 
 MetaMask wallet, at that time.
 
+\lstinputlisting[language=JWT]{Codes/vc.jwt}
+
 If these checks are passed, the user will be asked to sign a message containing a \gls{nonce}, using the private key associated with their account, through the MetaMask wallet. 
 This process does not involve any transactions on the blockchain and therefore does not require payment of fees. As explained earlier, this \gls{nonce} serves to increase the 
 level of security and will be automatically sent to the server along with the signed message and the payload extracted from the \gls{vc} previously provided by the user. After 
@@ -321,4 +385,11 @@ appropriate verification, if successful, the server will return a signed \gls{jw
 Finally, this \gls{jwt} will be placed in a token in the session cookies and the user will be authenticated. This corresponds to accessing the \gls{dapp} as a member. In this 
 way, the user can view the entire browser \gls{dapp}, access its page, and perform all functionality, within the limits of the information in the session cookies. In fact, 
 depending on the functionality the user wishes to perform within the \gls{dapp}, the session cookie token will be decoded and, based on the information obtained, certain 
-authorizations will be granted or denied to the user. 
+authorizations will be granted or denied to the user. In addition, a button will appear in the navigation bar that allows the user to log out of the account with which they have authenticated.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c6_3.jpg} 
+  \caption{Process to create a cryptographic proof.}
+\end{figure}
+

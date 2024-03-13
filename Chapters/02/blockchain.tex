@@ -1,4 +1,4 @@
-\chapter{Blockchain Technology} \label{ch:Blockchain}
+\chapter{Blockchain Technology} \label{ch:blockchain}
 
 In the current landscape, blockchain technology has attracted increasing global interest due to its promising applications and potential transformative impacts on various 
 sectors. Founded in 2008 by Satoshi Nakamoto as the mainstay of the Bitcoin system \cite{9752154}, blockchain has evolved from a simple ledger of financial transactions 
@@ -43,6 +43,12 @@ The structure of the system is carefully crafted to uphold its principles of dec
   structure promotes trust and resilience since transactions are verified and validated through consensus, among distributed nodes \cite{9752154}, \cite{9036241}.
 \end{itemize}
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.7\textwidth]{Images/c2_1.png} 
+  \caption{Blockchain structure}
+\end{figure}
+
 \section{How the Blockchain works}
 
 The function of a blockchain system encompasses a complex chain of procedures that safeguard the  integrity, transparency, and security of transactions. In this section, 
@@ -75,6 +81,12 @@ we delve into the fundamental mechanisms of blockchain.
     of its predecessor making it practically impossible to tamper with transactions without altering blocks \cite{9596538} ,\cite{9036241}.
 \end{enumerate}
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c2_2.png} 
+  \caption{Blockchain transaction process}
+\end{figure}
+
 \subsection{Blockchain Benefits}
 
 Due to the execution process described above and its architecture, blockchain is able to offer many benefits in different areas:
@@ -102,21 +114,51 @@ Due to the execution process described above and its architecture, blockchain is
 The blockchain technology comes in various forms, each with unique characteristics that adapt to specific needs and application contexts Beyond the well-known public and 
 private blockchains, it's essential to recognize two other significant variants: hybrid chains and consortium chains.
 
+\newpage
+
 \begin{itemize}
-  \item \textbf{Public Blockchain (Permissionless):} A public blockchain is open to everybody who wants to interact and contribute to the consensus protocol, e.g., Bitcoin. 
+  \item \textbf{Public Blockchain:} A public blockchain is open to everybody who wants to interact and contribute to the consensus protocol, e.g., Bitcoin. 
   This model provides a high degree of transparency though, it is susceptible to 51\% attacks. Its open nature fosters a distrustful environment, as no one individual or 
   entity is solely relied on for transaction validation \cite{9596538}, \cite{ibm_blockchain}.
-  \item \textbf{Private Blockchain (Permissioned):} In contrast to public blockchains, private or permissioned (access is restricted to authorized entities) blockchains 
+  \item \textbf{Private Blockchain:} In contrast to public blockchains, private or permissioned (access is restricted to authorized entities) blockchains 
   allow only a limited set of entities to access the network. This method is popular among situations that demand more of such features such as security as well as control 
   where it gets applied in applications like financial transactions that also handle sensitive data. An access to the network is controlled by a single entity or by 
   particular criteria \cite{9596538},\cite{9036241}.
-  \item \textbf{Hybrid Blockchain:} Hybrid blockchains, on the other hand, are described by the property of switching between different modes having different types of 
-  operating systems, for example, public and private blockchains that suit specific needs. This approach provides a greater degree of flexibility and customization compared 
-  to conventional blockchain configurations; thereby, the actors have the option to decide the degree of decentralization and control that is suitable for them \cite{9596538}.
-  \item \textbf{Consortium Blockchain:} A consortium blockchain is governed by more than one organization or entity working together to ensure the distributed ledger. 
+ \item \textbf{Consortium Blockchain:} A consortium blockchain is governed by more than one organization or entity working together to ensure the distributed ledger. 
   On the other hand, blockchains that are public or private, consortium blockchains are the only ones that give power to a chosen group of nodes to validate and record 
   transactions. This model is suitable where several subjects need to work with data and processes together but they do not want or they cannot fully trust a unique 
   central entity \cite{ibm_blockchain}, \cite{9752154}.
+\end{itemize}
+
+\renewcommand{\arraystretch}{1.3}
+\begin{table}[h]
+  \centering
+  \begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}m{3.2cm}|>{\centering\arraybackslash}m{3.2cm}|>{\centering\arraybackslash}m{3.4cm}|>{\centering\arraybackslash}m{3.2cm}|}
+    \hline
+    \thead{Property} & \thead{Public \\ Blockchain} & \thead{Consortium \\ Blockchain}  & \thead{Private \\ Blockchain} \\
+    \hline
+    Consensus determination & All miners & Selected set of nodes  & One organization \\
+    \hline
+    Read permission & Public & Could be public or restricted & Could be public or restricted \\
+    \hline
+    Efficiency & Low & High & High \\
+    \hline
+    Immutability & Nearly impossible to transfer & Could be tampered & Could be tampered \\
+    \hline
+    Centralized & No & Partial & Yes \\
+    \hline
+    Consensus process & Permissionless & Permissioned & Permissioned \\
+    \hline
+  \end{tabularx}
+  \caption{Types of Blockchain}
+\end{table}
+
+\newpage
+
+\begin{itemize}
+  \item \textbf{Hybrid Blockchain:} In addition to the previous ones mentioned above, a new type of blockchain, hybrid blockchains, has also emerged. They are described by the property of switching between different modes having different types of 
+  operating systems, for example, public and private blockchains that suit specific needs. This approach provides a greater degree of flexibility and customization compared 
+  to conventional blockchain configurations; thereby, the actors have the option to decide the degree of decentralization and control that is suitable for them \cite{9596538}.
 \end{itemize}
 
 \subsection{Types of Consensus Mechanisms}
@@ -127,9 +169,27 @@ Blockchains also differ based on the type of consensus mechanism used. In the pr
 In general, the two main types of consensus mechanisms are: \gls{pow} and \gls{pos}. With \gls{pow} miners solve puzzles to add new blocks, which requires significant 
 computational resources and time \cite{9752154}, \cite{10037907}. This is elaborated further in Section \ref{subsec:bitcoin}. On the hand \gls{pos} assigns the right 
 to create blocks based on participants cryptocurrency holdings providing benefits such, as energy efficiency and scalability advantages. Further information,
-about PoS can be found in Section \ref{subsec:ethereum}.
+about PoS can be found in Section \ref{subsec:ethereum}. There are also other consensus mechanisms beyond \gls{pow} and \gls{pos}; refer to the table for further details.
 
-There are also other consensus mechanisms beyond \gls{pow} and \gls{pos}; refer to the table for further details.
+\renewcommand{\arraystretch}{1.3}
+\begin{table}[h]
+  \centering
+  \begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}m{2.4cm}|>{\centering\arraybackslash}m{1.8cm}|>{\centering\arraybackslash}m{1.9cm}|>{\centering\arraybackslash}m{2.3cm}|>{\centering\arraybackslash}m{1.9cm}|>{\centering\arraybackslash}m{1.8cm}|}
+    \hline
+    \thead{Property} & \thead{PoW} & \thead{PoS}  & \thead{PBFT} & \thead{DPOS} & \thead{Ripple} \\
+    \hline
+    Node identity management & Open & Open & Permissioned & Open & Open \\
+    \hline
+    Energy saving & No & Partial & Yes & Partial & Yes  \\
+    \hline
+    Tolerated power of adversary & $<$25\% computing power & $<$51\% stake & $<$33.3\% faulty replicas & $<$51\% validators & $<$20\% faulty nodes in UNL  \\
+    \hline
+    Example & Bitcoin & Ethereum & Hyperledger Fabric & Bitshares & Ripple  \\
+    \hline
+  \end{tabularx}
+  \caption{Types of Consensus Mechanism}
+\end{table}
+
 
 \section{Bitcoin versus Ethereum}
 
@@ -169,6 +229,12 @@ Bitcoin transactions are registered in the blockchain as \gls{utxo}s, which mean
 This \gls{utxo} is pervasively distributed over the blockchain and represents ownership. It is subsequently used in other transactions too. Bitcoin balances are not stored in user 
 accounts but rather tracked through the \gls{utxo}s associated with their addresses \cite{bitcoincom}.
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.7\textwidth]{Images/c2_3.png} 
+  \caption{UTXO transaction process}
+\end{figure}
+
 \subsubsection{Advantages and Limitations}
 
 Bitcoin is decentralized and provides encryption security that can be used to resist censorship, to ensure accessibility particularly on a global scale and to preserve integrity 
@@ -201,6 +267,12 @@ creating, verifying, and block proposal irrespective of the fact that the transa
 the network so as to make self-enforcement and fault-tolerance in proper working order. Finality being one of the main features of transaction irreversibility, is 
 sealed by using checkpoints that initiate even the smallest epochs. As requisite effort to checkpoints pairs, validators vote in a supermajority to revert them, 
 consequently, block reversal is discouraged and the entire Ethereum network is protected from brainwashing attacks \cite{ethereumpos}.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.7\textwidth]{Images/c2_4.png} 
+  \caption{Ethereum transaction process}
+\end{figure}
 
 \subsubsection{Proof of Stake}
 

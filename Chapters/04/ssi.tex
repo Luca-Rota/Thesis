@@ -148,11 +148,17 @@ leakage. Significantly, \gls{did}s do not contain personally identifiable inform
   and guidelines. These frameworks are mostly created by organizations like the \gls{w3c}, and they provide a bedrock for the deployment of \gls{did}s across
   various ecosystems.
   \item \textbf{Method}: Method part defines a protocol or mechanism used for creating and maintaining \gls{did}s within a certain ecosystem. Varying methods may involve different
-   cryptographic algorithms or diverse distributed ledger technologies to develop and complete \gls{did}s. Examples of methods are "ethr" for EthDIDs-based \gls{did}s and "key" for 
-   standard key-based \gls{did}s.
+  cryptographic algorithms or diverse distributed ledger technologies to develop and complete \gls{did}s. Examples of methods are "ethr" for EthDIDs-based \gls{did}s and "key" for 
+  standard key-based \gls{did}s.
   \item \textbf{DID Method-Specific Identifier}: This identifier being unique for this method, differentiates the corresponding \gls{did}s within the indicated ecosystem. It 
   works as the reference point on \gls{did} documents finding and network interactions enabling within the decentralized systems.
 \end{itemize}
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.6\textwidth]{Images/c4_1.png} 
+  \caption{Decentralized Identifiers (DID) URI syntax.}
+\end{figure}
 
 \subsubsection{DID Document}
 
@@ -161,7 +167,7 @@ A \gls{ddo} outlines the basic details connected to a certain \gls{did}, being t
 \begin{itemize}
   \item \textbf{Verification Methods}: Public keys or cryptographic objects serving as authentication and verification purposes.
   \item \textbf{Authentication Methods}: Holder of the \gls{did} is verified through specific validation mechanisms applied.
-  \item \textbf{Service Endpoints}: Identifiers referring to services or endpoints associated with the \gls{did} subject, allowing interactions and data exchange to be completed.
+  \item \textbf{Service Endpoints}: Identifiers referring to services or endpoints associated with \gls{did} subject, allowing interactions and data exchange to be completed.
   \item \textbf{Timestamps}: Proof data records, which host the verification history data or temporal metadata, enhancing transparency and auditability.
   \item \textbf{Signature}: Cryptographic signatures used for the purpose of security and trust of the \gls{ddo}.
 \end{itemize}
@@ -172,6 +178,12 @@ A \gls{ddo} outlines the basic details connected to a certain \gls{did}, being t
 procedure of querying distributed ledgers or repositories seeks the relevant \gls{ddo} \cite{w3didcore}. Upon the resolution, verifiers obtain crucial attributes and secure materials, 
 thus being able to have secure interactions and identity verification within the delegated systems. In addition to that, \gls{did} resolution enables interoperability by 
 standardizing mechanisms for use of \gls{did} associated data as well as for its access and interpretation.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.8\textwidth]{Images/c4_2.png} 
+  \caption{The basic components of DIDs architecture.}
+\end{figure}
 
 \subsection{Verifiable Credentials}
 
@@ -197,11 +209,23 @@ The syntactic structure of a \gls{vc} encompasses several key components \cite{w
   \item \textbf{CredentialStatus}: Gives the current valid status of the credential, whether active, suspended, or expired.
 \end{itemize}
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c4_3.png} 
+  \caption{A simple example of verifiable credential.}
+\end{figure}
+
 \subsubsection{Verifiable Presentations}
 
 \gls{vp}s are verifiable proofs of a person's claims that only provide selective disclosure of identity data to verifiers \cite{w3cvcdatamodel}. They are usually derived or 
 generated from one or more \gls{vc}s that have metadata and crypto signatures that can be verified by the recipient. Credentials from different sources are combined through 
 \gls{vp} which allow fast and privacy-preserving interactions within the \gls{ssi} framework \cite{9333857}.
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c4_4.png} 
+  \caption{Core data model in W3C's VC.}
+\end{figure}
 
 \subsubsection{Zero-Knowledge Proof}
 
@@ -243,6 +267,12 @@ and operation of the system. Such layers are built to offer trust and smoothen i
 implementation of this infrastructure is based on the works of the pioneers in the field, including papers from the Trust over \gls{ip} Foundation \cite{DIDarchitecture}.
 
 \subsection{The Four Layers} 
+
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=0.8\textwidth]{Images/c4_5.png} 
+  \caption{SSI architecture.}
+\end{figure}
 
 \begin{enumerate}
   \item \textbf{Blockchain Layer (Layer 1)}:
@@ -299,6 +329,12 @@ Holder, Issuer and Verifier. Clearly, the role and interactions of these compone
   credentials by the Holder, the Verifier runs the public \gls{did} on the blockchain to confirm the credibility of the issuer. The verification of the cryptographic signatures 
   embedded within the credentials by the Verifier ensures that the presented information was not tampered with and originates from a trusted source.
 \end{itemize}
+ 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c4_6.png} 
+  \caption{Basic concept of W3C's VC.}
+\end{figure}
 
 \subsection{Workflow of Verifiable Exchange}
 
