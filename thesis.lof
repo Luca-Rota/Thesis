@@ -26,18 +26,18 @@
 \contentsline {figure}{\numberline {5.3}{\ignorespaces A simple example of cryptographic proof.}}{39}{figure.5.3}%
 \contentsline {figure}{\numberline {5.4}{\ignorespaces An attack tree of Faking Identity Attacks in the SSI system.}}{43}{figure.5.4}%
 \contentsline {figure}{\numberline {5.5}{\ignorespaces An attack tree of Theft Identity Attacks in the SSI system.}}{44}{figure.5.5}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces An attack tree of Distributed Denial of Service Attacks in the SSI system.}}{45}{figure.5.6}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces An attack tree of Distributed DDoS Attacks in the SSI system.}}{45}{figure.5.6}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Process to create a cryptographic proof.}}{62}{figure.6.1}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Process to create a cryptographic proof.}}{64}{figure.6.2}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Process to create a cryptographic proof.}}{66}{figure.6.3}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Access page with MetaMask installed.}}{62}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Sign Up page with confirm transaction pop-up.}}{64}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Sign In page with sign message pop-up.}}{66}{figure.6.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Process to create a cryptographic proof.}}{71}{figure.7.1}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Process to create a cryptographic proof.}}{72}{figure.7.2}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Process to create a cryptographic proof.}}{73}{figure.7.3}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Process to create a cryptographic proof.}}{73}{figure.7.4}%
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Process to create a cryptographic proof.}}{74}{figure.7.5}%
-\contentsline {figure}{\numberline {7.6}{\ignorespaces Process to create a cryptographic proof.}}{74}{figure.7.6}%
-\contentsline {figure}{\numberline {7.7}{\ignorespaces Process to create a cryptographic proof.}}{75}{figure.7.7}%
-\contentsline {figure}{\numberline {7.8}{\ignorespaces Process to create a cryptographic proof.}}{75}{figure.7.8}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces The marketplace in the Data Cellar Home page.}}{71}{figure.7.1}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces List of licenses for a specific dataset, after authentication process.}}{72}{figure.7.2}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Page to view user's personal information.}}{73}{figure.7.3}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Page to manage user's DataCellar tokens.}}{73}{figure.7.4}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Page to view user's dataset and access their licenses.}}{74}{figure.7.5}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Page to create a new license or switch for new dataset. }}{74}{figure.7.6}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Page to view purchased licenses of specific dataset and use them.}}{75}{figure.7.7}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Page to delete user's account, performing de-registration.}}{75}{figure.7.8}%
 \addvspace {10\p@ }

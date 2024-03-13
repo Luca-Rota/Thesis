@@ -277,7 +277,7 @@ Subsequently , the \gls{vc} can be validated by a \textit{Resolver} object that 
 the issuer of \gls{vc}.  These methods are extracted and used for the verification of the signature.  Signature verification provides the assurance that the \gls{vc}'s signature 
 complies with the public key that is related to the verification method. All these operations are invoked through calling for the functions within \textit{did-jwt} library.
 
-\lstinputlisting[language=JavaScript, caption={Deploying DataCellarRegistry contract.}]{Codes/verifyVC.js}
+\lstinputlisting[language=JavaScript, caption={Function for verifying verifiable credentials.}]{Codes/verifyVC.js}
 
 \section{Application Functionality Analysis}
 
@@ -289,7 +289,7 @@ In addition, to solve problems with the secure storage of authentication tokens,
 \textit{mkcert} were used to generate \gls{ssl} certificates, which are required to enable \gls{https} functionality. Thus, this enhancement also allowed the overall security 
 of the framework to be strengthened, aligning with established best practices for web application development.
 
-\lstinputlisting[language=JavaScript]{Codes/cookie.js}
+\lstinputlisting[language=JavaScript, caption={Handling cookie and setting authentication state.}]{Codes/cookie.js}
 
 In the frontend, which corresponds to the most substantial part of the browser \gls{dapp}, in addition to the complete manage the graphical user interface, 
 the user authentication process is also managed, also taking advantage of MetaMask support. This process consists of 3 steps: \textit{Access} (or connection), \textit{Sign up} and \textit{Sign in} (or
@@ -306,14 +306,14 @@ Being decentralized, the \gls{dapp} server does not contain any database. Howeve
   \item Generating the \gls{vc} with the payload provided by the user and signed with the private key of the application administration, stored as an environment variable within 
   a .env file, during the registration phase of a new user.
 
-  \lstinputlisting[language=JavaScript, caption={Il tuo nome del listing qui}]{Codes/createJWT.js}
+  \lstinputlisting[language=JavaScript, caption={Async function for generating JWT token.}]{Codes/createJWT.js}
 
   \item	Creating and signing, using a secret also stored as an environment variable within the .env file, a \gls{jwt} to be inserted into the session cookie. 
   This \gls{jwt} contains the user's data, which was contained in the \gls{vc} issued to him, which he has to replenish during the authentication phase. The purpose of the \gls{jwt} is to 
   grant specific permissions to the user, based on the data in it, during that session. In addition, before doing so, a check is made on the correctness of a \gls{nonce}, 
   which is signed by the user, within a message, during the authentication phase. This allows to increase the security level of the process itself, preventing replay attacks.
 
-  \lstinputlisting[language=JavaScript]{Codes/createVC.js}
+  \lstinputlisting[language=JavaScript, caption={Async function for generating verifiable credentials.}]{Codes/createVC.js}
 
 \end{itemize}
 
@@ -336,7 +336,7 @@ are working with.
 \begin{figure}[h]  
   \centering
   \includegraphics[width=1\textwidth]{Images/c6_1.jpg} 
-  \caption{Process to create a cryptographic proof.}
+  \caption{Access page with MetaMask installed.}
 \end{figure}
 
 \subsection{Sign-Up Procedure}
@@ -354,14 +354,14 @@ blockchain. To do so, he must make a transaction, via the MetaMask wallet, which
 registration is necessary not only to allow the application administrator to know how many users are registered and with which accounts, but also to control and issue only 
 one \gls{vc} per account.
 
-\lstinputlisting[language=JavaScript]{Codes/register.js}
+\lstinputlisting[language=JavaScript, caption={Async function for signing up in DataCellar.}]{Codes/register.js}
 
 Once the registration is completed, the \gls{vc} will be provided to the user who, at the push of a button, can download it to his device and store it securely, as indicated.
 
 \begin{figure}[h]  
   \centering
   \includegraphics[width=1\textwidth]{Images/c6_2.jpg} 
-  \caption{Process to create a cryptographic proof.}
+  \caption{Sign Up page with confirm transaction pop-up.}
 \end{figure}
 
 
@@ -375,7 +375,7 @@ currently no way to request the corresponding \gls{vp} (as explained in detail i
 methods described above, to ensure both that it has been issued by the \gls{dapp} and that it contains the \gls{did}, associated with the account selected by the user, in his 
 MetaMask wallet, at that time.
 
-\lstinputlisting[language=JWT]{Codes/vc.jwt}
+\lstinputlisting[language=JWT, caption={Verifiable Credential JSON data.}]{Codes/vc.jwt}
 
 If these checks are passed, the user will be asked to sign a message containing a \gls{nonce}, using the private key associated with their account, through the MetaMask wallet. 
 This process does not involve any transactions on the blockchain and therefore does not require payment of fees. As explained earlier, this \gls{nonce} serves to increase the 
@@ -390,6 +390,6 @@ authorizations will be granted or denied to the user. In addition, a button will
 \begin{figure}[h]  
   \centering
   \includegraphics[width=1\textwidth]{Images/c6_3.jpg} 
-  \caption{Process to create a cryptographic proof.}
+  \caption{Sign In page with sign message pop-up.}
 \end{figure}
 

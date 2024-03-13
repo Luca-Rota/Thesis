@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  13 MAR 2024 18:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  13 MAR 2024 19:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1579,7 +1579,7 @@ Chapter 2.
 Underfull \vbox (badness 3312) has occurred while \output is active []
 
  [6]
-<Images/c2_1.png, id=619, 593.96906pt x 259.7203pt>
+<Images/c2_1.png, id=628, 593.96906pt x 259.7203pt>
 File: Images/c2_1.png Graphic file (type png)
 <use Images/c2_1.png>
 Package pdftex.def Info: Images/c2_1.png  used on input line 48.
@@ -1590,7 +1590,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) h
                                                   \__shipout_drop_firstpage_...
 l.76     \item \textbf
                       {Formation of New Blocks:} Valid transactions are adde... <./Images/c2_1.png>]
-<Images/c2_2.png, id=641, 826.58812pt x 347.79938pt>
+<Images/c2_2.png, id=650, 826.58812pt x 347.79938pt>
 File: Images/c2_2.png Graphic file (type png)
 <use Images/c2_2.png>
 Package pdftex.def Info: Images/c2_2.png  used on input line 86.
@@ -1629,7 +1629,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.2.2}) ha
                                                   \__shipout_drop_firstpage_...
 l.198 
       ] [12]
-<Images/c2_3.png, id=699, 493.845pt x 258.9675pt>
+<Images/c2_3.png, id=708, 493.845pt x 258.9675pt>
 File: Images/c2_3.png Graphic file (type png)
 <use Images/c2_3.png>
 Package pdftex.def Info: Images/c2_3.png  used on input line 234.
@@ -1640,7 +1640,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) h
                                                   \__shipout_drop_firstpage_...
 l.253 
        <./Images/c2_3.png>]
-<Images/c2_4.png, id=709, 299.61937pt x 173.89969pt>
+<Images/c2_4.png, id=718, 299.61937pt x 173.89969pt>
 File: Images/c2_4.png Graphic file (type png)
 <use Images/c2_4.png>
 Package pdftex.def Info: Images/c2_4.png  used on input line 273.
@@ -1674,7 +1674,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ] [18]
-<Images/c3_1.png, id=746, 613.54219pt x 176.91093pt>
+<Images/c3_1.png, id=755, 613.54219pt x 176.91093pt>
 File: Images/c3_1.png Graphic file (type png)
 <use Images/c3_1.png>
 Package pdftex.def Info: Images/c3_1.png  used on input line 51.
@@ -1728,7 +1728,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) h
                                                   \__shipout_drop_firstpage_...
 l.88 
       <./Images/c3_1.png>]
-<Images/c3_2.png, id=755, 186.6975pt x 106.14656pt>
+<Images/c3_2.png, id=764, 186.6975pt x 106.14656pt>
 File: Images/c3_2.png Graphic file (type png)
 <use Images/c3_2.png>
 Package pdftex.def Info: Images/c3_2.png  used on input line 91.
@@ -1744,7 +1744,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) h
                                                   \__shipout_drop_firstpage_...
 l.100 
        <./Images/c3_2.png>]
-<Images/c3_3.png, id=765, 200.24812pt x 165.61874pt>
+<Images/c3_3.png, id=774, 200.24812pt x 165.61874pt>
 File: Images/c3_3.png Graphic file (type png)
 <use Images/c3_3.png>
 Package pdftex.def Info: Images/c3_3.png  used on input line 110.
@@ -1763,7 +1763,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) h
                                                   \__shipout_drop_firstpage_...
 l.125 
        <./Images/c3_3.png>]
-<Images/c3_4.png, id=773, 194.97844pt x 142.28156pt>
+<Images/c3_4.png, id=782, 194.97844pt x 142.28156pt>
 File: Images/c3_4.png Graphic file (type png)
 <use Images/c3_4.png>
 Package pdftex.def Info: Images/c3_4.png  used on input line 128.
@@ -1787,7 +1787,7 @@ Chapter 4.
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
  [25] [26] [27]
-<Images/c4_1.png, id=826, 256.70906pt x 73.77562pt>
+<Images/c4_1.png, id=835, 256.70906pt x 73.77562pt>
 File: Images/c4_1.png Graphic file (type png)
 <use Images/c4_1.png>
 Package pdftex.def Info: Images/c4_1.png  used on input line 159.
@@ -1798,7 +1798,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) h
                                                   \__shipout_drop_firstpage_...
 l.168   \item \textbf
                      {Verification Methods}: Public keys or cryptographic ob... <./Images/c4_1.png>]
-<Images/c4_2.png, id=837, 386.94562pt x 160.34906pt>
+<Images/c4_2.png, id=846, 386.94562pt x 160.34906pt>
 File: Images/c4_2.png Graphic file (type png)
 <use Images/c4_2.png>
 Package pdftex.def Info: Images/c4_2.png  used on input line 184.
@@ -1809,7 +1809,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) h
                                                   \__shipout_drop_firstpage_...
 l.194 
        <./Images/c4_2.png>]
-<Images/c4_3.png, id=845, 410.2828pt x 187.45032pt>
+<Images/c4_3.png, id=854, 410.2828pt x 187.45032pt>
 File: Images/c4_3.png Graphic file (type png)
 <use Images/c4_3.png>
 Package pdftex.def Info: Images/c4_3.png  used on input line 214.
@@ -1819,7 +1819,7 @@ Package pdftex.def Info: Images/c4_3.png  used on input line 214.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [30]
-<Images/c4_4.png, id=855, 609.77812pt x 132.495pt>
+<Images/c4_4.png, id=864, 609.77812pt x 132.495pt>
 File: Images/c4_4.png Graphic file (type png)
 <use Images/c4_4.png>
 Package pdftex.def Info: Images/c4_4.png  used on input line 226.
@@ -1838,7 +1838,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) h
                                                   \__shipout_drop_firstpage_...
 l.237 
        <./Images/c4_3.png> <./Images/c4_4.png>] [32]
-<Images/c4_5.png, id=871, 677.53125pt x 441.65pt>
+<Images/c4_5.png, id=880, 677.53125pt x 441.65pt>
 File: Images/c4_5.png Graphic file (type png)
 <use Images/c4_5.png>
 Package pdftex.def Info: Images/c4_5.png  used on input line 273.
@@ -1859,7 +1859,7 @@ Overfull \hbox (0.16238pt too wide) in paragraph at lines 306--307
  []
 
 [34]
-<Images/c4_6.png, id=889, 411.78844pt x 118.19156pt>
+<Images/c4_6.png, id=898, 411.78844pt x 118.19156pt>
 File: Images/c4_6.png Graphic file (type png)
 <use Images/c4_6.png>
 Package pdftex.def Info: Images/c4_6.png  used on input line 335.
@@ -1887,12 +1887,12 @@ Chapter 5.
 
 
 ]
-<Images/c5_1.png, id=911, 524.71031pt x 91.84312pt>
+<Images/c5_1.png, id=920, 524.71031pt x 91.84312pt>
 File: Images/c5_1.png Graphic file (type png)
 <use Images/c5_1.png>
 Package pdftex.def Info: Images/c5_1.png  used on input line 34.
 (pdftex.def)             Requested size: 418.25368pt x 73.2111pt.
-<Images/c5_2.png, id=913, 512.66531pt x 72.27pt>
+<Images/c5_2.png, id=922, 512.66531pt x 72.27pt>
 File: Images/c5_2.png Graphic file (type png)
 <use Images/c5_2.png>
 Package pdftex.def Info: Images/c5_2.png  used on input line 44.
@@ -1908,7 +1908,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2}) h
                                                   \__shipout_drop_firstpage_...
 l.53   \item \textbf
                     {Type}: Identifies the exact proof type for cryptographi... <./Images/c5_1.png> <./Images/c5_2.png>]
-<Images/c5_3.png, id=925, 327.47343pt x 155.83218pt>
+<Images/c5_3.png, id=934, 327.47343pt x 155.83218pt>
 File: Images/c5_3.png Graphic file (type png)
 <use Images/c5_3.png>
 Package pdftex.def Info: Images/c5_3.png  used on input line 62.
@@ -1929,7 +1929,7 @@ Overfull \hbox (5.26112pt too wide) in paragraph at lines 155--158
  []
 
 [42]
-<Images/c5_4.png, id=969, 571.38469pt x 230.36063pt>
+<Images/c5_4.png, id=978, 571.38469pt x 230.36063pt>
 File: Images/c5_4.png Graphic file (type png)
 <use Images/c5_4.png>
 Package pdftex.def Info: Images/c5_4.png  used on input line 177.
@@ -1940,7 +1940,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5.4}) h
                                                   \__shipout_drop_firstpage_...
 l.181 \newpage
                <./Images/c5_4.png>]
-<Images/c5_5.png, id=977, 569.87906pt x 188.20313pt>
+<Images/c5_5.png, id=986, 569.87906pt x 188.20313pt>
 File: Images/c5_5.png Graphic file (type png)
 <use Images/c5_5.png>
 Package pdftex.def Info: Images/c5_5.png  used on input line 195.
@@ -1954,7 +1954,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5.5}) h
                                                   \__shipout_drop_firstpage_...
 l.207 
        <./Images/c5_5.png>]
-<Images/c5_6.png, id=986, 569.87906pt x 258.21469pt>
+<Images/c5_6.png, id=995, 569.87906pt x 258.21469pt>
 File: Images/c5_6.png Graphic file (type png)
 <use Images/c5_6.png>
 Package pdftex.def Info: Images/c5_6.png  used on input line 210.
@@ -2003,7 +2003,7 @@ LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10.95> not available
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [58] (Codes/cookie.js) [59] (Codes/createJWT.js) [60] (Codes/createVC.js) [61]
-<Images/c6_1.jpg, id=1243, 963.6pt x 453.19313pt>
+<Images/c6_1.jpg, id=1249, 963.6pt x 453.19313pt>
 File: Images/c6_1.jpg Graphic file (type jpg)
 <use Images/c6_1.jpg>
 Package pdftex.def Info: Images/c6_1.jpg  used on input line 338.
@@ -2017,7 +2017,7 @@ l.351
 Underfull \vbox (badness 1681) has occurred while \output is active []
 
  [63])
-<Images/c6_2.jpg, id=1276, 963.6pt x 444.91219pt>
+<Images/c6_2.jpg, id=1281, 963.6pt x 444.91219pt>
 File: Images/c6_2.jpg Graphic file (type jpg)
 <use Images/c6_2.jpg>
 Package pdftex.def Info: Images/c6_2.jpg  used on input line 363.
@@ -2028,7 +2028,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2}) h
                                                   \__shipout_drop_firstpage_...
 l.377 
        <./Images/c6_2.jpg>] (Codes/vc.jwt) [65]
-<Images/c6_3.jpg, id=1319, 963.6pt x 451.6875pt>
+<Images/c6_3.jpg, id=1323, 963.6pt x 451.6875pt>
 File: Images/c6_3.jpg Graphic file (type jpg)
 <use Images/c6_3.jpg>
 Package pdftex.def Info: Images/c6_3.jpg  used on input line 392.
@@ -2049,7 +2049,7 @@ Chapter 7.
 
 
 ] [68] [69] [70]
-<Images/c6_4.jpg, id=1345, 950.80219pt x 453.94594pt>
+<Images/c6_4.jpg, id=1349, 950.80219pt x 453.94594pt>
 File: Images/c6_4.jpg Graphic file (type jpg)
 <use Images/c6_4.jpg>
 Package pdftex.def Info: Images/c6_4.jpg  used on input line 140.
@@ -2060,7 +2060,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) h
                                                   \__shipout_drop_firstpage_...
 l.146 
        <./Images/c6_4.jpg>]
-<Images/c6_5.jpg, id=1350, 1067.99pt x 505.89pt>
+<Images/c6_5.jpg, id=1354, 1067.99pt x 505.89pt>
 File: Images/c6_5.jpg Graphic file (type jpg)
 <use Images/c6_5.jpg>
 Package pdftex.def Info: Images/c6_5.jpg  used on input line 152.
@@ -2071,17 +2071,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.7.2}) h
                                                   \__shipout_drop_firstpage_...
 l.164 \newpage
                <./Images/c6_5.jpg>]
-<Images/c6_6.jpg, id=1356, 950.04938pt x 449.42906pt>
+<Images/c6_6.jpg, id=1360, 950.04938pt x 449.42906pt>
 File: Images/c6_6.jpg Graphic file (type jpg)
 <use Images/c6_6.jpg>
 Package pdftex.def Info: Images/c6_6.jpg  used on input line 171.
 (pdftex.def)             Requested size: 334.60422pt x 158.29002pt.
-<Images/c6_7.jpg, id=1357, 949.29657pt x 450.9347pt>
+<Images/c6_7.jpg, id=1361, 949.29657pt x 450.9347pt>
 File: Images/c6_7.jpg Graphic file (type jpg)
 <use Images/c6_7.jpg>
 Package pdftex.def Info: Images/c6_7.jpg  used on input line 179.
 (pdftex.def)             Requested size: 334.60422pt x 158.94418pt.
-<Images/c6_8.jpg, id=1358, 948.54375pt x 448.67625pt>
+<Images/c6_8.jpg, id=1362, 948.54375pt x 448.67625pt>
 File: Images/c6_8.jpg Graphic file (type jpg)
 <use Images/c6_8.jpg>
 Package pdftex.def Info: Images/c6_8.jpg  used on input line 189.
@@ -2101,12 +2101,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.7.4}) h
                                                   \__shipout_drop_firstpage_...
 l.195 
        <./Images/c6_6.jpg> <./Images/c6_7.jpg>]
-<Images/c6_9.jpg, id=1363, 948.54375pt x 446.41782pt>
+<Images/c6_9.jpg, id=1367, 948.54375pt x 446.41782pt>
 File: Images/c6_9.jpg Graphic file (type jpg)
 <use Images/c6_9.jpg>
 Package pdftex.def Info: Images/c6_9.jpg  used on input line 198.
 (pdftex.def)             Requested size: 334.60422pt x 157.47469pt.
-<Images/c6_10.jpg, id=1364, 950.80219pt x 447.92343pt>
+<Images/c6_10.jpg, id=1368, 950.80219pt x 447.92343pt>
 File: Images/c6_10.jpg Graphic file (type jpg)
 <use Images/c6_10.jpg>
 Package pdftex.def Info: Images/c6_10.jpg  used on input line 208.
@@ -2126,7 +2126,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.7.6}) h
                                                   \__shipout_drop_firstpage_...
 l.215 
        <./Images/c6_8.jpg> <./Images/c6_9.jpg>]
-<Images/c6_11.jpg, id=1369, 948.54375pt x 450.18187pt>
+<Images/c6_11.jpg, id=1373, 948.54375pt x 450.18187pt>
 File: Images/c6_11.jpg Graphic file (type jpg)
 <use Images/c6_11.jpg>
 Package pdftex.def Info: Images/c6_11.jpg  used on input line 218.
@@ -2230,16 +2230,16 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  36019 strings out of 474541
- 646421 string characters out of 5744898
- 2216978 words of memory out of 5000000
+ 646525 string characters out of 5744898
+ 2215978 words of memory out of 5000000
  57078 multiletter control sequences out of 15000+600000
  623170 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  138i,18n,135p,2354b,2290s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (95 pages, 3840111 bytes).
+Output written on thesis.pdf (95 pages, 3842337 bytes).
 PDF statistics:
- 1653 PDF objects out of 1728 (max. 8388607)
+ 1657 PDF objects out of 1728 (max. 8388607)
  503 named destinations out of 1000 (max. 500000)
  833 words of extra memory for PDF output out of 10000 (max. 10000000)
 
