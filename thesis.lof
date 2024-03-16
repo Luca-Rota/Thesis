@@ -4,40 +4,40 @@
 \babel@toc {english}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Blockchain structure}}{7}{figure.2.1}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Blockchain transaction process}}{8}{figure.2.2}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces UTXO transaction process}}{13}{figure.2.3}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Ethereum transaction process}}{15}{figure.2.4}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Blockchain structure}}{7}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Blockchain transaction process}}{8}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces UTXO transaction process}}{13}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ethereum transaction process}}{15}{figure.caption.9}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces The timeline of digital identity development.}}{19}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Centralized Identity Management Model (IDM 1.0)}}{20}{figure.3.2}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Federated Identity Management Model (IDM 2.0)}}{21}{figure.3.3}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Self-Sovereign Identity Management Model (IDM 3.0)}}{22}{figure.3.4}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The timeline of digital identity development.}}{19}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Centralized Identity Management Model (IDM 1.0)}}{20}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Federated Identity Management Model (IDM 2.0)}}{21}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Self-Sovereign Identity Management Model (IDM 3.0)}}{22}{figure.caption.14}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Decentralized Identifiers (DID) URI syntax.}}{28}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces The basic components of DIDs architecture.}}{29}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces A simple example of verifiable credential.}}{31}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Core data model in W3C's VC.}}{31}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces SSI architecture.}}{33}{figure.4.5}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Basic concept of W3C's VC.}}{36}{figure.4.6}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Decentralized Identifiers (DID) URI syntax.}}{28}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The basic components of DIDs architecture.}}{30}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces A simple example of verifiable credential.}}{31}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Core data model in W3C's VC.}}{31}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces SSI architecture.}}{33}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Basic concept of W3C's VC.}}{35}{figure.caption.20}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Process to create a cryptographic proof.}}{38}{figure.5.1}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Process to verify a cryptographic proof.}}{38}{figure.5.2}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces A simple example of cryptographic proof.}}{39}{figure.5.3}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces An attack tree of Faking Identity Attacks in the SSI system.}}{43}{figure.5.4}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces An attack tree of Theft Identity Attacks in the SSI system.}}{44}{figure.5.5}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces An attack tree of Distributed DDoS Attacks in the SSI system.}}{45}{figure.5.6}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Process to create a cryptographic proof.}}{38}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Process to verify a cryptographic proof.}}{38}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces A simple example of cryptographic proof.}}{39}{figure.caption.23}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces An attack tree of Faking Identity Attacks in the SSI system.}}{44}{figure.caption.24}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces An attack tree of Theft Identity Attacks in the SSI system.}}{45}{figure.caption.25}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces An attack tree of Distributed DDoS Attacks in the SSI system.}}{45}{figure.caption.26}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Access page with MetaMask installed.}}{62}{figure.6.1}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Sign Up page with confirm transaction pop-up.}}{64}{figure.6.2}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Sign In page with sign message pop-up.}}{66}{figure.6.3}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Access page with MetaMask installed.}}{63}{figure.caption.28}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Sign Up page with confirm transaction pop-up.}}{64}{figure.caption.29}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Sign In page with sign message pop-up.}}{67}{figure.caption.30}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces The marketplace in the Data Cellar Home page.}}{71}{figure.7.1}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces List of licenses for a specific dataset, after authentication process.}}{72}{figure.7.2}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Page to view user's personal information.}}{73}{figure.7.3}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Page to manage user's DataCellar tokens.}}{73}{figure.7.4}%
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Page to view user's dataset and access their licenses.}}{74}{figure.7.5}%
-\contentsline {figure}{\numberline {7.6}{\ignorespaces Page to create a new license or switch for new dataset. }}{74}{figure.7.6}%
-\contentsline {figure}{\numberline {7.7}{\ignorespaces Page to view purchased licenses of specific dataset and use them.}}{75}{figure.7.7}%
-\contentsline {figure}{\numberline {7.8}{\ignorespaces Page to delete user's account, performing de-registration.}}{75}{figure.7.8}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces The marketplace in the Data Cellar Home page.}}{73}{figure.caption.31}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces List of licenses for a specific dataset, after authentication process.}}{74}{figure.caption.32}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Page to view user's personal information.}}{75}{figure.caption.33}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Page to manage user's DataCellar tokens.}}{75}{figure.caption.34}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Page to view user's dataset and access their licenses.}}{76}{figure.caption.35}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Page to create a new license or switch for new dataset. }}{76}{figure.caption.36}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Page to view purchased licenses of specific dataset and use them.}}{77}{figure.caption.37}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Page to delete user's account, performing de-registration.}}{77}{figure.caption.38}%
 \addvspace {10\p@ }

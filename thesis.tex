@@ -1,185 +1,20 @@
 \documentclass[
+  a4paper,
 	12pt,
   twoside,
   stile=classica,
   oldstyle,
   tipotesi=magistrale,
   numerazioneromana,
-  greek,
-  evenboxes,
   cucitura=7mm
 ]{toptesi}
 
-\usepackage[acronym]{glossaries}
+\input{./Contents/packages.tex}
+\input{./Contents/package_config.tex}
 
-%\makeglossaries
-
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
-\usepackage[english]{babel}
-
-\usepackage{hyperref}
-\hypersetup{
-    pdfpagemode={UseOutlines},
-    bookmarksopen,
-    pdfstartview={FitH},
-    colorlinks,
-    linkcolor={blue},
-    citecolor={red},
-    urlcolor={blue}
-  }
-
-%\setcounter{tocdepth}{3}
-%\setcounter{secnumdepth}{3}
-
-\usepackage{lipsum} 
-\usepackage{amsmath, amssymb}
-\usepackage{appendix}
-\usepackage{longtable}
-\usepackage{lscape}
-\usepackage{adjustbox}
-\usepackage{float}
-\usepackage{accsupp}
-\usepackage{blindtext}
-\usepackage{setspace}
-\usepackage{parskip}
-\usepackage{array}
-\setlength{\parindent}{1em}
-
-\usepackage{titlesec}
-\titleformat{\subsubsection}[hang]{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
-\titlespacing*{\subsubsection}{0pt}{\baselineskip}{\baselineskip}
-\titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
-\titlespacing*{\paragraph}{0pt}{\baselineskip}{\baselineskip} 
-
-\usepackage{geometry} 
-\newcommand\fillin[1][4cm]{\makebox[#1]{\dotfill}} 
-
-\usepackage{dcolumn}
-\newcolumntype{d}{D{.}{.}{-1} } 
-
-\usepackage[backend=biber]{biblatex}
 \addbibresource{references.bib}
 
-\usepackage{afterpage}
-\newcommand\blankpage{
-  \null
-  \thispagestyle{empty}
-  \addtocounter{page}{-1}
-  \newpage
-}
-\usepackage{listings}
-\usepackage{xcolor}
-
-\definecolor{codegray}{rgb}{0.5,0.5,0.5}
-\definecolor{lightgray}{rgb}{.9,.9,.9}
-\definecolor{darkgray}{rgb}{.4,.4,.4}
-\definecolor{purple}{rgb}{0.65, 0.12, 0.82}
-\definecolor{yellow}{rgb}{1.0, 0.8, 0.2}
-\definecolor{lightblue}{rgb}{0.53, 0.81, 0.98}
-\definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
-\definecolor{green}{rgb}{0.0, 0.5, 0.0}
-
-\lstdefinelanguage{JavaScript}{
-  backgroundcolor=\color{lightgray},
-  keywords={Promise, Error, Buffer, Resolver, EthrDID, PRIV_KEY, OWN_ADDRESS, typeof, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break, try, await},
-  keywordstyle=\color{purple}\bfseries,
-  %ndkeywords={async, true, false, class, const, new, export, boolean, throw, implements, import, this},
-  %ndkeywordstyle=\color{darkblue}\bfseries,
-  identifierstyle=\color{lightblue},
-  sensitive=false,
-  comment=[l]{//},
-  morecomment=[s]{/*}{*/},
-  commentstyle=\color{green},
-  stringstyle=\color{green},
-  morestring=[b]',
-  morestring=[b]",
-  basicstyle=\small\ttfamily,
-  showstringspaces=false, 
-  numberstyle=\tiny\color{codegray},
-  breakatwhitespace=false,         
-  breaklines=true,                 
-  captionpos=b,                    
-  keepspaces=true,                                    
-  numbersep=5pt,                  
-  showspaces=false,       
-  showtabs=false,                  
-  tabsize=2,
-  frame=single,
-  numbers=left,
-  morekeywords=[2]{reload, setErrorMessage, clearError, wait, registerUser, Contract, isRegistered, signupDataCellar, timeoutPromise, race, getSigner, BrowserProvider, deployed, deploy, log, require, removeListener, updateWalletAndAccounts, getProvider, setHasProvider, detectEthereumProvider, on, length, setWallet, useCallback, request, updateWallet, parseInt, getResolver, verifyCredential, _updateWallet, getContract, verifyVc, navigate, setAuthState, handleLoggedIn, useEffect, find, split, UnauthorizedException, generatePayload, toLowerCase, recoverPersonalSignature, bufferToHex, generateJwtToken, signAsync, createVerifiableCredentialJwt, generateVcPayload, generateVerifiableCredential, },
-  keywordstyle=[2]\color{orange}\bfseries,
-  morekeywords=[3]{async, true, false, class, const, new, export, boolean, throw, implements, import, this},
-  keywordstyle=[3]\color{darkblue}\bfseries 
-}
-
-\lstdefinelanguage{Solidity}{
-  backgroundcolor=\color{lightgray},
-  keywords={pragma, contract, function, return, constructor, public, private, external, internal, payable, view, pure, event, emit},
-  keywordstyle=\color{blue}\bfseries,
-  ndkeywords={address, uint, string, bool, mapping, struct, require, keccak256},
-  ndkeywordstyle=\color{darkgray}\bfseries,
-  identifierstyle=\color{black},
-  sensitive=false,
-  comment=[l]{//},
-  morecomment=[s]{/*}{*/},
-  commentstyle=\color{purple},
-  stringstyle=\color{red},
-  morestring=[b]',
-  morestring=[b]",
-  basicstyle=\small\ttfamily,
-  showstringspaces=false, 
-  numberstyle=\tiny\color{codegray},
-  breakatwhitespace=false,         
-  breaklines=true,                 
-  captionpos=b,                    
-  keepspaces=true,                 
-  numbers=left,                    
-  numbersep=5pt,                  
-  showspaces=false,       
-  showtabs=false,                  
-  tabsize=2,
-  frame=single
-}
-
-\lstdefinelanguage{JWT}{
-  keywords={alg, typ, iss, sub, aud, exp, nbf, iat, jti},
-  keywordstyle=\color{blue}\bfseries,
-  ndkeywords={},
-  ndkeywordstyle=\color{darkgray}\bfseries,
-  identifierstyle=\color{black},
-  sensitive=false,
-  comment=[l]{//},
-  morecomment=[s]{/*}{*/},
-  commentstyle=\color{purple},
-  stringstyle=\color{red},
-  morestring=[b]',
-  morestring=[b]",
-  basicstyle=\small\ttfamily,
-  showstringspaces=false, 
-  numberstyle=\tiny\color{codegray},
-  breakatwhitespace=false,         
-  breaklines=true,                 
-  captionpos=b,                    
-  keepspaces=true,                 
-  numbers=left,                    
-  numbersep=5pt,                  
-  showspaces=false,       
-  showtabs=false,                  
-  tabsize=2,
-  frame=single
-}
-
-\usepackage{tabularx}
-\usepackage{makecell}
-\renewcommand\theadfont{\bfseries}
-
-\newtheorem{observation}{Observation}
-
-\input{./Contents/xml_style.tex}
 \input{./Contents/acronyms.tex}
-
 \makeglossaries
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -209,7 +44,7 @@
 \cleardoublepage
 \pagestyle{plain}
 
-\indici
+\tableofcontents
 
 \listoftables
 
@@ -218,10 +53,8 @@
 \addcontentsline{toc}{chapter}{Listings}
 \lstlistoflistings
 
-\addcontentsline{toc}{chapter}{Acronyms}
-%\printglossary
-\printglossary[title={Acronyms}, type=\acronymtype]
-%\printglossaries
+\printunsrtglossary[title=Acronyms,type=\glsxtrabbrvtype]
+\glsresetall
 
 \cleardoublepage
 \thispagestyle{empty}

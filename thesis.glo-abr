@@ -50,7 +50,7 @@
 \glossaryentry{ARPANET?\glossentry{arpanet}|setentrycounter[]{page}"\glsnumberformat}{18}
 \glossaryentry{IP?\glossentry{ip}|setentrycounter[]{page}"\glsnumberformat}{18}
 \glossaryentry{IP?\glossentry{ip}|setentrycounter[]{page}"\glsnumberformat}{18}
-\glossaryentry{PKI?\glossentry{pki}|setentrycounter[]{page}"\glsnumberformat}{19}
+\glossaryentry{PKI?\glossentry{pki}|setentrycounter[]{page}"\glsnumberformat}{18}
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{19}
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{19}
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{19}
@@ -63,11 +63,11 @@
 \glossaryentry{VC?\glossentry{vc}|setentrycounter[]{page}"\glsnumberformat}{19}
 \glossaryentry{DID?\glossentry{did}|setentrycounter[]{page}"\glsnumberformat}{19}
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{19}
-\glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{20}
+\glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{19}
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{20}
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{20}
 \glossaryentry{IDP?\glossentry{idp}|setentrycounter[]{page}"\glsnumberformat}{20}
-\glossaryentry{IDP?\glossentry{idp}|setentrycounter[]{page}"\glsnumberformat}{21}
+\glossaryentry{IDP?\glossentry{idp}|setentrycounter[]{page}"\glsnumberformat}{20}
 \glossaryentry{IDP?\glossentry{idp}|setentrycounter[]{page}"\glsnumberformat}{21}
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{21}
 \glossaryentry{IDP?\glossentry{idp}|setentrycounter[]{page}"\glsnumberformat}{21}
@@ -75,8 +75,8 @@
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{21}
 \glossaryentry{IDM?\glossentry{idm}|setentrycounter[]{page}"\glsnumberformat}{21}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{21}
-\glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{22}
-\glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{22}
+\glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{21}
+\glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{21}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{23}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{23}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{23}
@@ -147,7 +147,7 @@
 \glossaryentry{ZKP?\glossentry{zkp}|setentrycounter[]{page}"\glsnumberformat}{31}
 \glossaryentry{ZKP?\glossentry{zkp}|setentrycounter[]{page}"\glsnumberformat}{31}
 \glossaryentry{ZKP?\glossentry{zkp}|setentrycounter[]{page}"\glsnumberformat}{31}
-\glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{31}
 \glossaryentry{ZKP?\glossentry{zkp}|setentrycounter[]{page}"\glsnumberformat}{32}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{32}
 \glossaryentry{DID?\glossentry{did}|setentrycounter[]{page}"\glsnumberformat}{32}
@@ -394,7 +394,10 @@
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{79}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{79}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{79}
+\glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{79}
 \glossaryentry{DID?\glossentry{did}|setentrycounter[]{page}"\glsnumberformat}{79}
+\glossaryentry{DID?\glossentry{did}|setentrycounter[]{page}"\glsnumberformat}{79}
+\glossaryentry{VC?\glossentry{vc}|setentrycounter[]{page}"\glsnumberformat}{79}
 \glossaryentry{VC?\glossentry{vc}|setentrycounter[]{page}"\glsnumberformat}{79}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{79}
 \glossaryentry{SSI?\glossentry{ssi}|setentrycounter[]{page}"\glsnumberformat}{79}

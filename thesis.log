@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  16 MAR 2024 13:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  16 MAR 2024 21:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -64,369 +64,7 @@ Package: babel 2024/01/07 v24.1 The Babel package
 *
 (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/babel-greek\greek.ldf
-Language: greek 2023/10/13 1.15 Greek support for the babel system
-\bbl@monogreek=\count268
-\bbl@polygreek=\count269
-\bbl@ancientgreek=\count270
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\lgrenc.def
-File: lgrenc.def 2023-09-12 2.5 LGR Greek font encoding definitions
-Now handling font encoding LGR ...
-... processing UTF-8 mapping file for font encoding LGR
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/greek-inputenc\lgrenc.dfu
-File: lgrenc.dfu 2023-03-21 1.9 UTF-8 support for Greek
-   defining Unicode char U+00A8 (decimal 168)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00AF (decimal 175)
-   defining Unicode char U+00B4 (decimal 180)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+0259 (decimal 601)
-   defining Unicode char U+02D8 (decimal 728)
-   defining Unicode char U+0374 (decimal 884)
-   defining Unicode char U+0375 (decimal 885)
-   defining Unicode char U+037A (decimal 890)
-   defining Unicode char U+037E (decimal 894)
-   defining Unicode char U+0384 (decimal 900)
-   defining Unicode char U+0385 (decimal 901)
-   defining Unicode char U+0386 (decimal 902)
-   defining Unicode char U+0387 (decimal 903)
-   defining Unicode char U+0388 (decimal 904)
-   defining Unicode char U+0389 (decimal 905)
-   defining Unicode char U+038A (decimal 906)
-   defining Unicode char U+038C (decimal 908)
-   defining Unicode char U+038E (decimal 910)
-   defining Unicode char U+038F (decimal 911)
-   defining Unicode char U+0390 (decimal 912)
-   defining Unicode char U+0391 (decimal 913)
-   defining Unicode char U+0392 (decimal 914)
-   defining Unicode char U+0393 (decimal 915)
-   defining Unicode char U+0394 (decimal 916)
-   defining Unicode char U+0395 (decimal 917)
-   defining Unicode char U+0396 (decimal 918)
-   defining Unicode char U+0397 (decimal 919)
-   defining Unicode char U+0398 (decimal 920)
-   defining Unicode char U+0399 (decimal 921)
-   defining Unicode char U+039A (decimal 922)
-   defining Unicode char U+039B (decimal 923)
-   defining Unicode char U+039C (decimal 924)
-   defining Unicode char U+039D (decimal 925)
-   defining Unicode char U+039E (decimal 926)
-   defining Unicode char U+039F (decimal 927)
-   defining Unicode char U+03A0 (decimal 928)
-   defining Unicode char U+03A1 (decimal 929)
-   defining Unicode char U+03A3 (decimal 931)
-   defining Unicode char U+03A4 (decimal 932)
-   defining Unicode char U+03A5 (decimal 933)
-   defining Unicode char U+03A6 (decimal 934)
-   defining Unicode char U+03A7 (decimal 935)
-   defining Unicode char U+03A8 (decimal 936)
-   defining Unicode char U+03A9 (decimal 937)
-   defining Unicode char U+03AA (decimal 938)
-   defining Unicode char U+03AB (decimal 939)
-   defining Unicode char U+03AC (decimal 940)
-   defining Unicode char U+03AD (decimal 941)
-   defining Unicode char U+03AE (decimal 942)
-   defining Unicode char U+03AF (decimal 943)
-   defining Unicode char U+03B0 (decimal 944)
-   defining Unicode char U+03B1 (decimal 945)
-   defining Unicode char U+03B2 (decimal 946)
-   defining Unicode char U+03B3 (decimal 947)
-   defining Unicode char U+03B4 (decimal 948)
-   defining Unicode char U+03B5 (decimal 949)
-   defining Unicode char U+03B6 (decimal 950)
-   defining Unicode char U+03B7 (decimal 951)
-   defining Unicode char U+03B8 (decimal 952)
-   defining Unicode char U+03B9 (decimal 953)
-   defining Unicode char U+03BA (decimal 954)
-   defining Unicode char U+03BB (decimal 955)
-   defining Unicode char U+03BC (decimal 956)
-   defining Unicode char U+03BD (decimal 957)
-   defining Unicode char U+03BE (decimal 958)
-   defining Unicode char U+03BF (decimal 959)
-   defining Unicode char U+03C0 (decimal 960)
-   defining Unicode char U+03C1 (decimal 961)
-   defining Unicode char U+03C2 (decimal 962)
-   defining Unicode char U+03C3 (decimal 963)
-   defining Unicode char U+03C4 (decimal 964)
-   defining Unicode char U+03C5 (decimal 965)
-   defining Unicode char U+03C6 (decimal 966)
-   defining Unicode char U+03C7 (decimal 967)
-   defining Unicode char U+03C8 (decimal 968)
-   defining Unicode char U+03C9 (decimal 969)
-   defining Unicode char U+03CA (decimal 970)
-   defining Unicode char U+03CB (decimal 971)
-   defining Unicode char U+03CC (decimal 972)
-   defining Unicode char U+03CD (decimal 973)
-   defining Unicode char U+03CE (decimal 974)
-   defining Unicode char U+03D0 (decimal 976)
-   defining Unicode char U+03D1 (decimal 977)
-   defining Unicode char U+03D5 (decimal 981)
-   defining Unicode char U+03D6 (decimal 982)
-   defining Unicode char U+03D8 (decimal 984)
-   defining Unicode char U+03D9 (decimal 985)
-   defining Unicode char U+03DA (decimal 986)
-   defining Unicode char U+03DB (decimal 987)
-   defining Unicode char U+03DC (decimal 988)
-   defining Unicode char U+03DD (decimal 989)
-   defining Unicode char U+03DE (decimal 990)
-   defining Unicode char U+03DF (decimal 991)
-   defining Unicode char U+03E0 (decimal 992)
-   defining Unicode char U+03E1 (decimal 993)
-   defining Unicode char U+03F0 (decimal 1008)
-   defining Unicode char U+03F1 (decimal 1009)
-   defining Unicode char U+03F4 (decimal 1012)
-   defining Unicode char U+03F5 (decimal 1013)
-   defining Unicode char U+1F00 (decimal 7936)
-   defining Unicode char U+1F01 (decimal 7937)
-   defining Unicode char U+1F02 (decimal 7938)
-   defining Unicode char U+1F03 (decimal 7939)
-   defining Unicode char U+1F04 (decimal 7940)
-   defining Unicode char U+1F05 (decimal 7941)
-   defining Unicode char U+1F06 (decimal 7942)
-   defining Unicode char U+1F07 (decimal 7943)
-   defining Unicode char U+1F08 (decimal 7944)
-   defining Unicode char U+1F09 (decimal 7945)
-   defining Unicode char U+1F0A (decimal 7946)
-   defining Unicode char U+1F0B (decimal 7947)
-   defining Unicode char U+1F0C (decimal 7948)
-   defining Unicode char U+1F0D (decimal 7949)
-   defining Unicode char U+1F0E (decimal 7950)
-   defining Unicode char U+1F0F (decimal 7951)
-   defining Unicode char U+1F10 (decimal 7952)
-   defining Unicode char U+1F11 (decimal 7953)
-   defining Unicode char U+1F12 (decimal 7954)
-   defining Unicode char U+1F13 (decimal 7955)
-   defining Unicode char U+1F14 (decimal 7956)
-   defining Unicode char U+1F15 (decimal 7957)
-   defining Unicode char U+1F18 (decimal 7960)
-   defining Unicode char U+1F19 (decimal 7961)
-   defining Unicode char U+1F1A (decimal 7962)
-   defining Unicode char U+1F1B (decimal 7963)
-   defining Unicode char U+1F1C (decimal 7964)
-   defining Unicode char U+1F1D (decimal 7965)
-   defining Unicode char U+1F20 (decimal 7968)
-   defining Unicode char U+1F21 (decimal 7969)
-   defining Unicode char U+1F22 (decimal 7970)
-   defining Unicode char U+1F23 (decimal 7971)
-   defining Unicode char U+1F24 (decimal 7972)
-   defining Unicode char U+1F25 (decimal 7973)
-   defining Unicode char U+1F26 (decimal 7974)
-   defining Unicode char U+1F27 (decimal 7975)
-   defining Unicode char U+1F28 (decimal 7976)
-   defining Unicode char U+1F29 (decimal 7977)
-   defining Unicode char U+1F2A (decimal 7978)
-   defining Unicode char U+1F2B (decimal 7979)
-   defining Unicode char U+1F2C (decimal 7980)
-   defining Unicode char U+1F2D (decimal 7981)
-   defining Unicode char U+1F2E (decimal 7982)
-   defining Unicode char U+1F2F (decimal 7983)
-   defining Unicode char U+1F30 (decimal 7984)
-   defining Unicode char U+1F31 (decimal 7985)
-   defining Unicode char U+1F32 (decimal 7986)
-   defining Unicode char U+1F33 (decimal 7987)
-   defining Unicode char U+1F34 (decimal 7988)
-   defining Unicode char U+1F35 (decimal 7989)
-   defining Unicode char U+1F36 (decimal 7990)
-   defining Unicode char U+1F37 (decimal 7991)
-   defining Unicode char U+1F38 (decimal 7992)
-   defining Unicode char U+1F39 (decimal 7993)
-   defining Unicode char U+1F3A (decimal 7994)
-   defining Unicode char U+1F3B (decimal 7995)
-   defining Unicode char U+1F3C (decimal 7996)
-   defining Unicode char U+1F3D (decimal 7997)
-   defining Unicode char U+1F3E (decimal 7998)
-   defining Unicode char U+1F3F (decimal 7999)
-   defining Unicode char U+1F40 (decimal 8000)
-   defining Unicode char U+1F41 (decimal 8001)
-   defining Unicode char U+1F42 (decimal 8002)
-   defining Unicode char U+1F43 (decimal 8003)
-   defining Unicode char U+1F44 (decimal 8004)
-   defining Unicode char U+1F45 (decimal 8005)
-   defining Unicode char U+1F48 (decimal 8008)
-   defining Unicode char U+1F49 (decimal 8009)
-   defining Unicode char U+1F4A (decimal 8010)
-   defining Unicode char U+1F4B (decimal 8011)
-   defining Unicode char U+1F4C (decimal 8012)
-   defining Unicode char U+1F4D (decimal 8013)
-   defining Unicode char U+1F50 (decimal 8016)
-   defining Unicode char U+1F51 (decimal 8017)
-   defining Unicode char U+1F52 (decimal 8018)
-   defining Unicode char U+1F53 (decimal 8019)
-   defining Unicode char U+1F54 (decimal 8020)
-   defining Unicode char U+1F55 (decimal 8021)
-   defining Unicode char U+1F56 (decimal 8022)
-   defining Unicode char U+1F57 (decimal 8023)
-   defining Unicode char U+1F59 (decimal 8025)
-   defining Unicode char U+1F5B (decimal 8027)
-   defining Unicode char U+1F5D (decimal 8029)
-   defining Unicode char U+1F5F (decimal 8031)
-   defining Unicode char U+1F60 (decimal 8032)
-   defining Unicode char U+1F61 (decimal 8033)
-   defining Unicode char U+1F62 (decimal 8034)
-   defining Unicode char U+1F63 (decimal 8035)
-   defining Unicode char U+1F64 (decimal 8036)
-   defining Unicode char U+1F65 (decimal 8037)
-   defining Unicode char U+1F66 (decimal 8038)
-   defining Unicode char U+1F67 (decimal 8039)
-   defining Unicode char U+1F68 (decimal 8040)
-   defining Unicode char U+1F69 (decimal 8041)
-   defining Unicode char U+1F6A (decimal 8042)
-   defining Unicode char U+1F6B (decimal 8043)
-   defining Unicode char U+1F6C (decimal 8044)
-   defining Unicode char U+1F6D (decimal 8045)
-   defining Unicode char U+1F6E (decimal 8046)
-   defining Unicode char U+1F6F (decimal 8047)
-   defining Unicode char U+1F70 (decimal 8048)
-   defining Unicode char U+1F71 (decimal 8049)
-   defining Unicode char U+1F72 (decimal 8050)
-   defining Unicode char U+1F73 (decimal 8051)
-   defining Unicode char U+1F74 (decimal 8052)
-   defining Unicode char U+1F75 (decimal 8053)
-   defining Unicode char U+1F76 (decimal 8054)
-   defining Unicode char U+1F77 (decimal 8055)
-   defining Unicode char U+1F78 (decimal 8056)
-   defining Unicode char U+1F79 (decimal 8057)
-   defining Unicode char U+1F7A (decimal 8058)
-   defining Unicode char U+1F7B (decimal 8059)
-   defining Unicode char U+1F7C (decimal 8060)
-   defining Unicode char U+1F7D (decimal 8061)
-   defining Unicode char U+1F80 (decimal 8064)
-   defining Unicode char U+1F81 (decimal 8065)
-   defining Unicode char U+1F82 (decimal 8066)
-   defining Unicode char U+1F83 (decimal 8067)
-   defining Unicode char U+1F84 (decimal 8068)
-   defining Unicode char U+1F85 (decimal 8069)
-   defining Unicode char U+1F86 (decimal 8070)
-   defining Unicode char U+1F87 (decimal 8071)
-   defining Unicode char U+1F88 (decimal 8072)
-   defining Unicode char U+1F89 (decimal 8073)
-   defining Unicode char U+1F8A (decimal 8074)
-   defining Unicode char U+1F8B (decimal 8075)
-   defining Unicode char U+1F8C (decimal 8076)
-   defining Unicode char U+1F8D (decimal 8077)
-   defining Unicode char U+1F8E (decimal 8078)
-   defining Unicode char U+1F8F (decimal 8079)
-   defining Unicode char U+1F90 (decimal 8080)
-   defining Unicode char U+1F91 (decimal 8081)
-   defining Unicode char U+1F92 (decimal 8082)
-   defining Unicode char U+1F93 (decimal 8083)
-   defining Unicode char U+1F94 (decimal 8084)
-   defining Unicode char U+1F95 (decimal 8085)
-   defining Unicode char U+1F96 (decimal 8086)
-   defining Unicode char U+1F97 (decimal 8087)
-   defining Unicode char U+1F98 (decimal 8088)
-   defining Unicode char U+1F99 (decimal 8089)
-   defining Unicode char U+1F9A (decimal 8090)
-   defining Unicode char U+1F9B (decimal 8091)
-   defining Unicode char U+1F9C (decimal 8092)
-   defining Unicode char U+1F9D (decimal 8093)
-   defining Unicode char U+1F9E (decimal 8094)
-   defining Unicode char U+1F9F (decimal 8095)
-   defining Unicode char U+1FA0 (decimal 8096)
-   defining Unicode char U+1FA1 (decimal 8097)
-   defining Unicode char U+1FA2 (decimal 8098)
-   defining Unicode char U+1FA3 (decimal 8099)
-   defining Unicode char U+1FA4 (decimal 8100)
-   defining Unicode char U+1FA5 (decimal 8101)
-   defining Unicode char U+1FA6 (decimal 8102)
-   defining Unicode char U+1FA7 (decimal 8103)
-   defining Unicode char U+1FA8 (decimal 8104)
-   defining Unicode char U+1FA9 (decimal 8105)
-   defining Unicode char U+1FAA (decimal 8106)
-   defining Unicode char U+1FAB (decimal 8107)
-   defining Unicode char U+1FAC (decimal 8108)
-   defining Unicode char U+1FAD (decimal 8109)
-   defining Unicode char U+1FAE (decimal 8110)
-   defining Unicode char U+1FAF (decimal 8111)
-   defining Unicode char U+1FB0 (decimal 8112)
-   defining Unicode char U+1FB1 (decimal 8113)
-   defining Unicode char U+1FB2 (decimal 8114)
-   defining Unicode char U+1FB3 (decimal 8115)
-   defining Unicode char U+1FB4 (decimal 8116)
-   defining Unicode char U+1FB6 (decimal 8118)
-   defining Unicode char U+1FB7 (decimal 8119)
-   defining Unicode char U+1FB8 (decimal 8120)
-   defining Unicode char U+1FB9 (decimal 8121)
-   defining Unicode char U+1FBA (decimal 8122)
-   defining Unicode char U+1FBB (decimal 8123)
-   defining Unicode char U+1FBC (decimal 8124)
-   defining Unicode char U+1FBD (decimal 8125)
-   defining Unicode char U+1FBE (decimal 8126)
-   defining Unicode char U+1FBF (decimal 8127)
-   defining Unicode char U+1FC0 (decimal 8128)
-   defining Unicode char U+1FC1 (decimal 8129)
-   defining Unicode char U+1FC2 (decimal 8130)
-   defining Unicode char U+1FC3 (decimal 8131)
-   defining Unicode char U+1FC4 (decimal 8132)
-   defining Unicode char U+1FC6 (decimal 8134)
-   defining Unicode char U+1FC7 (decimal 8135)
-   defining Unicode char U+1FC8 (decimal 8136)
-   defining Unicode char U+1FC9 (decimal 8137)
-   defining Unicode char U+1FCA (decimal 8138)
-   defining Unicode char U+1FCB (decimal 8139)
-   defining Unicode char U+1FCC (decimal 8140)
-   defining Unicode char U+1FCD (decimal 8141)
-   defining Unicode char U+1FCE (decimal 8142)
-   defining Unicode char U+1FCF (decimal 8143)
-   defining Unicode char U+1FD0 (decimal 8144)
-   defining Unicode char U+1FD1 (decimal 8145)
-   defining Unicode char U+1FD2 (decimal 8146)
-   defining Unicode char U+1FD3 (decimal 8147)
-   defining Unicode char U+1FD6 (decimal 8150)
-   defining Unicode char U+1FD7 (decimal 8151)
-   defining Unicode char U+1FD8 (decimal 8152)
-   defining Unicode char U+1FD9 (decimal 8153)
-   defining Unicode char U+1FDA (decimal 8154)
-   defining Unicode char U+1FDB (decimal 8155)
-   defining Unicode char U+1FDD (decimal 8157)
-   defining Unicode char U+1FDE (decimal 8158)
-   defining Unicode char U+1FDF (decimal 8159)
-   defining Unicode char U+1FE0 (decimal 8160)
-   defining Unicode char U+1FE1 (decimal 8161)
-   defining Unicode char U+1FE2 (decimal 8162)
-   defining Unicode char U+1FE3 (decimal 8163)
-   defining Unicode char U+1FE4 (decimal 8164)
-   defining Unicode char U+1FE5 (decimal 8165)
-   defining Unicode char U+1FE6 (decimal 8166)
-   defining Unicode char U+1FE7 (decimal 8167)
-   defining Unicode char U+1FE8 (decimal 8168)
-   defining Unicode char U+1FE9 (decimal 8169)
-   defining Unicode char U+1FEA (decimal 8170)
-   defining Unicode char U+1FEB (decimal 8171)
-   defining Unicode char U+1FEC (decimal 8172)
-   defining Unicode char U+1FED (decimal 8173)
-   defining Unicode char U+1FEE (decimal 8174)
-   defining Unicode char U+1FEF (decimal 8175)
-   defining Unicode char U+1FF2 (decimal 8178)
-   defining Unicode char U+1FF3 (decimal 8179)
-   defining Unicode char U+1FF4 (decimal 8180)
-   defining Unicode char U+1FF6 (decimal 8182)
-   defining Unicode char U+1FF7 (decimal 8183)
-   defining Unicode char U+1FF8 (decimal 8184)
-   defining Unicode char U+1FF9 (decimal 8185)
-   defining Unicode char U+1FFA (decimal 8186)
-   defining Unicode char U+1FFB (decimal 8187)
-   defining Unicode char U+1FFC (decimal 8188)
-   defining Unicode char U+1FFD (decimal 8189)
-   defining Unicode char U+1FFE (decimal 8190)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201A (decimal 8218)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2039 (decimal 8249)
-   defining Unicode char U+203A (decimal 8250)
-   defining Unicode char U+20AC (decimal 8364)
-   defining Unicode char U+2126 (decimal 8486)
-   defining Unicode char U+10144 (decimal 65860)
-   defining Unicode char U+10145 (decimal 65861)
-   defining Unicode char U+10146 (decimal 65862)
-   defining Unicode char U+10147 (decimal 65863)
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fontenc.def
-File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
-))) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -436,21 +74,18 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.ldf
 Language: italian 2024/01/03 v.1.5.00 Italian support for the babel system
-\it@lettering=\count271
-\it@doublequoteactive=\count272
-\it@ISOcompliance=\count273
+\it@lettering=\count268
+\it@doublequoteactive=\count269
+\it@ISOcompliance=\count270
 )) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/it\babel-italian.tex
 Package babel Info: Importing font and identification data for italian
 (babel)             from babel-it.ini. Reported on input line 11.
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/el\babel-greek.tex
-Package babel Info: Importing font and identification data for greek
-(babel)             from babel-el.ini. Reported on input line 11.
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count274
+\etb@tempcnta=\count271
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\toptesi.sty
 Package: toptesi 2020-09-06 v.6.4.06 Extension for toptesi.cls
 \T@Pbinding=\skip50
@@ -475,7 +110,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 Package: expl3 2024-01-22 L3 programming layer (loader) 
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count275
+\l__color_backend_stack_int=\count272
 \l__pdf_internal_box=\box52
 ))
 Package: xparse 2023-10-10 L3 Experimental document command parser
@@ -499,221 +134,27 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
 \interno=\skip51
 \@intesta=\box53
-\TOPsecnumdepth=\count276
+\TOPsecnumdepth=\count273
 \SDcaptionwidth=\dimen144
 \SDfigurewidth=\dimen145
 \SDlinewidth=\dimen146
 \SDfigbox=\box54
 \SDcapbox=\box55
-\c@SDpage=\count277
-\c@NumberSD=\count278
+\c@SDpage=\count274
+\c@NumberSD=\count275
 LaTeX Font Info:    Redeclaring math symbol \virgola on input line 730.
 LaTeX Font Info:    Redeclaring math symbol \virgoladecimale on input line 731.
-\c@tomo=\count279
+\c@tomo=\count276
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\toptesi-magistrale.sty
 Package: toptesi-magistrale 2020-09-06 v.6.4.06 Master degree title page
 \TPT@logospace=\skip52
 \TPT@logobox=\box56
 \TPT@logoheight=\dimen147
 \T@Tlogoheight=\skip53
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\toptesi.cfg))) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
-Package: glossaries 2023/09/29 v4.53 (NLCT)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
-Package: mfirstuc 2022/10/14 v2.08 (NLCT)
-\@glsmfirst=\toks20
-\@glsmrest=\toks21
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
-Package: xfor 2009/02/05 v1.05 (NLCT)
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
-Package: datatool-base 2019/09/27 v2.32 (NLCT)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip54
-
-For additional information on amsmath, use the `?' option.
-(C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
-\ex@=\dimen148
-)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen149
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
-)
-\inf@bad=\count280
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count281
-\leftroot@=\count282
-LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count283
-\DOTSCASE@=\count284
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box57
-\strutbox@=\box58
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen150
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count285
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count286
-\dotsspace@=\muskip16
-\c@parentequation=\count287
-\dspbrk@lvl=\count288
-\tag@help=\toks23
-\row@=\count289
-\column@=\count290
-\maxfields@=\count291
-\andhelp@=\toks24
-\eqnshift@=\dimen151
-\alignsep@=\dimen152
-\tagshift@=\dimen153
-\tagwidth@=\dimen154
-\totwidth@=\dimen155
-\lineht@=\dimen156
-\@envbody=\toks25
-\multlinegap=\skip55
-\multlinetaggap=\skip56
-\mathdisplay@stack=\toks26
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
-Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count292
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.sty
-Package: datatool-fp 2019/09/27 v2.32 (NLCT)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
-Package: fp 1995/04/02
- `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
-Package: defpattern 1994/10/12
-\actioncount=\count293
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
-Package: fp-basic 1996/05/13
-\FP@xs=\count294
-\FP@xia=\count295
-\FP@xib=\count296
-\FP@xfa=\count297
-\FP@xfb=\count298
-\FP@rega=\count299
-\FP@regb=\count300
-\FP@regs=\count301
-\FP@times=\count302
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
-Package: fp-addons 1995/03/15
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
-Package: fp-snap 1995/04/05
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
-Package: fp-exp 1995/04/03
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
-Package: fp-trigo 1995/04/14
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
-Package: fp-pas 1994/08/29
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
-Package: fp-random 1995/02/23
-\FPseed=\count303
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
-Package: fp-eqn 1995/04/03
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
-Package: fp-upn 1996/10/21
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
-Package: fp-eval 1995/04/03
-)))
-\@dtl@toks=\toks27
-\@dtl@tmpcount=\count304
-\dtl@tmplength=\skip57
-\dtl@sortresult=\count305
-\@dtl@numgrpsepcount=\count306
-\@dtl@datatype=\count307
-\dtl@codeA=\count308
-\dtl@codeB=\count309
-\@dtl@foreach@level=\count310
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
-Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.sty
-Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-)
-
-Package glossaries Warning: No language module detected for `greek'.
-(glossaries)                Language modules need to be installed separately.
-(glossaries)                Please check on CTAN for a bundle called
-(glossaries)                `glossaries-greek' or similar.
-
-\gls@level=\count311
-\@gls@tmpb=\toks28
-\gls@tmplen=\skip58
-\glskeylisttok=\toks29
-\glslabeltok=\toks30
-\glsshorttok=\toks31
-\glslongtok=\toks32
-(C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
-Package: glossary-hypernav 2023/09/29 v4.53 (NLCT)
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
-Package: glossary-list 2023/09/29 v4.53 (NLCT)
-\glslistdottedwidth=\skip59
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
-Package: glossary-long 2023/09/29 v4.53 (NLCT)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
-Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
-\LTleft=\skip60
-\LTright=\skip61
-\LTpre=\skip62
-\LTpost=\skip63
-\LTchunksize=\count312
-\LTcapwidth=\dimen157
-\LT@head=\box59
-\LT@firsthead=\box60
-\LT@foot=\box61
-\LT@lastfoot=\box62
-\LT@gbox=\box63
-\LT@cols=\count313
-\LT@rows=\count314
-\c@LT@tables=\count315
-\c@LT@chunks=\count316
-\LT@p@ftn=\toks33
-)
-\glsdescwidth=\skip64
-\glspagelistwidth=\skip65
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
-Package: glossary-super 2023/09/29 v4.53 (NLCT)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
-Package: supertabular 2020/02/02 v4.1g the supertabular environment
-\c@tracingst=\count317
-\ST@wd=\dimen158
-\ST@rightskip=\skip66
-\ST@leftskip=\skip67
-\ST@parfillskip=\skip68
-\ST@pageleft=\dimen159
-\ST@headht=\dimen160
-\ST@tailht=\dimen161
-\ST@pagesofar=\dimen162
-\ST@pboxht=\dimen163
-\ST@lineht=\dimen164
-\ST@prevht=\dimen165
-\ST@toadd=\dimen166
-\ST@dimen=\dimen167
-\ST@pbox=\box64
-)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
-Package: glossary-tree 2023/09/29 v4.53 (NLCT)
-\glstreeindent=\skip69
-)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\toptesi.cfg))) (Contents/packages.tex (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks34
-\inpenc@posthook=\toks35
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
@@ -781,11 +222,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count318
+\c@section@level=\count277
 )
-\@linkdim=\dimen168
-\Hy@linkcounter=\count319
-\Hy@pagecounter=\count320
+\@linkdim=\dimen148
+\Hy@linkcounter=\count278
+\Hy@pagecounter=\count279
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -793,16 +234,12 @@ Now handling font encoding PD1 ...
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count321
+\Hy@SavedSpaceFactor=\count280
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\puenc-greek.def
-File: puenc-greek.def 2023-09-12 2.5 Greek LICRs for PDF strings
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fontenc.def
-File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
-)))
+)
 Package hyperref Info: Hyper figures OFF on input line 4179.
 Package hyperref Info: Link nesting OFF on input line 4184.
 Package hyperref Info: Hyper index ON on input line 4187.
@@ -810,21 +247,21 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count322
+\c@Hy@tempcnt=\count281
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen169
+\XeTeXLinkMargin=\dimen149
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count323
-\Field@Width=\dimen170
-\Fld@charsize=\dimen171
+\Fld@menulength=\count282
+\Field@Width=\dimen150
+\Fld@charsize=\dimen151
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
@@ -836,9 +273,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count324
-\c@Item=\count325
-\c@Hfootnote=\count326
+\Hy@abspage=\count283
+\c@Item=\count284
+\c@Hfootnote=\count285
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -847,8 +284,8 @@ File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count327
-\c@bookmark@seq@number=\count328
+\Fld@listcount=\count286
+\c@bookmark@seq@number=\count287
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -856,207 +293,74 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip70
-)
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 31.
-Package hyperref Info: Option `colorlinks' set `true' on input line 31.
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
-Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count329
-\l__lipsum_a_int=\count330
-\l__lipsum_b_int=\count331
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
-Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count332
-\c@@ppsavesec=\count333
-\c@@ppsaveapp=\count334
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
-Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
-Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
-Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box65
-)
-\tc@llx=\dimen172
-\tc@lly=\dimen173
-\tc@urx=\dimen174
-\tc@ury=\dimen175
-Package trimclip Info: Using driver 'tc-pdftex.def'.
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
-File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
-))
-\adjbox@Width=\dimen176
-\adjbox@Height=\dimen177
-\adjbox@Depth=\dimen178
-\adjbox@Totalheight=\dimen179
-\adjbox@pwidth=\dimen180
-\adjbox@pheight=\dimen181
-\adjbox@pdepth=\dimen182
-\adjbox@ptotalheight=\dimen183
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
-Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count335
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
-Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box66
-\sift@deathcycles=\count336
-\@vwid@loff=\dimen184
-\@vwid@roff=\dimen185
-)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count337
-\float@exts=\toks36
-\float@box=\box67
-\@float@everytoks=\toks37
-\@floatcapt=\box68
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/accsupp\accsupp.sty
-Package: accsupp 2019/12/05 v0.6 Accessibility support by marked content (HO)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/accsupp\accsupp-pdftex.def
-File: accsupp-pdftex.def 2019/12/05 v0.6 accsupp driver for pdfTeX (HO)
-)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
-\c@blindtext=\count338
-\c@Blindtext=\count339
-\c@blind@countparstart=\count340
-\blind@countxx=\count341
-\blindtext@numBlindtext=\count342
-\blind@countyy=\count343
-\c@blindlist=\count344
-\c@blindlistlevel=\count345
-\c@blindlist@level=\count346
-\blind@listitem=\count347
-\c@blind@listcount=\count348
-\c@blind@levelcount=\count349
-\blind@mathformula=\count350
-\blind@Mathformula=\count351
-\c@blind@randomcount=\count352
-\c@blind@randommax=\count353
-\c@blind@pangramcount=\count354
-\c@blind@pangrammax=\count355
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
-Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen186
-\ar@mcellbox=\box69
-\extrarowheight=\dimen187
-\NC@list=\toks38
-\extratabsurround=\skip71
-\backup@length=\skip72
-\ar@cellbox=\box70
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box71
-\beforetitleunit=\skip73
-\aftertitleunit=\skip74
-\ttl@plus=\dimen188
-\ttl@minus=\dimen189
-\ttl@toksa=\toks39
-\titlewidth=\dimen190
-\titlewidthlast=\dimen191
-\titlewidthfirst=\dimen192
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count356
-\Gm@cntv=\count357
-\c@Gm@tempcnt=\count358
-\Gm@bindingoffset=\dimen193
-\Gm@wd@mp=\dimen194
-\Gm@odd@mp=\dimen195
-\Gm@even@mp=\dimen196
-\Gm@layoutwidth=\dimen197
-\Gm@layoutheight=\dimen198
-\Gm@layouthoffset=\dimen199
-\Gm@layoutvoffset=\dimen256
-\Gm@dimlist=\toks40
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
-Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
+\Hy@SectionHShift=\skip54
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count359
+\lrq@indent=\count288
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-\c@tabx@nest=\count360
-\c@listtotal=\count361
-\c@listcount=\count362
-\c@liststart=\count363
-\c@liststop=\count364
-\c@citecount=\count365
-\c@citetotal=\count366
-\c@multicitecount=\count367
-\c@multicitetotal=\count368
-\c@instcount=\count369
-\c@maxnames=\count370
-\c@minnames=\count371
-\c@maxitems=\count372
-\c@minitems=\count373
-\c@citecounter=\count374
-\c@maxcitecounter=\count375
-\c@savedcitecounter=\count376
-\c@uniquelist=\count377
-\c@uniquename=\count378
-\c@refsection=\count379
-\c@refsegment=\count380
-\c@maxextratitle=\count381
-\c@maxextratitleyear=\count382
-\c@maxextraname=\count383
-\c@maxextradate=\count384
-\c@maxextraalpha=\count385
-\c@abbrvpenalty=\count386
-\c@highnamepenalty=\count387
-\c@lownamepenalty=\count388
-\c@maxparens=\count389
-\c@parenlevel=\count390
-\blx@tempcnta=\count391
-\blx@tempcntb=\count392
-\blx@tempcntc=\count393
-\c@blx@maxsection=\count394
-\blx@maxsegment@0=\count395
-\blx@notetype=\count396
-\blx@parenlevel@text=\count397
-\blx@parenlevel@foot=\count398
-\blx@sectionciteorder@0=\count399
-\blx@sectionciteorderinternal@0=\count400
-\blx@entrysetcounter=\count401
-\blx@biblioinstance=\count402
-\labelnumberwidth=\skip75
-\labelalphawidth=\skip76
-\biblabelsep=\skip77
-\bibitemsep=\skip78
-\bibnamesep=\skip79
-\bibinitsep=\skip80
-\bibparsep=\skip81
-\bibhang=\skip82
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count289
+\c@listtotal=\count290
+\c@listcount=\count291
+\c@liststart=\count292
+\c@liststop=\count293
+\c@citecount=\count294
+\c@citetotal=\count295
+\c@multicitecount=\count296
+\c@multicitetotal=\count297
+\c@instcount=\count298
+\c@maxnames=\count299
+\c@minnames=\count300
+\c@maxitems=\count301
+\c@minitems=\count302
+\c@citecounter=\count303
+\c@maxcitecounter=\count304
+\c@savedcitecounter=\count305
+\c@uniquelist=\count306
+\c@uniquename=\count307
+\c@refsection=\count308
+\c@refsegment=\count309
+\c@maxextratitle=\count310
+\c@maxextratitleyear=\count311
+\c@maxextraname=\count312
+\c@maxextradate=\count313
+\c@maxextraalpha=\count314
+\c@abbrvpenalty=\count315
+\c@highnamepenalty=\count316
+\c@lownamepenalty=\count317
+\c@maxparens=\count318
+\c@parenlevel=\count319
+\blx@tempcnta=\count320
+\blx@tempcntb=\count321
+\blx@tempcntc=\count322
+\c@blx@maxsection=\count323
+\blx@maxsegment@0=\count324
+\blx@notetype=\count325
+\blx@parenlevel@text=\count326
+\blx@parenlevel@foot=\count327
+\blx@sectionciteorder@0=\count328
+\blx@sectionciteorderinternal@0=\count329
+\blx@entrysetcounter=\count330
+\blx@biblioinstance=\count331
+\labelnumberwidth=\skip55
+\labelalphawidth=\skip56
+\biblabelsep=\skip57
+\bibitemsep=\skip58
+\bibnamesep=\skip59
+\bibinitsep=\skip60
+\bibparsep=\skip61
+\bibhang=\skip62
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language80
-\c@mincomprange=\count403
-\c@maxcomprange=\count404
-\c@mincompwidth=\count405
+\c@mincomprange=\count332
+\c@maxcomprange=\count333
+\c@mincompwidth=\count334
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -1064,88 +368,88 @@ File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count406
-\c@savedafterword=\count407
-\c@annotator=\count408
-\c@savedannotator=\count409
-\c@author=\count410
-\c@savedauthor=\count411
-\c@bookauthor=\count412
-\c@savedbookauthor=\count413
-\c@commentator=\count414
-\c@savedcommentator=\count415
-\c@editor=\count416
-\c@savededitor=\count417
-\c@editora=\count418
-\c@savededitora=\count419
-\c@editorb=\count420
-\c@savededitorb=\count421
-\c@editorc=\count422
-\c@savededitorc=\count423
-\c@foreword=\count424
-\c@savedforeword=\count425
-\c@holder=\count426
-\c@savedholder=\count427
-\c@introduction=\count428
-\c@savedintroduction=\count429
-\c@namea=\count430
-\c@savednamea=\count431
-\c@nameb=\count432
-\c@savednameb=\count433
-\c@namec=\count434
-\c@savednamec=\count435
-\c@translator=\count436
-\c@savedtranslator=\count437
-\c@shortauthor=\count438
-\c@savedshortauthor=\count439
-\c@shorteditor=\count440
-\c@savedshorteditor=\count441
-\c@labelname=\count442
-\c@savedlabelname=\count443
-\c@institution=\count444
-\c@savedinstitution=\count445
-\c@lista=\count446
-\c@savedlista=\count447
-\c@listb=\count448
-\c@savedlistb=\count449
-\c@listc=\count450
-\c@savedlistc=\count451
-\c@listd=\count452
-\c@savedlistd=\count453
-\c@liste=\count454
-\c@savedliste=\count455
-\c@listf=\count456
-\c@savedlistf=\count457
-\c@location=\count458
-\c@savedlocation=\count459
-\c@organization=\count460
-\c@savedorganization=\count461
-\c@origlocation=\count462
-\c@savedoriglocation=\count463
-\c@origpublisher=\count464
-\c@savedorigpublisher=\count465
-\c@publisher=\count466
-\c@savedpublisher=\count467
-\c@language=\count468
-\c@savedlanguage=\count469
-\c@origlanguage=\count470
-\c@savedoriglanguage=\count471
-\c@pageref=\count472
-\c@savedpageref=\count473
-\shorthandwidth=\skip83
-\shortjournalwidth=\skip84
-\shortserieswidth=\skip85
-\shorttitlewidth=\skip86
-\shortauthorwidth=\skip87
-\shorteditorwidth=\skip88
-\locallabelnumberwidth=\skip89
-\locallabelalphawidth=\skip90
-\localshorthandwidth=\skip91
-\localshortjournalwidth=\skip92
-\localshortserieswidth=\skip93
-\localshorttitlewidth=\skip94
-\localshortauthorwidth=\skip95
-\localshorteditorwidth=\skip96
+\c@afterword=\count335
+\c@savedafterword=\count336
+\c@annotator=\count337
+\c@savedannotator=\count338
+\c@author=\count339
+\c@savedauthor=\count340
+\c@bookauthor=\count341
+\c@savedbookauthor=\count342
+\c@commentator=\count343
+\c@savedcommentator=\count344
+\c@editor=\count345
+\c@savededitor=\count346
+\c@editora=\count347
+\c@savededitora=\count348
+\c@editorb=\count349
+\c@savededitorb=\count350
+\c@editorc=\count351
+\c@savededitorc=\count352
+\c@foreword=\count353
+\c@savedforeword=\count354
+\c@holder=\count355
+\c@savedholder=\count356
+\c@introduction=\count357
+\c@savedintroduction=\count358
+\c@namea=\count359
+\c@savednamea=\count360
+\c@nameb=\count361
+\c@savednameb=\count362
+\c@namec=\count363
+\c@savednamec=\count364
+\c@translator=\count365
+\c@savedtranslator=\count366
+\c@shortauthor=\count367
+\c@savedshortauthor=\count368
+\c@shorteditor=\count369
+\c@savedshorteditor=\count370
+\c@labelname=\count371
+\c@savedlabelname=\count372
+\c@institution=\count373
+\c@savedinstitution=\count374
+\c@lista=\count375
+\c@savedlista=\count376
+\c@listb=\count377
+\c@savedlistb=\count378
+\c@listc=\count379
+\c@savedlistc=\count380
+\c@listd=\count381
+\c@savedlistd=\count382
+\c@liste=\count383
+\c@savedliste=\count384
+\c@listf=\count385
+\c@savedlistf=\count386
+\c@location=\count387
+\c@savedlocation=\count388
+\c@organization=\count389
+\c@savedorganization=\count390
+\c@origlocation=\count391
+\c@savedoriglocation=\count392
+\c@origpublisher=\count393
+\c@savedorigpublisher=\count394
+\c@publisher=\count395
+\c@savedpublisher=\count396
+\c@language=\count397
+\c@savedlanguage=\count398
+\c@origlanguage=\count399
+\c@savedoriglanguage=\count400
+\c@pageref=\count401
+\c@savedpageref=\count402
+\shorthandwidth=\skip63
+\shortjournalwidth=\skip64
+\shortserieswidth=\skip65
+\shorttitlewidth=\skip66
+\shortauthorwidth=\skip67
+\shorteditorwidth=\skip68
+\locallabelnumberwidth=\skip69
+\locallabelalphawidth=\skip70
+\localshorthandwidth=\skip71
+\localshortjournalwidth=\skip72
+\localshortserieswidth=\skip73
+\localshorttitlewidth=\skip74
+\localshortauthorwidth=\skip75
+\localshorteditorwidth=\skip76
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
@@ -1155,19 +459,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count474
-\c@textcitetotal=\count475
-\c@textcitemaxnames=\count476
-\c@biburlbigbreakpenalty=\count477
-\c@biburlbreakpenalty=\count478
-\c@biburlnumpenalty=\count479
-\c@biburlucpenalty=\count480
-\c@biburllcpenalty=\count481
-\biburlbigskip=\muskip18
-\biburlnumskip=\muskip19
-\biburlucskip=\muskip20
-\biburllcskip=\muskip21
-\c@smartand=\count482
+\c@textcitecount=\count403
+\c@textcitetotal=\count404
+\c@textcitemaxnames=\count405
+\c@biburlbigbreakpenalty=\count406
+\c@biburlbreakpenalty=\count407
+\c@biburlnumpenalty=\count408
+\c@biburlucpenalty=\count409
+\c@biburllcpenalty=\count410
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count411
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -1177,8 +481,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count483
-\c@bbx:relatedtotal=\count484
+\c@bbx:relatedcount=\count412
+\c@bbx:relatedtotal=\count413
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -1209,34 +513,551 @@ Package biblatex Info: ... and expl3
 (biblatex)             setting 'casechanger=expl3'.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
-Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
-\AP@output=\toks41
-\AP@partial=\box72
-\AP@footins=\box73
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box57
+)
+\tc@llx=\dimen152
+\tc@lly=\dimen153
+\tc@urx=\dimen154
+\tc@ury=\dimen155
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen156
+\adjbox@Height=\dimen157
+\adjbox@Depth=\dimen158
+\adjbox@Totalheight=\dimen159
+\adjbox@pwidth=\dimen160
+\adjbox@pheight=\dimen161
+\adjbox@pdepth=\dimen162
+\adjbox@ptotalheight=\dimen163
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count414
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box58
+\sift@deathcycles=\count415
+\@vwid@loff=\dimen164
+\@vwid@roff=\dimen165
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count416
+\float@exts=\toks22
+\float@box=\box59
+\@float@everytoks=\toks23
+\@floatcapt=\box60
+)
+\@float@every@algorithm=\toks24
+\c@algorithm=\count417
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count418
+\c@ALG@rem=\count419
+\c@ALG@nested=\count420
+\ALG@tlm=\skip77
+\ALG@thistlm=\skip78
+\c@ALG@Lnr=\count421
+\c@ALG@blocknr=\count422
+\c@ALG@storecount=\count423
+\c@ALG@tmpcounter=\count424
+\ALG@tmplength=\skip79
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks25
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip80
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen166
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen167
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count425
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count426
+\leftroot@=\count427
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count428
+\DOTSCASE@=\count429
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box61
+\strutbox@=\box62
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen168
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count430
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count431
+\dotsspace@=\muskip21
+\c@parentequation=\count432
+\dspbrk@lvl=\count433
+\tag@help=\toks27
+\row@=\count434
+\column@=\count435
+\maxfields@=\count436
+\andhelp@=\toks28
+\eqnshift@=\dimen169
+\alignsep@=\dimen170
+\tagshift@=\dimen171
+\tagwidth@=\dimen172
+\totwidth@=\dimen173
+\lineht@=\dimen174
+\@envbody=\toks29
+\multlinegap=\skip81
+\multlinetaggap=\skip82
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/lmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen175
+\lightrulewidth=\dimen176
+\cmidrulewidth=\dimen177
+\belowrulesep=\dimen178
+\belowbottomsep=\dimen179
+\aboverulesep=\dimen180
+\abovetopsep=\dimen181
+\cmidrulesep=\dimen182
+\cmidrulekern=\dimen183
+\defaultaddspace=\dimen184
+\@cmidla=\count437
+\@cmidlb=\count438
+\@aboverulesep=\dimen185
+\@belowrulesep=\dimen186
+\@thisruleclass=\count439
+\@lastruleclass=\count440
+\@thisrulewidth=\dimen187
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen188
+\captionmargin=\dimen189
+\caption@leftmargin=\dimen190
+\caption@rightmargin=\dimen191
+\caption@width=\dimen192
+\caption@indent=\dimen193
+\caption@parindent=\dimen194
+\caption@hangindent=\dimen195
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count441
+\c@continuedfloat=\count442
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: scrextend package is loaded.
+\caption@addmargin@hsize=\dimen196
+\caption@addmargin@linewidth=\dimen197
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count443
+\csq@gtype=\count444
+\csq@glevel=\count445
+\csq@qlevel=\count446
+\csq@maxlvl=\count447
+\csq@tshold=\count448
+\csq@ltx@everypar=\toks31
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip83
+\enit@outerparindent=\dimen198
+\enit@toks=\toks32
+\enit@inbox=\box63
+\enit@count@id=\count449
+\enitdp@description=\count450
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count451
+\Gm@cntv=\count452
+\c@Gm@tempcnt=\count453
+\Gm@bindingoffset=\dimen199
+\Gm@wd@mp=\dimen256
+\Gm@odd@mp=\dimen257
+\Gm@even@mp=\dimen258
+\Gm@layoutwidth=\dimen259
+\Gm@layoutheight=\dimen260
+\Gm@layouthoffset=\dimen261
+\Gm@layoutvoffset=\dimen262
+\Gm@dimlist=\toks33
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-extra\glossaries-extra.sty
+Package: glossaries-extra 2023/09/29 v1.53 (NLCT)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
+Package: glossaries 2023/09/29 v4.53 (NLCT)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+\@glsmfirst=\toks34
+\@glsmrest=\toks35
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count454
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count455
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count456
+\FP@xia=\count457
+\FP@xib=\count458
+\FP@xfa=\count459
+\FP@xfb=\count460
+\FP@rega=\count461
+\FP@regb=\count462
+\FP@regs=\count463
+\FP@times=\count464
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count465
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks36
+\@dtl@tmpcount=\count466
+\dtl@tmplength=\skip84
+\dtl@sortresult=\count467
+\@dtl@numgrpsepcount=\count468
+\@dtl@datatype=\count469
+\dtl@codeA=\count470
+\dtl@codeB=\count471
+\@dtl@foreach@level=\count472
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-italian\glossaries-italian.ldf
+File: glossaries-italian.ldf 2014/11/23 v1.0
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-english.ldf
+File: glossaries-english.ldf 2014/11/23 v1.0
+)
+\gls@level=\count473
+\@gls@tmpb=\toks37
+\gls@tmplen=\skip85
+\glskeylisttok=\toks38
+\glslabeltok=\toks39
+\glsshorttok=\toks40
+\glslongtok=\toks41
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
+Package: glossary-hypernav 2023/09/29 v4.53 (NLCT)
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
+Package: glossary-list 2023/09/29 v4.53 (NLCT)
+\glslistdottedwidth=\skip86
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
+Package: glossary-long 2023/09/29 v4.53 (NLCT)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip87
+\LTright=\skip88
+\LTpre=\skip89
+\LTpost=\skip90
+\LTchunksize=\count474
+\LTcapwidth=\dimen263
+\LT@head=\box64
+\LT@firsthead=\box65
+\LT@foot=\box66
+\LT@lastfoot=\box67
+\LT@gbox=\box68
+\LT@cols=\count475
+\LT@rows=\count476
+\c@LT@tables=\count477
+\c@LT@chunks=\count478
+\LT@p@ftn=\toks42
+)
+\glsdescwidth=\skip91
+\glspagelistwidth=\skip92
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
+Package: glossary-super 2023/09/29 v4.53 (NLCT)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count479
+\ST@wd=\dimen264
+\ST@rightskip=\skip93
+\ST@leftskip=\skip94
+\ST@parfillskip=\skip95
+\ST@pageleft=\dimen265
+\ST@headht=\dimen266
+\ST@tailht=\dimen267
+\ST@pagesofar=\dimen268
+\ST@pboxht=\dimen269
+\ST@lineht=\dimen270
+\ST@prevht=\dimen271
+\ST@toadd=\dimen272
+\ST@dimen=\dimen273
+\ST@pbox=\box69
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
+Package: glossary-tree 2023/09/29 v4.53 (NLCT)
+\glstreeindent=\skip96
+))
+\@glsxtr@leveloffset=\count480
+\glsxtrresourcecount=\count481
+\@glsxtrnewgls@inner=\count482
+\glsshortpltok=\toks43
+\glslongpltok=\toks44
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-extra\glossaries-extra-abbrstyles.def
+File: glossaries-extra-abbrstyles.def 2023/06/28 v1.52 (NLCT)
+)
+\mglselementindex=\count483
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count485
-\lst@gtempboxa=\box74
-\lst@token=\toks42
-\lst@length=\count486
-\lst@currlwidth=\dimen257
-\lst@column=\count487
-\lst@pos=\count488
-\lst@lostspace=\dimen258
-\lst@width=\dimen259
-\lst@newlines=\count489
-\lst@lineno=\count490
-\lst@maxwidth=\dimen260
+\lst@mode=\count484
+\lst@gtempboxa=\box70
+\lst@token=\toks45
+\lst@length=\count485
+\lst@currlwidth=\dimen274
+\lst@column=\count486
+\lst@pos=\count487
+\lst@lostspace=\dimen275
+\lst@width=\dimen276
+\lst@newlines=\count488
+\lst@lineno=\count489
+\lst@maxwidth=\dimen277
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count491
-\lst@skipnumbers=\count492
-\lst@framebox=\box75
+\c@lstnumber=\count490
+\lst@skipnumbers=\count491
+\lst@framebox=\box71
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count492
+\l__lipsum_a_int=\count493
+\l__lipsum_b_int=\count494
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen278
+\ar@mcellbox=\box72
+\extrarowheight=\dimen279
+\NC@list=\toks46
+\extratabsurround=\skip97
+\backup@length=\skip98
+\ar@cellbox=\box73
+)
+\rotheadsize=\dimen280
+\c@nlinenum=\count495
+\TeXr@lab=\toks47
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count496
+\calc@Bcount=\count497
+\calc@Adimen=\dimen281
+\calc@Bdimen=\dimen282
+\calc@Askip=\skip99
+\calc@Bskip=\skip100
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count498
+\calc@Cskip=\skip101
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count499
+\l_MT_multwidth_dim=\dimen283
+\origjot=\skip102
+\l_MT_shortvdotswithinadjustabove_dim=\dimen284
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen285
+\l_MT_above_intertext_sep=\dimen286
+\l_MT_below_intertext_sep=\dimen287
+\l_MT_above_shortintertext_sep=\dimen288
+\l_MT_below_shortintertext_sep=\dimen289
+\xmathstrut@box=\box74
+\xmathstrut@dim=\dimen290
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+\MT@toks=\toks48
+\MT@tempbox=\box75
+\MT@count=\count500
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks49
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen291
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count501
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip103
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip104
+\multirow@cntb=\count502
+\multirow@dima=\skip105
+\bigstrutjot=\dimen292
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip106
+\L@UnitsRaiseTextstyle=\skip107
+\L@UnitsRaiseScriptstyle=\skip108
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip109
+\RaggedLeftLeftskip=\skip110
+\RaggedRightLeftskip=\skip111
+\CenteringRightskip=\skip112
+\RaggedLeftRightskip=\skip113
+\RaggedRightRightskip=\skip114
+\CenteringParfillskip=\skip115
+\RaggedLeftParfillskip=\skip116
+\RaggedRightParfillskip=\skip117
+\JustifyingParfillskip=\skip118
+\CenteringParindent=\skip119
+\RaggedLeftParindent=\skip120
+\RaggedRightParindent=\skip121
+\JustifyingParindent=\skip122
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2024-01-25 v3.3.10 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count503
+\l__siunitx_number_exponent_fixed_int=\count504
+\l__siunitx_number_min_decimal_int=\count505
+\l__siunitx_number_min_integer_int=\count506
+\l__siunitx_number_round_precision_int=\count507
+\l__siunitx_number_lower_threshold_int=\count508
+\l__siunitx_number_upper_threshold_int=\count509
+\l__siunitx_number_group_first_int=\count510
+\l__siunitx_number_group_size_int=\count511
+\l__siunitx_number_group_minimum_int=\count512
+\l__siunitx_angle_tmp_dim=\dimen293
+\l__siunitx_angle_marker_box=\box76
+\l__siunitx_angle_unit_box=\box77
+\l__siunitx_compound_count_int=\count513
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+)
+\l__siunitx_table_tmp_box=\box78
+\l__siunitx_table_tmp_dim=\dimen294
+\l__siunitx_table_column_width_dim=\dimen295
+\l__siunitx_table_integer_box=\box79
+\l__siunitx_table_decimal_box=\box80
+\l__siunitx_table_uncert_box=\box81
+\l__siunitx_table_before_box=\box82
+\l__siunitx_table_after_box=\box83
+\l__siunitx_table_before_dim=\dimen296
+\l__siunitx_table_carry_dim=\dimen297
+\l__siunitx_unit_tmp_int=\count514
+\l__siunitx_unit_position_int=\count515
+\l__siunitx_unit_total_int=\count516
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count517
+\sf@farskip=\skip123
+\sf@captopadj=\dimen298
+\sf@capskip=\skip124
+\sf@nearskip=\skip125
+\c@subfigure=\count518
+\c@subfigure@save=\count519
+\c@lofdepth=\count520
+\c@subtable=\count521
+\c@subtable@save=\count522
+\c@lotdepth=\count523
+\sf@top=\skip126
+\sf@bottom=\skip127
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count524
+\svg@box=\box84
+\c@svg@param@currpage=\count525
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -1252,41 +1073,111 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
-Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen261
-\TX@old@table=\dimen262
-\TX@old@col=\dimen263
-\TX@target=\dimen264
-\TX@delta=\dimen265
-\TX@cols=\count493
-\TX@ftn=\toks43
-) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
-Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen266
-\c@nlinenum=\count494
-\TeXr@lab=\toks44
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks50
+\pgfutil@tempdima=\dimen299
+\pgfutil@tempdimb=\dimen300
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box85
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks51
+\pgfkeys@temptoks=\toks52
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks53
+))
+\pgf@x=\dimen301
+\pgf@y=\dimen302
+\pgf@xa=\dimen303
+\pgf@ya=\dimen304
+\pgf@xb=\dimen305
+\pgf@yb=\dimen306
+\pgf@xc=\dimen307
+\pgf@yc=\dimen308
+\pgf@xd=\dimen309
+\pgf@yd=\dimen310
+\w@pgf@writea=\write5
+\r@pgf@reada=\read5
+\c@pgf@counta=\count526
+\c@pgf@countb=\count527
+\c@pgf@countc=\count528
+\c@pgf@countd=\count529
+\t@pgf@toka=\toks54
+\t@pgf@tokb=\toks55
+\t@pgf@tokc=\toks56
+\pgf@sys@id@count=\count530
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
-\c@observation=\count495
- (Contents/xml_style.tex) (Contents/acronyms.tex)
-\glswrite=\write5
-\glo@main@file=\write6
-\openout6 = `thesis.glo'.
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count531
+\pgfsyssoftpath@bigbuffer@items=\count532
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen311
+\TX@old@table=\dimen312
+\TX@old@col=\dimen313
+\TX@target=\dimen314
+\TX@delta=\dimen315
+\TX@cols=\count533
+\TX@ftn=\toks57
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks58
+\verbatim@line=\toks59
+\verbatim@in@stream=\read6
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box86
+\beforetitleunit=\skip128
+\aftertitleunit=\skip129
+\ttl@plus=\dimen316
+\ttl@minus=\dimen317
+\ttl@toksa=\toks60
+\titlewidth=\dimen318
+\titlewidthlast=\dimen319
+\titlewidthfirst=\dimen320
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks61
+\AP@partial=\box87
+\AP@footins=\box88
+)) (Contents/package_config.tex
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 11.
+Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+) (Contents/acronyms.tex)
+\glswrite=\write6
+\glo@main@file=\write7
+\openout7 = `thesis.glo'.
 
-Package glossaries Info: Writing glossary file thesis.glo on input line 183.
-\glo@acronym@file=\write7
-\openout7 = `thesis.acn'.
+Package glossaries Info: Writing glossary file thesis.glo on input line 19.
+\glo@abbreviations@file=\write8
+\openout8 = `thesis.glo-abr'.
 
-Package glossaries Info: Writing glossary file thesis.acn on input line 183.
-
-
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count496
-\@quotereset=\count497
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 188.
-(C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+Package glossaries Info: Writing glossary file thesis.glo-abr on input line 19.
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'italian'.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 23.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
@@ -1296,78 +1187,95 @@ LaTeX Warning: Unused global option(s):
 (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 188.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 188.
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
-File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
-)
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Info: Redefining \it@ocap on input line 188.
-LaTeX Info: Redefining \it@ccap on input line 188.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Info: Redefining \it@ocap on input line 23.
+LaTeX Info: Redefining \it@ccap on input line 23.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count498
-\scratchdimen=\dimen267
-\scratchbox=\box76
-\nofMPsegments=\count499
-\nofMParguments=\count500
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count501
-\MPscratchDim=\dimen268
-\MPnumerator=\count502
-\makeMPintoPDFobject=\count503
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count534
+\scratchdimen=\dimen321
+\scratchbox=\box89
+\nofMPsegments=\count535
+\nofMParguments=\count536
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count537
+\MPscratchDim=\dimen322
+\MPnumerator=\count538
+\makeMPintoPDFobject=\count539
+\everyMPtoPDFconversion=\toks63
 ) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package TOPtesi Info: Margin width recalculation on input line 188.
+Package TOPtesi Info: Margin width recalculation on input line 23.
 Package TOPtesi Info: Before:
 (TOPtesi)             oddsidemargin  -0.56833pt
-(TOPtesi)             evensidemargin 35.28255pt on input line 188.
+(TOPtesi)             evensidemargin 35.28255pt on input line 23.
 Package TOPtesi Info: After:
 (TOPtesi)             oddsidemargin  19.34859pt
-(TOPtesi)             evensidemargin 15.36563pt on input line 188.
-\captionwidth=\dimen269
-\fullwidth=\dimen270
+(TOPtesi)             evensidemargin 15.36563pt on input line 23.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\topcoman.sty
 Package: topcoman 2020-09-06 v.6.4.06 Additional commands for the TOPtesi bundle
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)) (thesis.glsdefs) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-dictionary-English.dict
-Dictionary: glossaries-dictionary, Language: English 
 )
-Package hyperref Info: Link coloring ON on input line 188.
+Package hyperref Info: Link coloring ON on input line 23.
  (thesis.out) (thesis.out)
-\@outlinefile=\write8
-\openout8 = `thesis.out'.
+\@outlinefile=\write9
+\openout9 = `thesis.out'.
 
+Package biblatex Info: Trying to load language 'italian'...
+Package biblatex Info: ... file 'italian.lbx' found.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\italian.lbx
+File: italian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `thesis.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'thesis.bbl' found.
+ (thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 23.
+Package biblatex Info: Reference segment=0 on input line 23.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
@@ -1397,36 +1305,35 @@ Package hyperref Info: Link coloring ON on input line 188.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Trying to load language 'italian'...
-Package biblatex Info: ... file 'italian.lbx' found.
-(C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\italian.lbx
-File: italian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+\c@lstlisting=\count540
+LaTeX Info: Redefining \microtypecontext on input line 23.
+Package microtype Info: Applying patch `item' on input line 23.
+Package microtype Info: Applying patch `toc' on input line 23.
+Package microtype Info: Applying patch `eqnum' on input line 23.
+Package microtype Info: Applying patch `footnote' on input line 23.
+Package microtype Info: Applying patch `verbatim' on input line 23.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 23.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+Package translations Info: no dictionary file `translations-basic-dictionary-italian.trsl' found. on input line 23.
+ (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package biblatex Info: Trying to load language 'greek'...
-Package biblatex Info: ... file 'greek.lbx' found.
- (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\greek.lbx
-File: greek.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `thesis.bcf'.
-
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'thesis.bbl' found.
- (thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 188.
-Package biblatex Info: Reference segment=0 on input line 188.
-\c@lstlisting=\count504
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 23.
  (Contents/title.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
@@ -1456,7 +1363,7 @@ Package biblatex Info: Reference segment=0 on input line 188.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./Images/logo_polito_2021.jpg, id=337, 370.2633pt x 356.532pt>
+<./Images/logo_polito_2021.jpg, id=341, 370.2633pt x 356.532pt>
 File: ./Images/logo_polito_2021.jpg Graphic file (type jpg)
 <use ./Images/logo_polito_2021.jpg>
 Package pdftex.def Info: ./Images/logo_polito_2021.jpg  used on input line 9.
@@ -1486,14 +1393,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 
-\openout5 = `thesis.ist'.
+\openout6 = `thesis.ist'.
 
 
 
@@ -1505,60 +1416,64 @@ l.2 I
      n the era of technology transition, the traditional concept of identity... [1
 
 
-]) (Contents/acknowledgements.tex) [2] [3
+]) (Contents/acknowledgements.tex)
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+ [2] [3
 
 ]
 pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.210 \pagestyle
-                {plain} [3
+l.45 \pagestyle
+               {plain} [3
 
 ] (thesis.toc [4
 
 ] [5])
-\tf@toc=\write9
-\openout9 = `thesis.toc'.
+\tf@toc=\write10
+\openout10 = `thesis.toc'.
 
  [6] (thesis.lot)
-\tf@lot=\write10
-\openout10 = `thesis.lot'.
+\tf@lot=\write11
+\openout11 = `thesis.lot'.
 
  [7
-
 
 
 ] (thesis.lof [8
 
 
 ])
-\tf@lof=\write11
-\openout11 = `thesis.lof'.
+\tf@lof=\write12
+\openout12 = `thesis.lof'.
 
  [9] (thesis.lol)
-\tf@lol=\write12
-\openout12 = `thesis.lol'.
+\tf@lol=\write13
+\openout13 = `thesis.lol'.
+
+ [10
 
 
-No file thesis.acr.
-[10
+] [11
 
 
-] [1
+] [12] [1
 
 ]
 \openout2 = `./Chapters/01/introduction.aux'.
 
  (Chapters/01/introduction.tex
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 19.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 22.
 (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 
+l.22 
       [1
 
 
@@ -1576,71 +1491,39 @@ Chapter 2.
 [5
 
 ]
-Underfull \vbox (badness 3312) has occurred while \output is active []
-
- [6]
-<Images/c2_1.png, id=628, 593.96906pt x 259.7203pt>
+<Images/c2_1.png, id=696, 593.96906pt x 259.7203pt>
 File: Images/c2_1.png Graphic file (type png)
 <use Images/c2_1.png>
 Package pdftex.def Info: Images/c2_1.png  used on input line 48.
 (pdftex.def)             Requested size: 292.77629pt x 128.02495pt.
- [7
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.76     \item \textbf
-                      {Formation of New Blocks:} Valid transactions are adde... <./Images/c2_1.png>]
-<Images/c2_2.png, id=650, 826.58812pt x 347.79938pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] [7 <./Images/c2_1.png>]
+<Images/c2_2.png, id=725, 826.58812pt x 347.79938pt>
 File: Images/c2_2.png Graphic file (type png)
 <use Images/c2_2.png>
 Package pdftex.def Info: Images/c2_2.png  used on input line 86.
 (pdftex.def)             Requested size: 418.25368pt x 175.9902pt.
-
-Underfull \vbox (badness 6188) has occurred while \output is active []
-
- [8
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.95   \item \textbf
-                    {Greater Trust:} Blockchain helps establish trust across... <./Images/c2_2.png>] [9]
+ [8 <./Images/c2_2.png>] [9]
 Overfull \hbox (1.63164pt too wide) in alignment at lines 152--152
 [][][][] 
  []
 
-[10
-pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.156 \newpage
-              ]
-Overfull \hbox (1.76028pt too wide) in paragraph at lines 189--189
- []|\T1/lmr/m/n/12 Permissioned| 
- []
-
-
+[10]
 Overfull \hbox (0.82434pt too wide) in alignment at lines 189--189
 [][][][][][] 
  []
 
-[11{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}
-pdfTeX warning (ext4): destination with the same identifier (name{table.2.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.198 
-      ] [12]
-<Images/c2_3.png, id=708, 493.845pt x 258.9675pt>
+[11{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}] [12]
+<Images/c2_3.png, id=796, 493.845pt x 258.9675pt>
 File: Images/c2_3.png Graphic file (type png)
 <use Images/c2_3.png>
 Package pdftex.def Info: Images/c2_3.png  used on input line 234.
 (pdftex.def)             Requested size: 292.77629pt x 153.52841pt.
- [13
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.253 
-       <./Images/c2_3.png>]
-<Images/c2_4.png, id=718, 299.61937pt x 173.89969pt>
+ [13 <./Images/c2_3.png>]
+<Images/c2_4.png, id=809, 299.61937pt x 173.89969pt>
 File: Images/c2_4.png Graphic file (type png)
 <use Images/c2_4.png>
 Package pdftex.def Info: Images/c2_4.png  used on input line 273.
@@ -1652,29 +1535,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14])
-Underfull \vbox (badness 3492) has occurred while \output is active []
-
- [15
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.240 \include{./Chapters/02/blockchain.tex}
-                                             <./Images/c2_4.png>] [16]
+ [14]) [15 <./Images/c2_4.png>] [16]
 \openout2 = `./Chapters/03/identity.aux'.
 
  (Chapters/03/identity.tex
 Chapter 3.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17
+[17
 
 
 
 
 ] [18]
-<Images/c3_1.png, id=755, 613.54219pt x 176.91093pt>
+<Images/c3_1.png, id=859, 613.54219pt x 176.91093pt>
 File: Images/c3_1.png Graphic file (type png)
 <use Images/c3_1.png>
 Package pdftex.def Info: Images/c3_1.png  used on input line 51.
@@ -1707,8 +1579,8 @@ Overfull \hbox (3.32596pt too wide) in paragraph at lines 71--72
  []
 
 
-Overfull \hbox (3.26102pt too wide) in paragraph at lines 73--73
- []|\T1/lmr/m/n/10.95 Centralized 
+Overfull \hbox (2.16542pt too wide) in paragraph at lines 73--73
+ []|\T1/lmr/m/n/10.95 (-20) Centralized 
  []
 
 
@@ -1719,61 +1591,35 @@ Overfull \hbox (9.36066pt too wide) in paragraph at lines 69--80
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 5504) has occurred while \output is active []
-
- [19
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.88 
-      <./Images/c3_1.png>]
-<Images/c3_2.png, id=764, 186.6975pt x 106.14656pt>
+<Images/c3_2.png, id=874, 186.6975pt x 106.14656pt>
 File: Images/c3_2.png Graphic file (type png)
 <use Images/c3_2.png>
 Package pdftex.def Info: Images/c3_2.png  used on input line 91.
 (pdftex.def)             Requested size: 209.12683pt x 118.90439pt.
- [20
-pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.100 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.100 
-       <./Images/c3_2.png>]
-<Images/c3_3.png, id=774, 200.24812pt x 165.61874pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19 <./Images/c3_1.png>]
+<Images/c3_3.png, id=889, 200.24812pt x 165.61874pt>
 File: Images/c3_3.png Graphic file (type png)
 <use Images/c3_3.png>
 Package pdftex.def Info: Images/c3_3.png  used on input line 110.
 (pdftex.def)             Requested size: 209.12683pt x 172.97229pt.
 
-Overfull \hbox (1.99786pt too wide) in paragraph at lines 114--118
-[]\T1/lmr/m/n/12 With adop-tion of fed-er-ated iden-tity so-lu-tions user con-ve-nience and inter-platform
- []
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Underfull \vbox (badness 2126) has occurred while \output is active []
-
- [21
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.125 
-       <./Images/c3_3.png>]
-<Images/c3_4.png, id=782, 194.97844pt x 142.28156pt>
+[20 <./Images/c3_2.png>]
+<Images/c3_4.png, id=905, 194.97844pt x 142.28156pt>
 File: Images/c3_4.png Graphic file (type png)
 <use Images/c3_4.png>
 Package pdftex.def Info: Images/c3_4.png  used on input line 128.
 (pdftex.def)             Requested size: 209.12683pt x 152.61317pt.
-) [22
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.242 \include{./Chapters/03/identity.tex}
-                                           <./Images/c3_4.png>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [21 <./Images/c3_3.png>] [22 <./Images/c3_4.png>]
 \openout2 = `./Chapters/04/ssi.aux'.
 
  (Chapters/04/ssi.tex
@@ -1783,33 +1629,24 @@ Chapter 4.
 
 
 
-] [24]
-Underfull \vbox (badness 1342) has occurred while \output is active []
-
- [25] [26] [27]
-<Images/c4_1.png, id=835, 256.70906pt x 73.77562pt>
+] [24] [25] [26] [27]
+<Images/c4_1.png, id=1009, 256.70906pt x 73.77562pt>
 File: Images/c4_1.png Graphic file (type png)
 <use Images/c4_1.png>
 Package pdftex.def Info: Images/c4_1.png  used on input line 159.
 (pdftex.def)             Requested size: 250.95476pt x 72.12285pt.
- [28
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.168   \item \textbf
-                     {Verification Methods}: Public keys or cryptographic ob... <./Images/c4_1.png>]
-<Images/c4_2.png, id=846, 386.94562pt x 160.34906pt>
+ [28 <./Images/c4_1.png>]
+<Images/c4_2.png, id=1033, 386.94562pt x 160.34906pt>
 File: Images/c4_2.png Graphic file (type png)
 <use Images/c4_2.png>
 Package pdftex.def Info: Images/c4_2.png  used on input line 184.
 (pdftex.def)             Requested size: 334.60422pt x 138.66087pt.
- [29
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.194 
-       <./Images/c4_2.png>]
-<Images/c4_3.png, id=854, 410.2828pt x 187.45032pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[29]
+<Images/c4_3.png, id=1049, 410.2828pt x 187.45032pt>
 File: Images/c4_3.png Graphic file (type png)
 <use Images/c4_3.png>
 Package pdftex.def Info: Images/c4_3.png  used on input line 214.
@@ -1818,153 +1655,89 @@ Package pdftex.def Info: Images/c4_3.png  used on input line 214.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[30]
-<Images/c4_4.png, id=864, 609.77812pt x 132.495pt>
+[30 <./Images/c4_2.png>]
+<Images/c4_4.png, id=1062, 609.77812pt x 132.495pt>
 File: Images/c4_4.png Graphic file (type png)
 <use Images/c4_4.png>
 Package pdftex.def Info: Images/c4_4.png  used on input line 226.
 (pdftex.def)             Requested size: 418.25368pt x 90.88184pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.237 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.237 
-       <./Images/c4_3.png> <./Images/c4_4.png>] [32]
-<Images/c4_5.png, id=880, 677.53125pt x 441.65pt>
+ [31 <./Images/c4_3.png> <./Images/c4_4.png>] [32]
+<Images/c4_5.png, id=1098, 677.53125pt x 441.65pt>
 File: Images/c4_5.png Graphic file (type png)
 <use Images/c4_5.png>
 Package pdftex.def Info: Images/c4_5.png  used on input line 273.
 (pdftex.def)             Requested size: 334.60422pt x 218.11536pt.
- [33
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.280     \item I
-                 t works as a base layer, making a retrievable data registry... <./Images/c4_5.png>]
-Overfull \hbox (8.17085pt too wide) in paragraph at lines 288--289
-[]\T1/lmr/m/n/12 Enables se-cure com-mu-ni-ca-tion be-tween agents and dig-i-tal wal-lets through
- []
-
-
-Overfull \hbox (0.16238pt too wide) in paragraph at lines 306--307
-[]\T1/lmr/m/n/12 Uses Trust An-chors, Au-di-tors, or known gov-er-nance or-ga-ni-za-tions which
+ [33 <./Images/c4_5.png>]
+Overfull \hbox (1.1386pt too wide) in paragraph at lines 288--289
+[]\T1/lmr/m/n/12 (-20) Enables se-cure com-mu-ni-ca-tion be-tween agents and dig-i-tal wal-lets through
  []
 
 [34]
-<Images/c4_6.png, id=898, 411.78844pt x 118.19156pt>
+<Images/c4_6.png, id=1132, 411.78844pt x 118.19156pt>
 File: Images/c4_6.png Graphic file (type png)
 <use Images/c4_6.png>
 Package pdftex.def Info: Images/c4_6.png  used on input line 335.
 (pdftex.def)             Requested size: 418.25368pt x 120.04883pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 2469) has occurred while \output is active []
-
- [35]) [36
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.244 \include{./Chapters/04/ssi.tex}
-                                      <./Images/c4_6.png>]
+ [35 <./Images/c4_6.png>]) [36]
 \openout2 = `./Chapters/05/security.aux'.
 
  (Chapters/05/security.tex
 Chapter 5.
-[37
+
+Underfull \vbox (badness 5189) has occurred while \output is active []
+
+ [37
 
 
 
 
 ]
-<Images/c5_1.png, id=920, 524.71031pt x 91.84312pt>
+<Images/c5_1.png, id=1170, 524.71031pt x 91.84312pt>
 File: Images/c5_1.png Graphic file (type png)
 <use Images/c5_1.png>
 Package pdftex.def Info: Images/c5_1.png  used on input line 34.
 (pdftex.def)             Requested size: 418.25368pt x 73.2111pt.
-<Images/c5_2.png, id=922, 512.66531pt x 72.27pt>
+<Images/c5_2.png, id=1172, 512.66531pt x 72.27pt>
 File: Images/c5_2.png Graphic file (type png)
 <use Images/c5_2.png>
 Package pdftex.def Info: Images/c5_2.png  used on input line 44.
 (pdftex.def)             Requested size: 418.25368pt x 58.96071pt.
- [38
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.53   \item \textbf
-                    {Type}: Identifies the exact proof type for cryptographi...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.53   \item \textbf
-                    {Type}: Identifies the exact proof type for cryptographi... <./Images/c5_1.png> <./Images/c5_2.png>]
-<Images/c5_3.png, id=934, 327.47343pt x 155.83218pt>
+ [38 <./Images/c5_1.png> <./Images/c5_2.png>]
+<Images/c5_3.png, id=1185, 327.47343pt x 155.83218pt>
 File: Images/c5_3.png Graphic file (type png)
 <use Images/c5_3.png>
 Package pdftex.def Info: Images/c5_3.png  used on input line 62.
 (pdftex.def)             Requested size: 334.60422pt x 159.2273pt.
- [39
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.75 
-      <./Images/c5_3.png>] [40{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] [41]
-Overfull \hbox (2.01813pt too wide) in paragraph at lines 144--146
-[]\T1/lmr/bx/n/12 Double Spend-ing Re-sis-tance\T1/lmr/m/n/12 : Con-sen-sus pro-to-cols and trans-par-ent trans-
- []
+ [39 <./Images/c5_3.png>] [40{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
+Underfull \vbox (badness 1072) has occurred while \output is active []
 
-
-Overfull \hbox (5.26112pt too wide) in paragraph at lines 155--158
-[]\T1/lmr/m/n/12 Trusted Ex-e-cu-tion En-vi-ron-ment (TEE)s sup-plied by the man-u-fac-tur-ers, which
- []
-
-[42]
-<Images/c5_4.png, id=978, 571.38469pt x 230.36063pt>
+ [41] [42]
+<Images/c5_4.png, id=1246, 571.38469pt x 230.36063pt>
 File: Images/c5_4.png Graphic file (type png)
 <use Images/c5_4.png>
 Package pdftex.def Info: Images/c5_4.png  used on input line 177.
 (pdftex.def)             Requested size: 418.25368pt x 168.62582pt.
- [43
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.181 \newpage
-               <./Images/c5_4.png>]
-<Images/c5_5.png, id=986, 569.87906pt x 188.20313pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43]
+<Images/c5_5.png, id=1255, 569.87906pt x 188.20313pt>
 File: Images/c5_5.png Graphic file (type png)
 <use Images/c5_5.png>
 Package pdftex.def Info: Images/c5_5.png  used on input line 195.
 (pdftex.def)             Requested size: 418.25368pt x 138.12804pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5.5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.207 
-       <./Images/c5_5.png>]
-<Images/c5_6.png, id=995, 569.87906pt x 258.21469pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44 <./Images/c5_4.png>]
+<Images/c5_6.png, id=1268, 569.87906pt x 258.21469pt>
 File: Images/c5_6.png Graphic file (type png)
 <use Images/c5_6.png>
 Package pdftex.def Info: Images/c5_6.png  used on input line 210.
 (pdftex.def)             Requested size: 418.25368pt x 189.51167pt.
-) [45
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5.6}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.246 \include{./Chapters/05/security.tex}
-                                           <./Images/c5_6.png>]
+) [45 <./Images/c5_5.png> <./Images/c5_6.png>]
 \openout2 = `./Chapters/06/framework.aux'.
 
  (Chapters/06/framework.tex [46
@@ -1981,107 +1754,107 @@ Underfull \hbox (badness 10000) in alignment at lines 56--56
 [][][][] 
  []
 
-[48
-pdfTeX warning (ext4): destination with the same identifier (name{table.6.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.63 
-     ]
-Overfull \hbox (5.50673pt too wide) in paragraph at lines 86--89
-\T1/lmr/m/n/12 cally ex-e-cuted soft-ware, us-ing \T1/lmr/m/it/12 In-fura \T1/lmr/m/n/12 to com-mu-ni-cate with the Ethereum blockchain.
- []
-
-[49] [50] [51] [52]
+[48] [49] [50] [51] [52]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 174.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 174.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (Codes/deploy.js
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ (Codes/deploy.js
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1.
-) [53] (Codes/registry.sol) [54] (Codes/mm.js [55]) [56] [57] (Codes/verifyVC.js)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [58] (Codes/cookie.js) [59] (Codes/createJWT.js) [60] (Codes/createVC.js) [61]
-<Images/c6_1.jpg, id=1249, 963.6pt x 449.42906pt>
+) [53] (Codes/registry.sol [54]) (Codes/mm.js [55]) [56] [57] (Codes/verifyVC.js [58]) (Codes/cookie.js) [59] (Codes/createJWT.js [60]) (Codes/createVC.js [61])
+<Images/c6_1.jpg, id=1644, 963.6pt x 449.42906pt>
 File: Images/c6_1.jpg Graphic file (type jpg)
 <use Images/c6_1.jpg>
 Package pdftex.def Info: Images/c6_1.jpg  used on input line 338.
 (pdftex.def)             Requested size: 418.25368pt x 195.07487pt.
- [62
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.351 
-       <./Images/c6_1.jpg>] (Codes/register.js
-Underfull \vbox (badness 1681) has occurred while \output is active []
 
- [63])
-<Images/c6_2.jpg, id=1281, 963.6pt x 444.91219pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[62] (Codes/register.js [63 <./Images/c6_1.jpg>])
+<Images/c6_2.jpg, id=1679, 963.6pt x 444.91219pt>
 File: Images/c6_2.jpg Graphic file (type jpg)
 <use Images/c6_2.jpg>
 Package pdftex.def Info: Images/c6_2.jpg  used on input line 363.
 (pdftex.def)             Requested size: 418.25368pt x 193.11432pt.
- [64
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.377 
-       <./Images/c6_2.jpg>] (Codes/vc.jwt) [65]
-<Images/c6_3.jpg, id=1323, 963.6pt x 451.6875pt>
+ [64 <./Images/c6_2.jpg>] (Codes/vc.jwt
+Overfull \hbox (15.6599pt too wide) in paragraph at lines 23--24
+[][][][] 
+ []
+
+
+Overfull \hbox (70.84837pt too wide) in paragraph at lines 24--25
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Overfull \hbox (70.84837pt too wide) in paragraph at lines 25--26
+[][][][] 
+ []
+
+
+Overfull \hbox (8.76134pt too wide) in paragraph at lines 26--27
+[][][][] 
+ []
+
+)
+<Images/c6_3.jpg, id=1745, 963.6pt x 451.6875pt>
 File: Images/c6_3.jpg Graphic file (type jpg)
 <use Images/c6_3.jpg>
 Package pdftex.def Info: Images/c6_3.jpg  used on input line 392.
 (pdftex.def)             Requested size: 418.25368pt x 196.05515pt.
-) [66
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.248 \include{./Chapters/06/framework.tex}
-                                            <./Images/c6_3.jpg>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [66] [67 <./Images/c6_3.jpg>]
 \openout2 = `./Chapters/07/integration.aux'.
 
- (Chapters/07/integration.tex
+ (Chapters/07/integration.tex [68
+
+
+
+
+]
 Chapter 7.
-[67
+[69
 
-
-
-
-] [68] [69] [70]
-<Images/c6_4.jpg, id=1349, 950.80219pt x 453.94594pt>
+] [70] [71] [72]
+<Images/c6_4.jpg, id=1801, 950.80219pt x 453.94594pt>
 File: Images/c6_4.jpg Graphic file (type jpg)
 <use Images/c6_4.jpg>
 Package pdftex.def Info: Images/c6_4.jpg  used on input line 140.
 (pdftex.def)             Requested size: 418.25368pt x 199.68834pt.
- [71
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.146 
-       <./Images/c6_4.jpg>]
-<Images/c6_5.jpg, id=1354, 1067.99pt x 505.89pt>
+<Images/c6_5.jpg, id=1803, 1067.99pt x 505.89pt>
 File: Images/c6_5.jpg Graphic file (type jpg)
 <use Images/c6_5.jpg>
 Package pdftex.def Info: Images/c6_5.jpg  used on input line 152.
 (pdftex.def)             Requested size: 418.25368pt x 198.12225pt.
- [72
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.164 \newpage
-               <./Images/c6_5.jpg>]
-<Images/c6_6.jpg, id=1360, 950.04938pt x 449.42906pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[73 <./Images/c6_4.jpg>] [74 <./Images/c6_5.jpg>]
+<Images/c6_6.jpg, id=1812, 950.04938pt x 449.42906pt>
 File: Images/c6_6.jpg Graphic file (type jpg)
 <use Images/c6_6.jpg>
 Package pdftex.def Info: Images/c6_6.jpg  used on input line 171.
 (pdftex.def)             Requested size: 334.60422pt x 158.29002pt.
-<Images/c6_7.jpg, id=1361, 949.29657pt x 450.9347pt>
+<Images/c6_7.jpg, id=1813, 949.29657pt x 450.9347pt>
 File: Images/c6_7.jpg Graphic file (type jpg)
 <use Images/c6_7.jpg>
 Package pdftex.def Info: Images/c6_7.jpg  used on input line 179.
 (pdftex.def)             Requested size: 334.60422pt x 158.94418pt.
-<Images/c6_8.jpg, id=1362, 948.54375pt x 448.67625pt>
+<Images/c6_8.jpg, id=1814, 948.54375pt x 448.67625pt>
 File: Images/c6_8.jpg Graphic file (type jpg)
 <use Images/c6_8.jpg>
 Package pdftex.def Info: Images/c6_8.jpg  used on input line 189.
@@ -2090,23 +1863,13 @@ Package pdftex.def Info: Images/c6_8.jpg  used on input line 189.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[73
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.195 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.195 
-       <./Images/c6_6.jpg> <./Images/c6_7.jpg>]
-<Images/c6_9.jpg, id=1367, 948.54375pt x 446.41782pt>
+[75 <./Images/c6_6.jpg> <./Images/c6_7.jpg>]
+<Images/c6_9.jpg, id=1819, 948.54375pt x 446.41782pt>
 File: Images/c6_9.jpg Graphic file (type jpg)
 <use Images/c6_9.jpg>
 Package pdftex.def Info: Images/c6_9.jpg  used on input line 198.
 (pdftex.def)             Requested size: 334.60422pt x 157.47469pt.
-<Images/c6_10.jpg, id=1368, 950.80219pt x 447.92343pt>
+<Images/c6_10.jpg, id=1820, 950.80219pt x 447.92343pt>
 File: Images/c6_10.jpg Graphic file (type jpg)
 <use Images/c6_10.jpg>
 Package pdftex.def Info: Images/c6_10.jpg  used on input line 208.
@@ -2115,36 +1878,16 @@ Package pdftex.def Info: Images/c6_10.jpg  used on input line 208.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[74
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.215 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.6}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.215 
-       <./Images/c6_8.jpg> <./Images/c6_9.jpg>]
-<Images/c6_11.jpg, id=1373, 948.54375pt x 450.18187pt>
+[76 <./Images/c6_8.jpg> <./Images/c6_9.jpg>]
+<Images/c6_11.jpg, id=1827, 948.54375pt x 450.18187pt>
 File: Images/c6_11.jpg Graphic file (type jpg)
 <use Images/c6_11.jpg>
 Package pdftex.def Info: Images/c6_11.jpg  used on input line 218.
 (pdftex.def)             Requested size: 334.60422pt x 158.80247pt.
-) [75
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.7}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.250 \include{./Chapters/07/integration.tex}
-                                             
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.8}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.250 \include{./Chapters/07/integration.tex}
-                                              <./Images/c6_10.jpg> <./Images/c6_11.jpg>]
+) [77 <./Images/c6_10.jpg> <./Images/c6_11.jpg>]
 \openout2 = `./Chapters/08/conclusions.aux'.
 
- (Chapters/08/conclusions.tex [76
+ (Chapters/08/conclusions.tex [78
 
 
 
@@ -2152,94 +1895,86 @@ l.250 \include{./Chapters/07/integration.tex}
 ]
 Chapter 8.
 
-Overfull \hbox (12.22736pt too wide) in paragraph at lines 7--9
-\T1/lmr/m/n/12 By uti-liz-ing []De-cen-tral-ized Iden-ti-fier (DID), []Ver-i-fi-able Cre-den-tial (VC) and blockchain
+Package glossaries-extra Warning: Base acronym command \acrfull should not be used with new abbreviation definitions. Use \glsxtrfull instead on input line 3.
+
+
+Package glossaries-extra Warning: Base acronym command \acrlong should not be used with new abbreviation definitions. Use \glsxtrlong instead on input line 3.
+
+
+Package glossaries-extra Warning: Base acronym command \acrshort should not be used with new abbreviation definitions. Use \glsxtrshort instead on input line 3.
+
+
+Package glossaries-extra Warning: Base acronym command \acrfull should not be used with new abbreviation definitions. Use \glsxtrfull instead on input line 7.
+
+
+Package glossaries-extra Warning: Base acronym command \acrlong should not be used with new abbreviation definitions. Use \glsxtrlong instead on input line 7.
+
+
+Package glossaries-extra Warning: Base acronym command \acrshort should not be used with new abbreviation definitions. Use \glsxtrshort instead on input line 7.
+
+
+Package glossaries-extra Warning: Base acronym command \acrfull should not be used with new abbreviation definitions. Use \glsxtrfull instead on input line 7.
+
+
+Package glossaries-extra Warning: Base acronym command \acrlong should not be used with new abbreviation definitions. Use \glsxtrlong instead on input line 7.
+
+
+Package glossaries-extra Warning: Base acronym command \acrshort should not be used with new abbreviation definitions. Use \glsxtrshort instead on input line 7.
+
+) [79
+
+] [80]
+Overfull \hbox (18.27231pt too wide) in paragraph at lines 91--91
+\T1/lmtt/m/n/12 com / get -[] started / how -[] bitcoin -[] transactions -[] work/$[][] \T1/lmr/m/n/12 (-20) (vis-ited on 02/14/2024). 
  []
 
-[77
-
-]) [78]
-Overfull \hbox (15.84616pt too wide) in paragraph at lines 258--258
-\T1/lmr/m/n/12 sis of De-cen-tral-ized Iden-tity Ap-proaches''. In: \T1/lmr/m/it/12 IEEE Ac-cess \T1/lmr/m/n/12 10 (2022), pp. 92273^^U
- []
-
-
-Overfull \hbox (6.40509pt too wide) in paragraph at lines 258--258
-\T1/lmr/m/n/12 Blockchain: A Sur-vey''. In: \T1/lmr/m/it/12 2022 IEEE In-ter-na-tional Con-fer-ence on Blockchain
- []
-
-
-Overfull \hbox (22.89645pt too wide) in paragraph at lines 258--258
-\T1/lmtt/m/n/12 com / get -[] started / how -[] bitcoin -[] transactions -[] work/$[][] \T1/lmr/m/n/12 (vis-ited on 02/14/2024). 
- []
-
-
-Overfull \hbox (8.93933pt too wide) in paragraph at lines 258--258
-\T1/lmtt/m/n/12 com / cisco -[] fpie / decentralized -[] identities -[] demystified -[] 49a65159196c$[][]
- []
-
-[79
+[81
 
 
 
 ]
-Overfull \hbox (2.87144pt too wide) in paragraph at lines 258--258
-\T1/lmtt/m/n/12 en / developers / docs / consensus -[] mechanisms / pos$[][] \T1/lmr/m/n/12 (vis-ited on 02/14/2024). 
+Overfull \hbox (33.6234pt too wide) in paragraph at lines 91--91
+[]\T1/lmr/m/n/12 (-20) GeeksforGeeks. \T1/lmr/m/it/12 (-20) How does the Blockchain Work? \T1/lmr/m/sc/12 (-20) url\T1/lmr/m/n/12 (-20) : [][]$\T1/lmtt/m/n/12 https : / / www . geeksforgeeks .
  []
 
 
-Overfull \hbox (42.98714pt too wide) in paragraph at lines 258--258
-[]\T1/lmr/m/n/12 GeeksforGeeks. \T1/lmr/m/it/12 How does the Blockchain Work? \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . geeksforgeeks .
+Overfull \hbox (12.48187pt too wide) in paragraph at lines 91--91
+[]\T1/lmr/m/n/12 (-20) IBM. \T1/lmr/m/it/12 (-20) Blockchain Tech-nol-ogy\T1/lmr/m/n/12 (-20) . \T1/lmr/m/sc/12 (-20) url\T1/lmr/m/n/12 (-20) : [][]$\T1/lmtt/m/n/12 https : / / www . ibm . com / topics / blockchain$[][]
+ []
+
+[82]
+Overfull \hbox (23.88065pt too wide) in paragraph at lines 91--91
+[]\T1/lmr/m/it/12 (-20) Links Foun-da-tion\T1/lmr/m/n/12 (-20) . \T1/lmr/m/sc/12 (-20) url\T1/lmr/m/n/12 (-20) : [][]$\T1/lmtt/m/n/12 https : / / linksfoundation . com/$[][] \T1/lmr/m/n/12 (-20) (vis-ited on 03/06/2024). 
  []
 
 
-Overfull \hbox (15.83037pt too wide) in paragraph at lines 258--258
-[]\T1/lmr/m/n/12 IBM. \T1/lmr/m/it/12 Blockchain Tech-nol-ogy\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . ibm . com / topics / blockchain$[][]
+Overfull \hbox (10.50241pt too wide) in paragraph at lines 91--91
+[]\T1/lmr/m/it/12 (-20) Masca Doc-u-men-ta-tion\T1/lmr/m/n/12 (-20) . \T1/lmr/m/sc/12 (-20) url\T1/lmr/m/n/12 (-20) : [][]$\T1/lmtt/m/n/12 https : / / docs . masca . io/$[][] \T1/lmr/m/n/12 (-20) (vis-ited on 03/06/2024). 
  []
 
-[80]
-Overfull \hbox (24.83444pt too wide) in paragraph at lines 258--258
-\T1/lmr/m/it/12 In-for-ma-tion Net-work-ing (ICOIN)\T1/lmr/m/n/12 . 2021, pp. 508^^U510. \T1/lmr/m/sc/12 doi\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 10 . 1109 / ICOIN50884 .
- []
-
-
-Overfull \hbox (30.7787pt too wide) in paragraph at lines 258--258
-[]\T1/lmr/m/it/12 Links Foun-da-tion\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / linksfoundation . com/$[][] \T1/lmr/m/n/12 (vis-ited on 03/06/2024). 
- []
-
-
-Overfull \hbox (17.88968pt too wide) in paragraph at lines 258--258
-[]\T1/lmr/m/it/12 Masca Doc-u-men-ta-tion\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / docs . masca . io/$[][] \T1/lmr/m/n/12 (vis-ited on 03/06/2024). 
- []
-
-
-Overfull \hbox (2.94678pt too wide) in paragraph at lines 258--258
-[]\T1/lmr/m/n/12 Sheetal Sinha, Kumkum, and Ruchika Bathla. ``Im-ple-men-ta-tion of Blockchain
- []
-
-[81] [82] (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
+[83] [84] (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A94B183903128D7098E3638A54CB9824;14677.
+(rerunfilecheck)             Checksum: B9497BF6C31439FE1890317278E05F32;14677.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36015 strings out of 474541
- 646539 string characters out of 5744898
- 2215978 words of memory out of 5000000
- 57074 multiletter control sequences out of 15000+600000
- 623170 words of font info for 79 fonts, out of 8000000 for 9000
+ 47918 strings out of 474541
+ 928240 string characters out of 5744898
+ 2222978 words of memory out of 5000000
+ 68510 multiletter control sequences out of 15000+600000
+ 652585 words of font info for 243 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 138i,18n,135p,2354b,2301s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 138i,18n,135p,2416b,3015s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (95 pages, 3859809 bytes).
+Output written on thesis.pdf (99 pages, 3962565 bytes).
 PDF statistics:
- 1657 PDF objects out of 1728 (max. 8388607)
- 503 named destinations out of 1000 (max. 500000)
- 833 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2131 PDF objects out of 2487 (max. 8388607)
+ 548 named destinations out of 1000 (max. 500000)
+ 53581 words of extra memory for PDF output out of 61914 (max. 10000000)
 
