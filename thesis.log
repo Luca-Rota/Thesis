@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  13 MAR 2024 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  16 MAR 2024 13:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1273,11 +1273,11 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \glo@main@file=\write6
 \openout6 = `thesis.glo'.
 
-Package glossaries Info: Writing glossary file thesis.glo on input line 176.
+Package glossaries Info: Writing glossary file thesis.glo on input line 183.
 \glo@acronym@file=\write7
 \openout7 = `thesis.acn'.
 
-Package glossaries Info: Writing glossary file thesis.acn on input line 176.
+Package glossaries Info: Writing glossary file thesis.acn on input line 183.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
@@ -1285,7 +1285,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count496
 \@quotereset=\count497
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 181.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 188.
 (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1296,32 +1296,32 @@ LaTeX Warning: Unused global option(s):
 (thesis.aux (Chapters/01/introduction.aux) (Chapters/02/blockchain.aux) (Chapters/03/identity.aux) (Chapters/04/ssi.aux) (Chapters/05/security.aux) (Chapters/06/framework.aux) (Chapters/07/integration.aux) (Chapters/08/conclusions.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 181.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 181.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 188.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 188.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Info: Redefining \it@ocap on input line 181.
-LaTeX Info: Redefining \it@ccap on input line 181.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Info: Redefining \it@ocap on input line 188.
+LaTeX Info: Redefining \it@ccap on input line 188.
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count498
@@ -1341,13 +1341,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package TOPtesi Info: Margin width recalculation on input line 181.
+Package TOPtesi Info: Margin width recalculation on input line 188.
 Package TOPtesi Info: Before:
 (TOPtesi)             oddsidemargin  -0.56833pt
-(TOPtesi)             evensidemargin 35.28255pt on input line 181.
+(TOPtesi)             evensidemargin 35.28255pt on input line 188.
 Package TOPtesi Info: After:
 (TOPtesi)             oddsidemargin  19.34859pt
-(TOPtesi)             evensidemargin 15.36563pt on input line 181.
+(TOPtesi)             evensidemargin 15.36563pt on input line 188.
 \captionwidth=\dimen269
 \fullwidth=\dimen270
  (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\topcoman.sty
@@ -1357,7 +1357,7 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )) (thesis.glsdefs) (C:\Users\Luca\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-dictionary-English.dict
 Dictionary: glossaries-dictionary, Language: English 
 )
-Package hyperref Info: Link coloring ON on input line 181.
+Package hyperref Info: Link coloring ON on input line 188.
  (thesis.out) (thesis.out)
 \@outlinefile=\write8
 \openout8 = `thesis.out'.
@@ -1420,8 +1420,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 181.
-Package biblatex Info: Reference segment=0 on input line 181.
+Package biblatex Info: Reference section=0 on input line 188.
+Package biblatex Info: Reference segment=0 on input line 188.
 \c@lstlisting=\count504
  (Contents/title.tex
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1511,7 +1511,7 @@ l.2 I
 pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.203 \pagestyle
+l.210 \pagestyle
                 {plain} [3
 
 ] (thesis.toc [4
@@ -1659,7 +1659,7 @@ Underfull \vbox (badness 3492) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.233 \include{./Chapters/02/blockchain.tex}
+l.240 \include{./Chapters/02/blockchain.tex}
                                              <./Images/c2_4.png>] [16]
 \openout2 = `./Chapters/03/identity.aux'.
 
@@ -1772,7 +1772,7 @@ Package pdftex.def Info: Images/c3_4.png  used on input line 128.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.235 \include{./Chapters/03/identity.tex}
+l.242 \include{./Chapters/03/identity.tex}
                                            <./Images/c3_4.png>]
 \openout2 = `./Chapters/04/ssi.aux'.
 
@@ -1875,7 +1875,7 @@ Underfull \vbox (badness 2469) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.237 \include{./Chapters/04/ssi.tex}
+l.244 \include{./Chapters/04/ssi.tex}
                                       <./Images/c4_6.png>]
 \openout2 = `./Chapters/05/security.aux'.
 
@@ -1963,7 +1963,7 @@ Package pdftex.def Info: Images/c5_6.png  used on input line 210.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.239 \include{./Chapters/05/security.tex}
+l.246 \include{./Chapters/05/security.tex}
                                            <./Images/c5_6.png>]
 \openout2 = `./Chapters/06/framework.aux'.
 
@@ -1998,16 +1998,16 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 17
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (Codes/deploy.js
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 2.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1.
 ) [53] (Codes/registry.sol) [54] (Codes/mm.js [55]) [56] [57] (Codes/verifyVC.js)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [58] (Codes/cookie.js) [59] (Codes/createJWT.js) [60] (Codes/createVC.js) [61]
-<Images/c6_1.jpg, id=1249, 963.6pt x 453.19313pt>
+<Images/c6_1.jpg, id=1249, 963.6pt x 449.42906pt>
 File: Images/c6_1.jpg Graphic file (type jpg)
 <use Images/c6_1.jpg>
 Package pdftex.def Info: Images/c6_1.jpg  used on input line 338.
-(pdftex.def)             Requested size: 418.25368pt x 196.70868pt.
+(pdftex.def)             Requested size: 418.25368pt x 195.07487pt.
  [62
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2037,7 +2037,7 @@ Package pdftex.def Info: Images/c6_3.jpg  used on input line 392.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.241 \include{./Chapters/06/framework.tex}
+l.248 \include{./Chapters/06/framework.tex}
                                             <./Images/c6_3.jpg>]
 \openout2 = `./Chapters/07/integration.aux'.
 
@@ -2135,12 +2135,12 @@ Package pdftex.def Info: Images/c6_11.jpg  used on input line 218.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.243 \include{./Chapters/07/integration.tex}
+l.250 \include{./Chapters/07/integration.tex}
                                              
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.243 \include{./Chapters/07/integration.tex}
+l.250 \include{./Chapters/07/integration.tex}
                                               <./Images/c6_10.jpg> <./Images/c6_11.jpg>]
 \openout2 = `./Chapters/08/conclusions.aux'.
 
@@ -2159,22 +2159,22 @@ Overfull \hbox (12.22736pt too wide) in paragraph at lines 7--9
 [77
 
 ]) [78]
-Overfull \hbox (15.84616pt too wide) in paragraph at lines 251--251
+Overfull \hbox (15.84616pt too wide) in paragraph at lines 258--258
 \T1/lmr/m/n/12 sis of De-cen-tral-ized Iden-tity Ap-proaches''. In: \T1/lmr/m/it/12 IEEE Ac-cess \T1/lmr/m/n/12 10 (2022), pp. 92273^^U
  []
 
 
-Overfull \hbox (6.40509pt too wide) in paragraph at lines 251--251
+Overfull \hbox (6.40509pt too wide) in paragraph at lines 258--258
 \T1/lmr/m/n/12 Blockchain: A Sur-vey''. In: \T1/lmr/m/it/12 2022 IEEE In-ter-na-tional Con-fer-ence on Blockchain
  []
 
 
-Overfull \hbox (22.89645pt too wide) in paragraph at lines 251--251
+Overfull \hbox (22.89645pt too wide) in paragraph at lines 258--258
 \T1/lmtt/m/n/12 com / get -[] started / how -[] bitcoin -[] transactions -[] work/$[][] \T1/lmr/m/n/12 (vis-ited on 02/14/2024). 
  []
 
 
-Overfull \hbox (8.93933pt too wide) in paragraph at lines 251--251
+Overfull \hbox (8.93933pt too wide) in paragraph at lines 258--258
 \T1/lmtt/m/n/12 com / cisco -[] fpie / decentralized -[] identities -[] demystified -[] 49a65159196c$[][]
  []
 
@@ -2183,37 +2183,37 @@ Overfull \hbox (8.93933pt too wide) in paragraph at lines 251--251
 
 
 ]
-Overfull \hbox (2.87144pt too wide) in paragraph at lines 251--251
+Overfull \hbox (2.87144pt too wide) in paragraph at lines 258--258
 \T1/lmtt/m/n/12 en / developers / docs / consensus -[] mechanisms / pos$[][] \T1/lmr/m/n/12 (vis-ited on 02/14/2024). 
  []
 
 
-Overfull \hbox (42.98714pt too wide) in paragraph at lines 251--251
+Overfull \hbox (42.98714pt too wide) in paragraph at lines 258--258
 []\T1/lmr/m/n/12 GeeksforGeeks. \T1/lmr/m/it/12 How does the Blockchain Work? \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . geeksforgeeks .
  []
 
 
-Overfull \hbox (15.83037pt too wide) in paragraph at lines 251--251
+Overfull \hbox (15.83037pt too wide) in paragraph at lines 258--258
 []\T1/lmr/m/n/12 IBM. \T1/lmr/m/it/12 Blockchain Tech-nol-ogy\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . ibm . com / topics / blockchain$[][]
  []
 
 [80]
-Overfull \hbox (24.83444pt too wide) in paragraph at lines 251--251
+Overfull \hbox (24.83444pt too wide) in paragraph at lines 258--258
 \T1/lmr/m/it/12 In-for-ma-tion Net-work-ing (ICOIN)\T1/lmr/m/n/12 . 2021, pp. 508^^U510. \T1/lmr/m/sc/12 doi\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 10 . 1109 / ICOIN50884 .
  []
 
 
-Overfull \hbox (30.7787pt too wide) in paragraph at lines 251--251
+Overfull \hbox (30.7787pt too wide) in paragraph at lines 258--258
 []\T1/lmr/m/it/12 Links Foun-da-tion\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / linksfoundation . com/$[][] \T1/lmr/m/n/12 (vis-ited on 03/06/2024). 
  []
 
 
-Overfull \hbox (17.88968pt too wide) in paragraph at lines 251--251
+Overfull \hbox (17.88968pt too wide) in paragraph at lines 258--258
 []\T1/lmr/m/it/12 Masca Doc-u-men-ta-tion\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / docs . masca . io/$[][] \T1/lmr/m/n/12 (vis-ited on 03/06/2024). 
  []
 
 
-Overfull \hbox (2.94678pt too wide) in paragraph at lines 251--251
+Overfull \hbox (2.94678pt too wide) in paragraph at lines 258--258
 []\T1/lmr/m/n/12 Sheetal Sinha, Kumkum, and Ruchika Bathla. ``Im-ple-men-ta-tion of Blockchain
  []
 
@@ -2229,15 +2229,15 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36019 strings out of 474541
- 646525 string characters out of 5744898
+ 36015 strings out of 474541
+ 646539 string characters out of 5744898
  2215978 words of memory out of 5000000
- 57078 multiletter control sequences out of 15000+600000
+ 57074 multiletter control sequences out of 15000+600000
  623170 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 138i,18n,135p,2354b,2290s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 138i,18n,135p,2354b,2301s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Luca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (95 pages, 3842337 bytes).
+Output written on thesis.pdf (95 pages, 3859809 bytes).
 PDF statistics:
  1657 PDF objects out of 1728 (max. 8388607)
  503 named destinations out of 1000 (max. 500000)

@@ -21,7 +21,7 @@ const signupDataCellar = async () => {
     if (err.message === 'Timeout') {
       window.location.reload();
     } else {
-      setErrorMessage(`The sign up operation on DataCellar smart contract failed.`);
+      setErrorMessage('The sign up operation on DataCellar smart contract failed.');
       return false;
     }
   }

@@ -9,7 +9,7 @@ useEffect(() => {
 }, []);
 
 const handleLoggedIn = (auth, publicAddress, credentials) => {
-  document.cookie = `authToken=${JSON.stringify(auth)}; path=/; samesite=None; secure`;
+  document.cookie = 'authToken=${JSON.stringify(auth)}; path=/; samesite=None; secure';
   setAuthState({ publicAddress, name: credentials.name, surname: credentials.surname, email: credentials.email, profession: credentials.profession, country: credentials.country, region: credentials.region});
   navigate('/');
 };
