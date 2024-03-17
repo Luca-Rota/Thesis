@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  17 MAR 2024 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.6)  17 MAR 2024 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1283,17 +1283,17 @@ l.253
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-<Images/Cattura.PNG, id=818, 437.38406pt x 128.73094pt>
-File: Images/Cattura.PNG Graphic file (type png)
-<use Images/Cattura.PNG>
-Package pdftex.def Info: Images/Cattura.PNG  used on input line 280.
+<Images/c2_4.png, id=818, 437.38406pt x 128.73094pt>
+File: Images/c2_4.png Graphic file (type png)
+<use Images/c2_4.png>
+Package pdftex.def Info: Images/c2_4.png  used on input line 280.
 (pdftex.def)             Requested size: 418.25368pt x 123.101pt.
 ) [14
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.72 \include{./Chapters/02/blockchain.tex}
-                                            <./Images/Cattura.PNG>]
+                                            <./Images/c2_4.png>]
 \openout2 = `./Chapters/03/identity.aux'.
 
  (Chapters/03/identity.tex
@@ -1869,7 +1869,7 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  37014 strings out of 474541
- 672653 string characters out of 5744898
+ 672632 string characters out of 5744898
  2212978 words of memory out of 5000000
  58068 multiletter control sequences out of 15000+600000
  623170 words of font info for 79 fonts, out of 8000000 for 9000
