@@ -11,5 +11,4 @@ export const verifyVc = async (vc) => {
     return verifiedVC;
   } catch (err) {
     return false;
-  }
-}
+  }}

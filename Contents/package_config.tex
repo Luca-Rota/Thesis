@@ -7,8 +7,10 @@
     colorlinks,
     linkcolor={blue},
     citecolor={red},
-    urlcolor={black}
+    urlcolor={blue}
 }
+
+\setlength{\parindent}{1em}
 
 \titleformat{\subsubsection}[hang]{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
 \titlespacing*{\subsubsection}{0pt}{\baselineskip}{\baselineskip}
@@ -16,6 +18,8 @@
 \titlespacing*{\paragraph}{0pt}{\baselineskip}{\baselineskip} 
 
 \newcommand\fillin[1][4cm]{\makebox[#1]{\dotfill}} 
+
+\newcolumntype{d}{D{.}{.}{-1} } 
 
 \newcommand\blankpage{
   \null
@@ -39,7 +43,7 @@
   backgroundcolor=\color{lightgray},
   keywords={Promise, Error, Buffer, Resolver, EthrDID, PRIV_KEY, OWN_ADDRESS, typeof, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break, try, await},
   keywordstyle=\color{purple}\bfseries,
-  identifierstyle=\color{lightblue},
+  identifierstyle=\color{blue}\bfseries,
   sensitive=false,
   comment=[l]{//},
   morecomment=[s]{/*}{*/},
@@ -68,10 +72,8 @@
 
 \lstdefinelanguage{Solidity}{
   backgroundcolor=\color{lightgray},
-  keywords={pragma, contract, function, return, constructor, public, private, external, internal, payable, view, pure, event, emit},
+  keywords={pragma, mapping, modifier, contract, function, return, constructor, public, private, external, internal, payable, view, pure, event, emit},
   keywordstyle=\color{blue}\bfseries,
-  ndkeywords={address, uint, string, bool, mapping, struct, require, keccak256},
-  ndkeywordstyle=\color{darkgray}\bfseries,
   identifierstyle=\color{black},
   sensitive=false,
   comment=[l]{//},
@@ -92,7 +94,11 @@
   showspaces=false,       
   showtabs=false,                  
   tabsize=2,
-  frame=single
+  frame=single,
+  morekeywords=[2]{address, uint, string, bool, mapping, struct, require, keccak256},
+  keywordstyle=[2]\color{green}\bfseries,
+  morekeywords=[3]{isUserRegistered, registerUser, unregisterUser},
+  keywordstyle=[3]\color{purple}\bfseries 
 }
 
 \lstdefinelanguage{JWT}{

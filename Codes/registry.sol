@@ -1,12 +1,10 @@
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
 contract DataCellarRegistry {
     mapping(address => bool) private registeredUsers;
+    event UserRegistered(address indexed user);
     event UserUnregistered(address indexed user);
     modifier onlySelf(address _userAddress) {
-        require(
-            msg.sender == _userAddress,
-            "Can only perform action on yourself");
+        require(msg.sender == _userAddress, "Can only perform action on yourself");
         _;
     }
     modifier onlyUnregistered(address _userAddress) {
@@ -30,5 +28,4 @@ contract DataCellarRegistry {
     function isUserRegistered(address _userAddress) 
         external view returns (bool) {
         return registeredUsers[_userAddress];
-    }
-}
+    }}
