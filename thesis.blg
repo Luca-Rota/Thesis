@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'thesis.blg'
+[200] biber-MSWIN64:340> INFO - === 
+[286] Biber.pm:419> INFO - Reading 'thesis.bcf'
+[530] Biber.pm:979> INFO - Found 42 citekeys in bib section 0
+[559] Biber.pm:4419> INFO - Processing section 0
+[579] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[663] bibtex.pm:1713> INFO - LaTeX decoding ...
+[729] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[1265] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1265] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1265] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'it-IT'
+[1265] Biber.pm:4245> INFO - No sort tailoring available for locale 'it-IT'
+[1327] bbl.pm:660> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[1356] bbl.pm:763> INFO - Output to thesis.bbl
+[1357] Biber.pm:131> WARN - Duplicate entry key: 'businessreporter' in file 'references.bib', skipping ...
+[1357] Biber.pm:133> INFO - WARNINGS: 1

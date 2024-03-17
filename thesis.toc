@@ -33,100 +33,100 @@
 \contentsline {subsubsection}{Overview}{13}{subsection.2.4.2}%
 \contentsline {subsubsection}{Beacon Chain Impact}{13}{subsection.2.4.2}%
 \contentsline {subsubsection}{Transaction Mechanism}{13}{subsection.2.4.2}%
-\contentsline {subsubsection}{Proof of Stake}{14}{figure.2.4}%
+\contentsline {subsubsection}{Proof of Stake}{14}{subsection.2.4.2}%
 \contentsline {subsubsection}{Ethereum Cryptography}{14}{figure.2.4}%
 \contentsline {subsubsection}{Advantages and Limitations}{14}{figure.2.4}%
-\contentsline {chapter}{\numberline {3}Evolution of Identity}{16}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Pre-Digital Era}{16}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Origin of Identity}{16}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Early Documentation}{17}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Emergence of Digital Identity}{17}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}PINs and Passwords}{17}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Introduction of ARPANET and IP}{17}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}The Public Key Cryptography}{18}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}Shifting Identity Paradigms}{18}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Pitfalls of Centralized Identity}{18}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Emergence of Federated Identity}{20}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Evolution towards User-Centric Identity}{20}{subsection.3.3.3}%
-\contentsline {chapter}{\numberline {4}State of the Art of SSI}{22}{chapter.4}%
-\contentsline {section}{\numberline {4.1}History of Self-Sovereign Identity}{22}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Origins of SSI}{22}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}The Seven Laws of Identity}{22}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Modern Development}{23}{subsection.4.1.3}%
-\contentsline {section}{\numberline {4.2}Advantages and Principles}{24}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Advantages of Decentralized Identity }{24}{subsection.4.2.1}%
-\contentsline {subsubsection}{Advantages for Organizations}{24}{subsection.4.2.1}%
-\contentsline {subsubsection}{Advantages for Individuals}{24}{subsection.4.2.1}%
-\contentsline {subsubsection}{Advantages for Developers}{25}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Principles of SSI }{25}{subsection.4.2.2}%
-\contentsline {subsubsection}{Foundational Properties}{25}{subsection.4.2.2}%
-\contentsline {subsubsection}{Security Properties}{25}{subsection.4.2.2}%
-\contentsline {subsubsection}{Controllability Properties}{26}{subsection.4.2.2}%
-\contentsline {subsubsection}{Flexibility Properties}{26}{subsection.4.2.2}%
-\contentsline {subsubsection}{Sustainability Properties}{26}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Key Components of SSI}{26}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Decentralized Identifiers}{27}{subsection.4.3.1}%
-\contentsline {subsubsection}{Syntactic Components of DIDs}{27}{subsection.4.3.1}%
-\contentsline {subsubsection}{DID Document}{28}{figure.4.1}%
-\contentsline {subsubsection}{DID Resolution}{28}{figure.4.1}%
-\contentsline {subsection}{\numberline {4.3.2}Verifiable Credentials}{29}{subsection.4.3.2}%
-\contentsline {subsubsection}{Syntactic Components of VCs}{29}{subsection.4.3.2}%
-\contentsline {subsubsection}{Verifiable Presentations}{30}{figure.4.3}%
-\contentsline {subsubsection}{Zero-Knowledge Proof}{30}{figure.4.4}%
-\contentsline {subsection}{\numberline {4.3.3}Verifiable Data Registries}{31}{subsection.4.3.3}%
-\contentsline {subsubsection}{Blockchain as a Distributed Verifiable Data Registry}{31}{subsection.4.3.3}%
-\contentsline {subsubsection}{Distributed Hash Table in SSI}{31}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}Architecture of Decentralized Identity}{32}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}The Four Layers}{32}{subsection.4.4.1}%
-\contentsline {section}{\numberline {4.5}The SSI Trust Triangle}{34}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Key Actors of SSI}{34}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Workflow of Verifiable Exchange}{34}{subsection.4.5.2}%
-\contentsline {chapter}{\numberline {5}Cryptography and Cybersecurity Aspects}{36}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Cryptography behind SSI}{36}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Data Integrity in SSI}{36}{subsection.5.1.1}%
-\contentsline {subsubsection}{Proof Creation and Verification}{37}{subsection.5.1.1}%
-\contentsline {subsubsection}{Proof Data Model}{38}{figure.5.2}%
-\contentsline {subsection}{\numberline {5.1.2}Digital Signature using EdDSA}{38}{subsection.5.1.2}%
-\contentsline {subsubsection}{EdDSA Key Generation}{39}{subsection.5.1.2}%
-\contentsline {subsubsection}{EdDSA Signing}{39}{Item.29}%
-\contentsline {subsubsection}{EdDSA Verify Signature}{40}{Item.35}%
-\contentsline {section}{\numberline {5.2}Cybersecurity within SSI}{40}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Security in Blockchain and SSI}{40}{subsection.5.2.1}%
-\contentsline {subsubsection}{Security Features in Blockchain}{41}{subsection.5.2.1}%
-\contentsline {subsubsection}{Security Assessment of SSI}{41}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Potential Attacks on the SSI System}{42}{subsection.5.2.2}%
-\contentsline {subsubsection}{Fake Identity Attacks}{42}{subsection.5.2.2}%
-\contentsline {subsubsection}{Identity Theft Attacks}{43}{figure.5.4}%
-\contentsline {subsubsection}{DDoS Attacks}{44}{figure.5.5}%
-\contentsline {chapter}{\numberline {6}Design and Implementation}{45}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Framework Development Journey}{45}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Initial Research}{46}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Challenges and Failed Attempts}{47}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Final Choice}{47}{subsection.6.1.3}%
-\contentsline {section}{\numberline {6.2}Framework Main Components}{48}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Ethr-did and Other Libraries}{48}{subsection.6.2.1}%
-\contentsline {subsubsection}{Ethr-did Constructor}{49}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Ethereum and Smart Contracts}{50}{subsection.6.2.2}%
-\contentsline {subsubsection}{The Smart Contract}{51}{lstnumber.6.1.10}%
-\contentsline {subsection}{\numberline {6.2.3}MetaMask}{53}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}Verifiable Credentials and Limitations}{54}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Utilization and Challenges}{54}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Solution Exploration}{55}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Final Decision}{56}{subsection.6.3.3}%
-\contentsline {section}{\numberline {6.4}Application Functionality Analysis}{57}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Server Implementation}{58}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Access Process}{60}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6.4.3}Sign-Up Procedure}{61}{subsection.6.4.3}%
-\contentsline {subsection}{\numberline {6.4.4}Sign-In Mechanism}{63}{subsection.6.4.4}%
-\contentsline {chapter}{\numberline {7}Integration in a Real Project}{65}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Overview of Data Cellar}{65}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Initial Project Status}{66}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Development Environment}{66}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Offered Functionalities}{66}{subsection.7.2.2}%
-\contentsline {section}{\numberline {7.3}Integration Process}{67}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Final Application}{67}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Backend Implementation}{68}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Frontend Development}{69}{subsection.7.4.2}%
-\contentsline {subsubsection}{Home Page}{69}{subsection.7.4.2}%
-\contentsline {subsubsection}{Profile Page}{70}{figure.7.2}%
-\contentsline {chapter}{\numberline {8}Conclusions and Future Works}{74}{chapter.8}%
+\contentsline {chapter}{\numberline {3}Evolution of Identity}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Pre-Digital Era}{15}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Origin of Identity}{15}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Early Documentation}{16}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Emergence of Digital Identity}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}PINs and Passwords}{16}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Introduction of ARPANET and IP}{16}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}The Public Key Cryptography}{17}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Shifting Identity Paradigms}{17}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Pitfalls of Centralized Identity}{17}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Emergence of Federated Identity}{19}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Evolution towards User-Centric Identity}{19}{subsection.3.3.3}%
+\contentsline {chapter}{\numberline {4}State of the Art of SSI}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}History of Self-Sovereign Identity}{21}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Origins of SSI}{21}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}The Seven Laws of Identity}{21}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Modern Development}{22}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Advantages and Principles}{23}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Advantages of Decentralized Identity }{23}{subsection.4.2.1}%
+\contentsline {subsubsection}{Advantages for Organizations}{23}{subsection.4.2.1}%
+\contentsline {subsubsection}{Advantages for Individuals}{23}{subsection.4.2.1}%
+\contentsline {subsubsection}{Advantages for Developers}{24}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Principles of SSI }{24}{subsection.4.2.2}%
+\contentsline {subsubsection}{Foundational Properties}{24}{subsection.4.2.2}%
+\contentsline {subsubsection}{Security Properties}{24}{subsection.4.2.2}%
+\contentsline {subsubsection}{Controllability Properties}{25}{subsection.4.2.2}%
+\contentsline {subsubsection}{Flexibility Properties}{25}{subsection.4.2.2}%
+\contentsline {subsubsection}{Sustainability Properties}{25}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Key Components of SSI}{25}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Decentralized Identifiers}{26}{subsection.4.3.1}%
+\contentsline {subsubsection}{Syntactic Components of DIDs}{26}{subsection.4.3.1}%
+\contentsline {subsubsection}{DID Document}{27}{figure.4.1}%
+\contentsline {subsubsection}{DID Resolution}{27}{figure.4.1}%
+\contentsline {subsection}{\numberline {4.3.2}Verifiable Credentials}{28}{subsection.4.3.2}%
+\contentsline {subsubsection}{Syntactic Components of VCs}{28}{subsection.4.3.2}%
+\contentsline {subsubsection}{Verifiable Presentations}{29}{figure.4.3}%
+\contentsline {subsubsection}{Zero-Knowledge Proof}{29}{figure.4.4}%
+\contentsline {subsection}{\numberline {4.3.3}Verifiable Data Registries}{30}{subsection.4.3.3}%
+\contentsline {subsubsection}{Blockchain as a Distributed Verifiable Data Registry}{30}{subsection.4.3.3}%
+\contentsline {subsubsection}{Distributed Hash Table in SSI}{30}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Architecture of Decentralized Identity}{31}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}The Four Layers}{31}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}The SSI Trust Triangle}{33}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Key Actors of SSI}{33}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Workflow of Verifiable Exchange}{33}{subsection.4.5.2}%
+\contentsline {chapter}{\numberline {5}Cryptography and Cybersecurity Aspects}{35}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Cryptography behind SSI}{35}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Data Integrity in SSI}{35}{subsection.5.1.1}%
+\contentsline {subsubsection}{Proof Creation and Verification}{36}{subsection.5.1.1}%
+\contentsline {subsubsection}{Proof Data Model}{37}{figure.5.2}%
+\contentsline {subsection}{\numberline {5.1.2}Digital Signature using EdDSA}{37}{subsection.5.1.2}%
+\contentsline {subsubsection}{EdDSA Key Generation}{38}{subsection.5.1.2}%
+\contentsline {subsubsection}{EdDSA Signing}{38}{Item.29}%
+\contentsline {subsubsection}{EdDSA Verify Signature}{39}{Item.35}%
+\contentsline {section}{\numberline {5.2}Cybersecurity within SSI}{39}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Security in Blockchain and SSI}{39}{subsection.5.2.1}%
+\contentsline {subsubsection}{Security Features in Blockchain}{40}{subsection.5.2.1}%
+\contentsline {subsubsection}{Security Assessment of SSI}{40}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Potential Attacks on the SSI System}{41}{subsection.5.2.2}%
+\contentsline {subsubsection}{Fake Identity Attacks}{41}{subsection.5.2.2}%
+\contentsline {subsubsection}{Identity Theft Attacks}{42}{figure.5.4}%
+\contentsline {subsubsection}{DDoS Attacks}{43}{figure.5.5}%
+\contentsline {chapter}{\numberline {6}Design and Implementation}{44}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Framework Development Journey}{44}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Initial Research}{45}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Challenges and Failed Attempts}{46}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Final Choice}{46}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Framework Main Components}{47}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Ethr-did and Other Libraries}{47}{subsection.6.2.1}%
+\contentsline {subsubsection}{Ethr-did Constructor}{48}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Ethereum and Smart Contracts}{49}{subsection.6.2.2}%
+\contentsline {subsubsection}{The Smart Contract}{50}{lstnumber.6.1.10}%
+\contentsline {subsection}{\numberline {6.2.3}MetaMask}{52}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Verifiable Credentials and Limitations}{53}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Utilization and Challenges}{53}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Solution Exploration}{54}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Final Decision}{55}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Application Functionality Analysis}{56}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Server Implementation}{57}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Access Process}{59}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Sign-Up Procedure}{60}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}Sign-In Mechanism}{62}{subsection.6.4.4}%
+\contentsline {chapter}{\numberline {7}Integration in a Real Project}{64}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Overview of Data Cellar}{64}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Initial Project Status}{65}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Development Environment}{65}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Offered Functionalities}{65}{subsection.7.2.2}%
+\contentsline {section}{\numberline {7.3}Integration Process}{66}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Final Application}{66}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Backend Implementation}{67}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Frontend Development}{68}{subsection.7.4.2}%
+\contentsline {subsubsection}{Home Page}{68}{subsection.7.4.2}%
+\contentsline {subsubsection}{Profile Page}{69}{figure.7.2}%
+\contentsline {chapter}{\numberline {8}Conclusions and Future Works}{73}{chapter.8}%
