@@ -6,23 +6,23 @@ to a fundamental technology that revolutionizes the way information is recorded,
 
 \section{What is the Blockchain}
 
-The blockchain is a core technology that drives many decentralized systems offering transparency, trust and safety without having to have a central authority. It is 
-basically a distributed ledger that operates through the peer-to-peer \cite{9596538}, \cite{ibm_blockchain}. This section talks of the key components and architecture in 
+Blockchain is a core technology that drives many decentralized systems that offer transparency, trust and safety without having to have a central authority. It is 
+basically a distributed ledger that operates through the peer-to-peer network \cite{9596538}, \cite{ibm_blockchain}. This section talks of the key components and architecture of 
 blockchain, revealing its fundamental features and operating principles.
 
 \subsection{Core Elements of Blockchain}
 
-The blockchain comprises several key elements essential to its functionality:
+Blockchain comprises several key elements essential to its functionality:
 
 \begin{itemize}
-  \item \textbf{Blocks}: A block is a basic unit comprising of transactional data. Every block is securely connected to the previous one; this connection creates a chain 
-  of blocks. The transactions within a block are cryptographically secured; hence, immutability and integrity \cite{9596538}, \cite{ibm_blockchain}.
-  \item \textbf{Transactions}: Transactions are diverse interactions in the blockchain network. These interactions are not limited to the financial transfers only; any 
+  \item \textbf{Blocks}: A block is a basic unit comprising transactional data. Every block is securely connected to the previous one; this connection creates a chain 
+  of blocks. Transactions within a block are cryptographically secured; hence, immutability and integrity \cite{9596538}, \cite{ibm_blockchain}.
+  \item \textbf{Transactions}: Transactions are diverse interactions in the blockchain network. These interactions are not limited to financial transfers only; any 
   piece of valuable information can be considered as a transaction and diffused within the network \cite{9752154}, \cite{9036241}.
   \item \textbf{Decentralization}: Unlike centralized systems that depend on a single controlling authority, the blockchain is decentralized. It includes a web of 
   interdependent nodes, each replicating the distributed registry. Resilience, transparency and no single points of failure are guaranteed by decentralization \cite{9596538}, \cite{9752154}.
   \item \textbf{Consensus Mechanism}:  For verification and agreement of the state of a ledger, blockchain uses consensus mechanisms. The most common mechanism, \gls{pow}, 
-  requires miners to solve the complicated cryptographic puzzles in order to add new blocks on the chain. Consensus mechanisms ensure consensus among network participants 
+  requires miners to solve complicated cryptographic puzzles to add new blocks on the chain. Consensus mechanisms ensure consensus among network participants 
   to prevent attacks by malicious actors \cite{9596538}, \cite{9752154}.
 \end{itemize}
 
@@ -31,16 +31,16 @@ The blockchain comprises several key elements essential to its functionality:
 The structure of the system is carefully crafted to uphold its principles of decentralization, immutability and transparency;
 
 \begin{itemize}
-  \item \textbf{\gls{dlt}}: At the core of blockchain lies DLT, where all participants, in the network have access to a ledger of transactions. 
-  This shared ledger eliminates redundancy. Ensures that everyone has a trusted source of information across the network \cite{ibm_blockchain}, \cite{9752154}.
-  \item \textbf{Immutable Records}: One key feature of blockchain is its records immutability. Once a transaction is recorded on the ledger it cannot be. Tampered with. 
-  Any attempt to change a transaction requires adding an one preserving the integrity of data \cite{ibm_blockchain}.
-  \item \textbf{Smart Contracts}: Smart contracts are self executing contracts with predefined rules embedded within the blockchain. These contracts. Enforce agreements 
+  \item \textbf{\gls{dlt}}: At the core of blockchain lies DLT, where all participants in the network have access to a ledger of transactions. 
+  This shared ledger eliminates redundancy, ensures that everyone has a trusted source of information across the network \cite{ibm_blockchain}, \cite{9752154}.
+  \item \textbf{Immutable Records}: One key feature of blockchain is its record immutability. Once a transaction is recorded on the ledger it cannot be tampered with. 
+  Any attempt to change a transaction requires adding one that preserves the integrity of data \cite{ibm_blockchain}.
+  \item \textbf{Smart Contracts}: Smart contracts are self-executing contracts with predefined rules embedded within the blockchain. These contracts enforce agreements 
   between parties speeding up transaction processing and reducing reliance on intermediaries \cite{ibm_blockchain}, \cite{9036241}.
-  \item \textbf{Security Measures}:  Cryptography plays a role in ensuring security by protecting transactions from tampering and fraud. Private key pairs authenticate. 
-  Enable secure digital identity management. Additionally cryptographic hashing guarantees data integrity and confidentiality \cite{9596538}, \cite{9036241}.
-  \item \textbf{Peer-to-Peer Network}: The blockchain functions using a network architecture where participants can directly communicate and interact. This decentralized 
-  structure promotes trust and resilience since transactions are verified and validated through consensus, among distributed nodes \cite{9752154}, \cite{9036241}.
+  \item \textbf{Security Measures}: Cryptography plays a role in ensuring security by protecting transactions from tampering and fraud. Key pairs authentication 
+  enable secure digital identity management. In addition, cryptographic hashing guarantees data integrity and confidentiality \cite{9596538}, \cite{9036241}.
+  \item \textbf{Peer-to-Peer Network}: The blockchain functions using a network architecture in which participants can directly communicate and interact. This decentralized 
+  structure promotes trust and resilience since transactions are verified and validated through consensus among distributed nodes \cite{9752154}, \cite{9036241}.
 \end{itemize}
 
 \begin{figure}[h]  
@@ -61,24 +61,24 @@ we delve into the fundamental mechanisms of blockchain.
 \begin{enumerate}
     \item \textbf{Starting a Transaction:} In a network, users initiate transactions through their wallets. Each wallet has a pair of keys. A key, for starting transactions 
     and a private key for authentication \cite{9596538}.
-    \item \textbf{Creating Blocks:} As transactions take place they are grouped together into blocks of data. These blocks act as containers for recording details like 
+    \item \textbf{Creating Blocks:} As transactions occur, they are grouped together into blocks of data. These blocks act as containers for recording details like 
     asset movement participants involved and timestamps \cite{ibm_blockchain}.
     \item \textbf{Hashing:} Every block contains information and refers to the hash of the previous block. Secure hash functions like SHA 256 play a role in ensuring the 
-    integrity and immutability of transactions. Hashing allows each block to have a fingerprint making identification and verification simple \cite{ibm_blockchain} ,\cite{9036241}.
+    integrity and immutability of transactions. Hashing allows each block to have a fingerprint, making identification and verification simple \cite{ibm_blockchain} ,\cite{9036241}.
 \end{enumerate}
 
 \subsubsection{Consensus Mechanism}
 
 \begin{enumerate}
     \setcounter{enumi}{3}
-    \item \textbf{Verification Process:} When a transaction is initiated the information is sent to a network of distributed peer, to peer nodes. These nodes work together 
+    \item \textbf{Verification Process:} When a transaction is initiated the information is sent to a network of distributed peer to peer nodes. These nodes work together 
     to confirm the validity of transactions using consensus mechanisms \cite{9036241}, \cite{geeksforgeeks}.
-    \item \textbf{Formation of New Blocks:} Valid transactions are added to a \gls{mempool} where they wait to be included in a block. Miners, who are responsible 
+    \item \textbf{Formation of New Blocks:} Valid transactions are added to a \gls{mempool}, where they wait to be included in a block. Miners, who are responsible 
     for creating blocks solve cryptographic puzzles in order to mine blocks. This process, known as \gls{pow} requires resources and time \cite{9596538}, \cite{geeksforgeeks}.
     \item \textbf{Consensus Algorithm:} In order to add a block to the blockchain nodes must agree on its validity through consensus algorithms. The miner who successfully 
     creates a block is rewarded. Consensus algorithms ensure that all nodes are synchronized and in agreement, about the state of the blockchain \cite{geeksforgeeks}.
     \item \textbf{Blockchain Integrity:} The interconnected nature of blocks ensures the immutability and integrity of the blockchain. Each block references the hash value 
-    of its predecessor making it practically impossible to tamper with transactions without altering blocks \cite{9596538} ,\cite{9036241}.
+    of its predecessor, making it practically impossible to tamper with transactions without altering blocks \cite{9596538} ,\cite{9036241}.
 \end{enumerate}
 
 \begin{figure}[h]  
@@ -89,21 +89,21 @@ we delve into the fundamental mechanisms of blockchain.
 
 \subsection{Blockchain Benefits}
 
-Due to the execution process described above and its architecture, blockchain is able to offer many benefits in different areas:
+Due to the execution process described above and its architecture, blockchain offers many benefits in different areas:
 
 \begin{itemize}
-  \item \textbf{Greater Trust:} Blockchain helps establish trust across the network through utilizing the decentralized ledger, making sure that data is consistent and 
-  timely plus, it doesn’t require intermediaries \cite{9596538}. 
+  \item \textbf{Greater Trust:} Blockchain helps establish trust across the network by utilizing the decentralized ledger, ensuring that data is consistent and 
+  timely plus, it does not require intermediaries \cite{9596538}. 
   \item \textbf{Enhanced Security:} Blockchain's security features are designed to thwart tampering as well as cybercrime. The blockchain structures transactions as 
-  read-only data which is difficult to change and ensures that the data is protected even when it is in transit. Moreover, cryptography is used as a mechanism of 
-  verification and the cryptographic infrastructure is used to store and transmit secrets \cite{ibm_blockchain}.
-  \item \textbf{Time Savings:} The utilization of blockchain technology decreases greatly the processing time for transactions since they get completed within a quarter of 
+  read-only data which is difficult to change and ensures that the data is protected even when it is in transit. Moreover, cryptography is used as a verification mechanism 
+  and the cryptographic infrastructure is used to store and transmit secrets \cite{ibm_blockchain}.
+  \item \textbf{Time Savings:} The utilization of blockchain technology greatly decreases the processing time for transactions since they are completed within a quarter of 
   an hour due to the removal of the centralized authority that confirms \cite{ibm_blockchain}.
-  \item \textbf{Cost Savings:} The blockchain adjusts transaction procedure and lowers operational costs by the removal of intermediaries, as tasks are automated and there 
+  \item \textbf{Cost Savings:} The blockchain adjusts the transaction procedure and lowers operational costs by removing intermediaries, as tasks are automated and there 
   is lower duplication of activities through the usage of shared ledger \cite{9596538}, \cite{9036241}.
   \item \textbf{Efficiency Improvements:} The distributed architecture of blockchain increases system resilience, decreases processing costs, and removes the need for 
   centralized network control by distributing network operations thinly, facilitating faster settlements, and solving identity management issues \cite{9036241}.
-  \item \textbf{Transparency Enhancement:} A blockchain keeps a permanent record of transactions through which it delivers transparency, accountability and trust to the 
+  \item \textbf{Transparency Enhancement:} A blockchain keeps a permanent record of transactions through which it delivers transparency, accountability and trust to 
   network users via its chronological and transparent nature \cite{9036241}.
 \end{itemize}
 
@@ -111,8 +111,8 @@ Due to the execution process described above and its architecture, blockchain is
 
 \subsection{Types of Blockchains}
 
-The blockchain technology comes in various forms, each with unique characteristics that adapt to specific needs and application contexts Beyond the well-known public and 
-private blockchains, it's essential to recognize two other significant variants: hybrid chains and consortium chains.
+Blockchain technology comes in various forms, each with unique characteristics that adapt to specific needs and application contexts Beyond the well-known public and 
+private blockchains, it is essential to recognize two other significant variants: hybrid chains and consortium chains.
 
 \newpage
 
@@ -121,12 +121,12 @@ private blockchains, it's essential to recognize two other significant variants:
   This model provides a high degree of transparency though, it is susceptible to 51\% attacks. Its open nature fosters a distrustful environment, as no one individual or 
   entity is solely relied on for transaction validation \cite{9596538}, \cite{ibm_blockchain}.
   \item \textbf{Private Blockchain:} In contrast to public blockchains, private or permissioned (access is restricted to authorized entities) blockchains 
-  allow only a limited set of entities to access the network. This method is popular among situations that demand more of such features such as security as well as control 
-  where it gets applied in applications like financial transactions that also handle sensitive data. An access to the network is controlled by a single entity or by 
+  allow only a limited set of entities to access the network. This method is popular among situations that demand more features such as security as well as control 
+  where it is applied in applications like financial transactions that also handle sensitive data. Access to the network is controlled by a single entity or by 
   particular criteria \cite{9596538},\cite{9036241}.
- \item \textbf{Consortium Blockchain:} A consortium blockchain is governed by more than one organization or entity working together to ensure the distributed ledger. 
+ \item \textbf{Consortium Blockchain:} A consortium blockchain is governed by more than one organization or entity that works together to ensure the distributed ledger. 
   On the other hand, blockchains that are public or private, consortium blockchains are the only ones that give power to a chosen group of nodes to validate and record 
-  transactions. This model is suitable where several subjects need to work with data and processes together but they do not want or they cannot fully trust a unique 
+  transactions. This model is suitable where several subjects need to work with data and processes together but they do not want or cannot fully trust a unique 
   central entity \cite{ibm_blockchain}, \cite{9752154}.
 \end{itemize}
 
@@ -158,7 +158,7 @@ private blockchains, it's essential to recognize two other significant variants:
 \begin{itemize}
   \item \textbf{Hybrid Blockchain:} In addition to the previous ones mentioned above, a new type of blockchain, hybrid blockchains, has also emerged. They are described by the property of switching between different modes having different types of 
   operating systems, for example, public and private blockchains that suit specific needs. This approach provides a greater degree of flexibility and customization compared 
-  to conventional blockchain configurations; thereby, the actors have the option to decide the degree of decentralization and control that is suitable for them \cite{9596538}.
+  with conventional blockchain configurations; thereby, the actors have the option to decide the degree of decentralization and control that is suitable for them \cite{9596538}.
 \end{itemize}
 
 \subsection{Types of Consensus Mechanisms}
@@ -168,7 +168,7 @@ Blockchains also differ based on the type of consensus mechanism used. In the pr
 
 In general, the two main types of consensus mechanisms are: \gls{pow} and \gls{pos}. With \gls{pow} miners solve puzzles to add new blocks, which requires significant 
 computational resources and time \cite{9752154}, \cite{10037907}. This is elaborated further in Section \ref{subsec:bitcoin}. On the hand \gls{pos} assigns the right 
-to create blocks based on participants cryptocurrency holdings providing benefits such, as energy efficiency and scalability advantages. Further information,
+to create blocks based on participants cryptocurrency holdings, providing benefits such, as energy efficiency and scalability advantages. Further information,
 about PoS can be found in Section \ref{subsec:ethereum}. There are also other consensus mechanisms beyond \gls{pow} and \gls{pos}; refer to the table for further details.
 
 \renewcommand{\arraystretch}{1.3}
@@ -194,40 +194,40 @@ about PoS can be found in Section \ref{subsec:ethereum}. There are also other co
 \section{Bitcoin versus Ethereum}
 
 Bitcoin and Ethereum stand as two big giants in the blockchain technology area, and both of them possess their own characteristics and they make their own contributions to the ever-changing world of decentralized systems.
-This section takes a comparative approach between Bitcoin and Ethereum; analyzing their basic architectures, transaction mechanisms, consensus methods, cryptographic techniques, and what advantages and lacks they can offer.
+This section takes a comparative approach between Bitcoin and Ethereum; analyzing their basic architectures, transaction mechanisms, consensus methods, cryptographic techniques, and the advantages and lacks they can offer.
 
 \subsection{Bitcoin} \label{subsec:bitcoin}
 
 \subsubsection{Overview}
 
 Bitcoin, launched in 2008 by Satoshi Nakamoto, is a decentralized digital currency that is also accompanied by the great invention, the blockchain. It functions as a 
-peer-to-peer decentralized electronic payment system; it introduces a new way of executing business transactions and the security of data \cite{9129332}. Bitcoin is an open-source 
+peer-to-peer decentralized electronic payment system; it introduces a new way of executing business transactions and ensuring data security \cite{9129332}. Bitcoin is an open-source 
 and permissionless blockchain, allowing for involvement of anyone with the required hardware.
 
 \subsubsection{Transaction mechanism}
 
-When a user sends bitcoins, sender hashed addresses, recipient hashed addresses, transaction amount and fee. Digital signatures prove property rights and the transaction 
-is floated to the network, being submitted to the mempool for confirmation \cite{bitcoincom}. The mining being the process of validating transactions and so the miners pick transactions 
+When a user sends bitcoins, sender hashed addresses, recipient hashed addresses, transaction amount and fee are recorded. Digital signatures prove property rights and the transaction 
+is floated to the network, being submitted to the mempool for confirmation \cite{bitcoincom}. The mining being the process of validating transactions; therefore, miners pick transactions 
 from the \gls{mempool} in order to create new blocks by solving complex mathematical puzzles called \gls{pow} \cite{9129332}. The winner of the puzzle then 
 broadcasts their newly found block to the network. After a verification done by other network nodes, the block is added to the blockchain, thus finalizing the transaction.
 
 \subsubsection{Proof of Work}
 
 Bitcoin uses the \gls{pow} consensus algorithm to maintain agreement among network participants about the validity of transactions. The \gls{pow} was first 
-specified in the Hashcash paper \cite{9129332}. It requires the miners to search solutions of cryptographic puzzles consuming computational power. Through the cost of computation, the miners
+specified in the Hashcash paper \cite{9129332}. It requires miners to search for solutions of cryptographic puzzles consuming computational power. Through the cost of computation, miners
 establish their commitment to the security of the network as changing the blockchain will require enormous computational resources, hence, making fraudulent endeavors expensive.
 
 \subsubsection{Bitcoin Cryptography}
 
-Bitcoin use the \gls{sha2} for cryptographic hashing, which ensures irreversible and collision resistive attributes. This guarantees the data integrity of the 
+Bitcoin uses the \gls{sha2} for cryptographic hashing, which ensures irreversible and collision resistive attributes. This guarantees the data integrity of the 
 blockchain, which makes it impractical to tamper with transactions that are already in the database. Moreover, the Merkle Trees that Bitcoin natively uses for block data 
 encoding take security to the next level \cite{9129332}.
 
 \subsubsection{Unspent Transaction Output} 
 
-Bitcoin transactions are registered in the blockchain as \gls{utxo}s, which meaning constant fractions of bitcoins that are linked to certain owner. 
-This \gls{utxo} is pervasively distributed over the blockchain and represents ownership. It is subsequently used in other transactions too. Bitcoin balances are not stored in user 
-accounts but rather tracked through the \gls{utxo}s associated with their addresses \cite{bitcoincom}.
+Bitcoin transactions are registered in the blockchain as \gls{utxo}s, which meaning constant fractions of bitcoins that are linked to a certain owner. 
+This \gls{utxo} is pervasively distributed over the blockchain and represents ownership \cite{bitcoincom}. It is subsequently used in other transactions too. Bitcoin balances are not stored in user 
+accounts but rather tracked through the \gls{utxo}s associated with their addresses.
 
 \begin{figure}[h]  
   \centering
@@ -238,7 +238,7 @@ accounts but rather tracked through the \gls{utxo}s associated with their addres
 \subsubsection{Advantages and Limitations}
 
 Bitcoin is decentralized and provides encryption security that can be used to resist censorship, to ensure accessibility particularly on a global scale and to preserve integrity 
-of the data. Nevertheless, Bitcoin has such limitations as scalability problem, transaction throughput rate without the corresponding increase in the number of transactions 
+of the data. Nevertheless, Bitcoin has limitations such as the scalability problem, transaction throughput rate without the corresponding increase in the number of transactions 
 and undulatory acceptance and valuation. Furthermore, there are additional security concerns, such as the "51\% attack" and human error, which continue to plague the Bitcoin 
 ecosystem \cite{9129332}.
 
@@ -253,8 +253,8 @@ scalability, sustainability, as well as security.
 
 \subsubsection{Beacon Chain Impact}
 
-The introduction of the Beacon Chain revolutionized Ethereum's operating model \cite{ethereummerge}. It replaced the original execution layer (Mainnet) and introduced a new consensus layer, 
-the \gls{pos} which was a major improvement in terms of power consumption and the amount of energy consumed reduced from 99.95\%. Validators, staking their ETH, assumed the 
+The introduction of the Beacon Chain revolutionized Ethereum's operating model \cite{ethereummerge}. It replaced the original execution layer and introduced a new consensus layer, 
+the \gls{pos} which was a major improvement in terms of power consumption and the amount of energy consumed was reduced from 99.95\%. Validators, staking their ETH, assumed the 
 responsibility of block production and transaction validation, moving away from energy-intensive mining. This transition helped create a sustainable network 
 architecture as well as secure the information connections.
 

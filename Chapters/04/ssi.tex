@@ -316,10 +316,16 @@ revocation), and to the encryption and decryption of messages that are exchanged
 In the realm of decentralized identity management, the \gls{ssi} architecture operates on the basis of a trust triangle involving three primary actors: 
 Holder, Issuer and Verifier. Clearly, the role and interactions of these components are the determining factor in understanding the dynamics of decentralized identity systems.
 
+\begin{figure}[h]  
+  \centering
+  \includegraphics[width=1\textwidth]{Images/c4_6.png} 
+  \caption{Basic concept of W3C's VC.}
+\end{figure}
+
 \subsection{Key Actors of SSI}
 
 \begin{itemize}
-  \item \textbf{Holder}: The Holder is the identity of the individual user within the decentralized identity ecosystem. Equipped with a digital wallet application, the 
+  \item \textbf{Holder}: The Holder is the individual user within the decentralized identity ecosystem. Equipped with a digital wallet application, the 
   Holder generates their \gls{did}s. The \gls{did} acts as a unique identifier for the user and belongs to a digital wallet in which \gls{vc}s are stored. \gls{vc}s are 
   cryptographic attestations, which are issued by trusted parties, the Issuers \cite{dockio}.
   \item \textbf{Issuer}: Issuers are the organizations or entities that are responsible for verifying the identities of users and issuing \gls{vc}s. These 
@@ -329,12 +335,6 @@ Holder, Issuer and Verifier. Clearly, the role and interactions of these compone
   credentials by the Holder, the Verifier runs the public \gls{did} on the blockchain to confirm the credibility of the issuer. The verification of the cryptographic signatures 
   embedded within the credentials by the Verifier ensures that the presented information was not tampered with and originates from a trusted source.
 \end{itemize}
- 
-\begin{figure}[h]  
-  \centering
-  \includegraphics[width=1\textwidth]{Images/c4_6.png} 
-  \caption{Basic concept of W3C's VC.}
-\end{figure}
 
 \subsection{Workflow of Verifiable Exchange}
 
