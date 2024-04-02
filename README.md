@@ -13,6 +13,6 @@ React and JavaScript) with a robust foundation (built using NestJs), for a secur
 While the decentralized identities discussions keep on evolving, this thesis fits in the ongoing discourse, emphasizing the pivotal role of blockchain technology 
 in creating self-sovereign identity solutions and at the same time supports the commitment of Links Foundation's to digital innovation.
 
-Full thesis' summary: /summary.pdf
+Full thesis' summary: [Summary](summary.pdf)
 
-Thesis' presentation: /Luca_Rota_Thesis_Presentation.pdf
+Thesis' presentation: [Presentation](Luca_Rota_Thesis_Presentation.pdf)
